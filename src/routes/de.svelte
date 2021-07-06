@@ -98,7 +98,7 @@
 			<form action="https://formspree.io/f/mqkwlowj" method="POST">
 				<label>
 					Name
-					<input type="name" />
+					<input type="text" name="name"/>
 				</label>
 				<label>
 					E-Mailadresse
