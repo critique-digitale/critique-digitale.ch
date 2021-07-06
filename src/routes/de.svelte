@@ -1,7 +1,7 @@
 <header>
 	<nav>
 		<a href="https://critique-digitale.ch/de"
-			><img alt="Digitale Kritik" src="static/favicon.png" height="70" /></a
+			><img alt="Digitale Kritik" src="favicon.png" height="70" /></a
 		>
 		<ul>
 			<li><a href="#schedule">Programm</a></li>
