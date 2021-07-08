@@ -7,7 +7,7 @@
 			<li><a href="#program">Programme</a></li>
 			<li><a href="#participate">Participation</a></li>
 			<li><a href="#faq">FAQ</a></li>
-			<li><a href="#about">About de nous</a></li>
+			<li><a href="#about">A propos de nous</a></li>
 			<li>
 				🌍
 				<ul>
