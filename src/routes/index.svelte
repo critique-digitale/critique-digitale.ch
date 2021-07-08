@@ -97,7 +97,6 @@
 			>.
 		</p>
 		<h3>Submit topic</h3>
-		.
 		<section>
 			<form action="https://formspree.io/f/mqkwlowj" method="POST">
 				<label>
@@ -124,7 +123,7 @@
 		</header>
 
 		<details>
-			<summary>Is this event free of charge</summary>.
+			<summary>Is this event free of charge?</summary>
 			<p>Yes.</p>
 		</details>
 		<details>
