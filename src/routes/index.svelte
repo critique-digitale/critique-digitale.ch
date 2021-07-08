@@ -4,7 +4,7 @@
 			><img alt="Digital Criticism" src="favicon.png" height="70" /></a
 		>
 		<ul>
-			<li><a href="#schedule">Program</a></li>
+			<li><a href="#program">Program</a></li>
 			<li><a href="#participate">Participate</a></li>
 			<li><a href="#faq">FAQ</a></li>
 			<li><a href="#about">About Us</a></li>
@@ -54,8 +54,11 @@
 			</p>
 		</aside>
 	</section>
-	<article id="schedule">
-		<h3>program</h3>
+	<hr />
+	<article id="program">
+		<header>
+			<h2>Program</h2>
+		</header>
 		<table>
 			<thead>
 				<tr>
@@ -84,7 +87,7 @@
 	<hr />
 	<article id="participate">
 		<header>
-			<h2>participate</h2>
+			<h2>Participate</h2>
 		</header>
 		<h3>Subscribe</h3>
 		<p>
@@ -99,7 +102,7 @@
 			<form action="https://formspree.io/f/mqkwlowj" method="POST">
 				<label>
 					Name
-					<input type="text" name="name"/>
+					<input type="text" name="name" />
 				</label>
 				<label>
 					Email address

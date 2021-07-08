@@ -1,10 +1,10 @@
 <header>
 	<nav>
 		<a href="https://critique-digitale.ch/de"
-			><img alt="Digitale Kritik" src="favicon.png" height="70" /></a
+			><img alt="Digitale Kritik" src="../favicon.png" height="70" /></a
 		>
 		<ul>
-			<li><a href="#schedule">Programm</a></li>
+			<li><a href="#program">Programm</a></li>
 			<li><a href="#participate">Teilnehmen</a></li>
 			<li><a href="#faq">FAQ</a></li>
 			<li><a href="#about">Über uns</a></li>
@@ -54,8 +54,11 @@
 			</p>
 		</aside>
 	</section>
-	<article id="schedule">
-		<h3>Programm</h3>
+	<hr />
+	<article id="program">
+		<header>
+			<h2>Programm</h2>
+		</header>
 		<table>
 			<thead>
 				<tr>
@@ -98,7 +101,7 @@
 			<form action="https://formspree.io/f/mqkwlowj" method="POST">
 				<label>
 					Name
-					<input type="text" name="name"/>
+					<input type="text" name="name" />
 				</label>
 				<label>
 					E-Mailadresse

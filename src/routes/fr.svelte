@@ -1,10 +1,10 @@
 <header>
 	<nav>
 		<a href="https://critique-digitale.ch/fr"
-			><img alt="Critique numérique" src="favicon.png" height="70" /></a
+			><img alt="Critique numérique" src="../favicon.png" height="70" /></a
 		>
 		<ul>
-			<li><a href="#schedule">Programme</a></li>
+			<li><a href="#program">Programme</a></li>
 			<li><a href="#participate">Participation</a></li>
 			<li><a href="#faq">FAQ</a></li>
 			<li><a href="#about">About de nous</a></li>
@@ -28,24 +28,38 @@
 		<aside>
 			<h3>Sujet</h3>
 			<p>
-                Les sciences humaines et sociales - notamment au sein des ‘digital studies’ et des ‘digital humanities’ - développent une réflexion méthodologique et critique pour analyser le ‘tournant numérique’ et en comprendre les implications, à la fois pour la recherche et pour la société dans son ensemble. Toutefois, l’échange sur ces questions au-delà des barrières disciplinaires est resté jusqu’ici limité.
+				Les sciences humaines et sociales - notamment au sein des ‘digital studies’ et des ‘digital
+				humanities’ - développent une réflexion méthodologique et critique pour analyser le
+				‘tournant numérique’ et en comprendre les implications, à la fois pour la recherche et pour
+				la société dans son ensemble. Toutefois, l’échange sur ces questions au-delà des barrières
+				disciplinaires est resté jusqu’ici limité.
 			</p>
 		</aside>
 		<aside>
 			<h3>Objectif</h3>
 			<p>
-				La manifestation, Unconference ‘Critique digitale’, s’adresse aux expert·e·s des mondes universitaires et professionnels des sciences humaines et sociales, ainsi que des sciences des données. L’objectif est d’échanger pendant deux jours sur les enjeux et les méthodes de la critique du numérique et les nouveaux régimes de savoir du XXIe siècle.
+				La manifestation, Unconference ‘Critique digitale’, s’adresse aux expert·e·s des mondes
+				universitaires et professionnels des sciences humaines et sociales, ainsi que des sciences
+				des données. L’objectif est d’échanger pendant deux jours sur les enjeux et les méthodes de
+				la critique du numérique et les nouveaux régimes de savoir du XXIe siècle.
 			</p>
 		</aside>
 		<aside>
 			<h3>Format</h3>
 			<p>
-                Le format choisi est une « unconference » en ligne: un format de manifestation qui favorise les échanges informels, la participation et la mise en réseau. Les thèmes des différentes séances seront décidées par les participant.e.s en présence (voir par exemple le concept de BarCamp). Les discussions se dérouleront en sessions parallèles, et seront restituées sous la forme de comptes rendus collectifs.
+				Le format choisi est une « unconference » en ligne: un format de manifestation qui favorise
+				les échanges informels, la participation et la mise en réseau. Les thèmes des différentes
+				séances seront décidées par les participant.e.s en présence (voir par exemple le concept de
+				BarCamp). Les discussions se dérouleront en sessions parallèles, et seront restituées sous
+				la forme de comptes rendus collectifs.
 			</p>
 		</aside>
 	</section>
-	<article id="programme">
-		<h3>Programme</h3>
+	<hr />
+	<article id="program">
+		<header>
+			<h2>Programme</h2>
+		</header>
 		<table>
 			<thead>
 				<tr>
@@ -74,7 +88,7 @@
 	<hr />
 	<article id="participer">
 		<header>
-			<h2>participer</h2>
+			<h2>Participer</h2>
 		</header>
 		<h3>S'inscrire</h3>
 		<p>
@@ -83,12 +97,13 @@
 				>lien</a
 			>.
 		</p>
-		<h3>Soumettre un sujet</h3>.
+		<h3>Soumettre un sujet</h3>
+		.
 		<section>
 			<form action="https://formspree.io/f/mqkwlowj" method="POST">
 				<label>
 					Nom
-					<input type="text" name="name"/>
+					<input type="text" name="name" />
 				</label>
 				<label>
 					Adresse électronique
@@ -106,7 +121,8 @@
 	<hr />
 	<article id="faq">
 		<header>
-			<h2>Frequently Asked Questions</h2> (Questions fréquemment posées)
+			<h2>Frequently Asked Questions</h2>
+			 (Questions fréquemment posées)
 		</header>
 
 		<details>
@@ -130,8 +146,8 @@
 		<h3>Commission</h3>
 		<p>
 			dhCenter UNIL-EPFL, Programme Doctoral en Études Numériques (PDEN), Digital Humanities at the.
-			Walter Benjamin Kolleg de l'université de Berne, infoclio.ch, Digital Humanities Lab université de.
-			Bâle
+			Walter Benjamin Kolleg de l'université de Berne, infoclio.ch, Digital Humanities Lab
+			université de. Bâle
 		</p>
 	</article>
 </main>
