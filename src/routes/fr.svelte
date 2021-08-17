@@ -122,7 +122,7 @@
 	<article id="faq">
 		<header>
 			<h2>Frequently Asked Questions</h2>
-			 (Questions fréquemment posées)
+			(Questions fréquemment posées)
 		</header>
 
 		<details>

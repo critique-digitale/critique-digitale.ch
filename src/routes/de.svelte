@@ -38,9 +38,9 @@
 		<aside>
 			<h3>Ziel</h3>
 			<p>
-				Ziel der Veranstaltung Unconference 'Digitale Kritik', ist es, akademische wie auch fachliche
-				Expert*innen verschiedener geistes- und sozialwissenschaftlicher Disziplinen sowie aus den
-				Data Science einzuladen, um sich zwei Tage lang dem digitalen Wandel und den neuen
+				Ziel der Veranstaltung Unconference 'Digitale Kritik', ist es, akademische wie auch
+				fachliche Expert*innen verschiedener geistes- und sozialwissenschaftlicher Disziplinen sowie
+				aus den Data Science einzuladen, um sich zwei Tage lang dem digitalen Wandel und den neuen
 				Wissensregimen des 21. Jahrhunderts kritisch anzunehmen.
 			</p>
 		</aside>
@@ -59,9 +59,9 @@
 		<header>
 			<h2>Programm</h2>
 		</header>
-		
+
 		<!-- Probably better to create two tables (for each day) -->
-		
+
 		<table>
 			<thead>
 				<tr>
@@ -74,10 +74,11 @@
 			<tbody>
 				<tr>
 					<td>08:45</td>
-					<td>On-boarding BigBlueButton
-					<br/>Provided by <a href="https://www.ch-open.ch/">CH-Open</a>
+					<td
+						>On-boarding BigBlueButton
+						<br />Provided by <a href="https://www.ch-open.ch/">CH-Open</a>
 					</td>
-					<td></td>
+					<td />
 					<td />
 				</tr>
 				<tr>
@@ -86,65 +87,66 @@
 					<td />
 					<td />
 				</tr>
-				
+
 				<tr>
 					<td>10:00</td>
 					<td><a href="LINK-TO-HOWTO__#pitching">Pitching-Session</a></td>
 					<td />
 					<td />
 				</tr>
-				
+
 				<tr>
 					<td>11:00</td>
-					<td>Keynote by <a href="LINK-TO-KEYNOTE1">Nathalie Pignard Cheynel</a>
-					<br/>Voting in progress
+					<td
+						>Keynote by <a href="LINK-TO-KEYNOTE1">Nathalie Pignard Cheynel</a>
+						<br />Voting in progress
 					</td>
-					<td></td>
+					<td />
 					<td />
 				</tr>
 				<tr>
 					<td>12:00</td>
 					<td>Presentation of program &amp; lunch break</td>
-					<td></td>
+					<td />
 					<td />
 				</tr>
 				<tr>
 					<td>13:30</td>
 					<td>Panels I</td>
-					<td></td>
+					<td />
 					<td />
 				</tr>
 				<tr>
 					<td>14:15</td>
 					<td>Chat-roulette &amp; break</td>
-					<td></td>
+					<td />
 					<td />
 				</tr>
 				<tr>
 					<td>15:00</td>
 					<td>Panels II</td>
-					<td></td>
+					<td />
 					<td />
 				</tr>
-				
+
 				<tr>
 					<td>15:45</td>
 					<td>Panels III</td>
-					<td></td>
+					<td />
 					<td />
 				</tr>
-				
+
 				<tr>
 					<td>16:30</td>
 					<td>Break</td>
-					<td></td>
+					<td />
 					<td />
 				</tr>
-				
+
 				<tr>
 					<td>17:00</td>
 					<td>Keynote by <a href="LINK-TO-KEYNOTE2">Mar Hicks</a></td>
-					<td></td>
+					<td />
 					<td />
 				</tr>
 			</tbody>
