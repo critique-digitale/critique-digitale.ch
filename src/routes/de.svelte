@@ -1,3 +1,7 @@
+<script lang="ts">
+	import Logos from '../components/Logos.svelte';
+</script>
+
 <header>
 	<nav>
 		<a href="https://critique-digitale.ch/de"
@@ -215,4 +219,5 @@
 			Basel
 		</p>
 	</article>
+	<Logos />
 </main>

@@ -1,3 +1,7 @@
+<script lang="ts">
+	import Logos from '../components/Logos.svelte';
+</script>
+
 <header>
 	<nav>
 		<a href="https://critique-digitale.ch/fr"
@@ -150,4 +154,5 @@
 			université de. Bâle
 		</p>
 	</article>
+	<Logos />
 </main>
