@@ -6,11 +6,13 @@
 	</aside>
 	<aside>
 		<figure>
-			<img alt="University of Berne" src="logos/Unibe_Logo_16pt_RGB_201807.png" />
+			<img alt="Universität Bern" src="logos/Unibe_Logo_16pt_RGB_201807.png" />
 		</figure>
 	</aside>
 	<aside>
-		<p>logo 3</p>
+		<figure>
+			<img alt="Université de Genève" src="logos/UNIGE50.jpeg" />
+		</figure>
 	</aside>
 	<aside>
 		<p>logo 4</p>
