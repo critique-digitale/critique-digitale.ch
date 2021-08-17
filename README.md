@@ -1,24 +1,14 @@
-# create-svelte
+# critique-digitale.ch
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
+## Getting started
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
+Install [Node](https://nodejs.org/) and install all dependencies
 
 ```bash
-# create a new project in the current directory
-npm init svelte@next
-
-# create a new project in my-app
-npm init svelte@next my-app
+npm install
 ```
 
-> Note: the `@next` is temporary
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+To start a development server
 
 ```bash
 npm run dev
@@ -27,12 +17,31 @@ npm run dev
 npm run dev -- --open
 ```
 
+To change the layout see [MVP.css](https://andybrewer.github.io/mvp/). To add dynamic functionality see [SvelteKit](https://kit.svelte.dev/docs).
+
+To check, lint, and format the code run
+
+```bash
+npm run check
+npm run lint
+npm run format
+```
+
 ## Building
 
-Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:
+GitHub automatically deploys the dev-branch to <https://dev.critique-digitale.ch/> which takes at most 3 minutes and is powered by [Cloudflare Pages](https://pages.cloudflare.com/). If you want to build locally or preview run
 
 ```bash
 npm run build
+
+# or preview the built app
+npm run preview
 ```
 
-> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.
+> `npm run preview` should _not_ be used to serve your app in production.
+
+## Documentation
+
+- [Cloudflare Pages](https://pages.cloudflare.com/)
+- [MVP.css](https://andybrewer.github.io/mvp/)
+- [SvelteKit](https://kit.svelte.dev/docs)
