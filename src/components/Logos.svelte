@@ -15,9 +15,13 @@
 		</figure>
 	</aside>
 	<aside>
-		<p>logo 4</p>
+		<figure>
+			<img alt="DHLab" src="logos/dhlab-logo-amber.png" />
+		</figure>
 	</aside>
 	<aside>
-		<p>logo 5</p>
+		<figure>
+			<img alt="University of Basel" src="logos/uni-basel-logo-ogtag.png" />
+		</figure>
 	</aside>
 </section>
