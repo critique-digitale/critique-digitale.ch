@@ -11,7 +11,7 @@
 	</aside>
 	<aside>
 		<figure>
-			<img alt="Université de Genève" src="logos/UNIGE50.jpeg" />
+			<img alt="Université de Genève" src="logos/UNIGE70.gif" />
 		</figure>
 	</aside>
 	<aside>
