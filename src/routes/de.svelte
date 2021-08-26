@@ -5,7 +5,7 @@
 <header>
 	<nav>
 		<a href="https://critique-digitale.ch/de"
-			><img alt="Digitale Kritik" src="../favicon.png" height="70" /></a
+			><img alt="Digitale Kritik" src="../images/digital-criticism-logo-text-and-graphics-dc.svg" height="70" /></a
 		>
 		<ul>
 			<li><a href="#program">Programm</a></li>
