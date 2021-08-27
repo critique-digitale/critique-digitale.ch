@@ -12,10 +12,10 @@
 			/></a
 		>
 		<ul>
-			<li><a href="#program">Programm</a></li>
-			<li><a href="#participate">Teilnehmen</a></li>
-			<li><a href="#faq">FAQ</a></li>
-			<li><a href="#about">Über uns</a></li>
+			<li><a href="#program" class="secondary-font">Programm</a></li>
+			<li><a href="#participate" class="secondary-font">Teilnehmen</a></li>
+			<li><a href="#faq" class="secondary-font">FAQ</a></li>
+			<li><a href="#about" class="secondary-font">Über uns</a></li>
 			<li>
 				🌍
 				<ul>
