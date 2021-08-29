@@ -8,7 +8,7 @@
 			><img
 				alt="Critique numérique"
 				src="../images/digital-criticism-logo-text-and-graphics-dc.svg"
-				height="70"
+				width="100%"
 			/></a
 		>
 		<ul>
