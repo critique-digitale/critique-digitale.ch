@@ -15,8 +15,8 @@
 			<li><a href="#concept" class="secondary-font">Concept</a></li>
 			<li><a href="#programme" class="secondary-font">Programme</a></li>
 			<li><a href="#organisation" class="secondary-font">Organisation</a></li>
-			<li><a href="/fr">🇫🇷</a></li>
-			<li><a href="/de">🇩🇪</a></li>
+			<li><a href="/de">DE</a></li>
+			<li><a href="/fr">FR</a></li>
 		</ul>
 	</nav>
 	<h1>Unconference 'Digital Criticism'</h1>
