@@ -12,17 +12,11 @@
 			/></a
 		>
 		<ul>
-			<li><a href="#program" class="secondary-font">Programme</a></li>
-			<li><a href="#participate" class="secondary-font">Participation</a></li>
-			<li><a href="#faq" class="secondary-font">FAQ</a></li>
-			<li><a href="#about" class="secondary-font">A propos de nous</a></li>
-			<li>
-				🌍
-				<ul>
-					<li><a href="/">🇬🇧</a></li>
-					<li><a href="/de">🇩🇪</a></li>
-				</ul>
-			</li>
+			<li><a href="#concept" class="secondary-font">Concept</a></li>
+			<li><a href="#programme" class="secondary-font">Programme</a></li>
+			<li><a href="#organisation" class="secondary-font">Organisation</a></li>
+			<li><a href="/">🇬🇧</a></li>
+			<li><a href="/de">🇩🇪</a></li>
 		</ul>
 	</nav>
 	<h1>Unconférence 'Critique numérique'</h1>
@@ -32,42 +26,28 @@
 	</p>
 </header>
 <main>
-	<section id="unconference">
-		<aside>
-			<h3>Sujet</h3>
-			<p>
-				Les sciences humaines et sociales - notamment au sein des ‘digital studies’ et des ‘digital
-				humanities’ - développent une réflexion méthodologique et critique pour analyser le
-				‘tournant numérique’ et en comprendre les implications, à la fois pour la recherche et pour
-				la société dans son ensemble. Toutefois, l’échange sur ces questions au-delà des barrières
-				disciplinaires est resté jusqu’ici limité.
-			</p>
-		</aside>
-		<aside>
-			<h3>Objectif</h3>
-			<p>
-				La manifestation, Unconference ‘Critique digitale’, s’adresse aux expert·e·s des mondes
-				universitaires et professionnels des sciences humaines et sociales, ainsi que des sciences
-				des données. L’objectif est d’échanger pendant deux jours sur les enjeux et les méthodes de
-				la critique du numérique et les nouveaux régimes de savoir du XXIe siècle.
-			</p>
-		</aside>
-		<aside>
-			<h3>Format</h3>
-			<p>
-				Le format choisi est une « unconference » en ligne: un format de manifestation qui favorise
-				les échanges informels, la participation et la mise en réseau. Les thèmes des différentes
-				séances seront décidées par les participant.e.s en présence (voir par exemple le concept de
-				BarCamp). Les discussions se dérouleront en sessions parallèles, et seront restituées sous
-				la forme de comptes rendus collectifs.
-			</p>
-		</aside>
-	</section>
+	<article id="concept">
+		<header>
+			<h2>Concept</h2>
+		</header>
+
+		<h3>Intro & Objectifs</h3>
+		<p>bla</p>
+
+		<h3>Qu'est-ce qu'une unconference</h3>
+		<p>bla</p>
+	</article>
+	<section><a href="#home" class="secondary-font">⇧ Retourner</a></section>
 	<hr />
-	<article id="program">
+	<article id="programme">
 		<header>
 			<h2>Programme</h2>
 		</header>
+
+		<h3>Keynotes</h3>
+		<p>bla</p>
+
+		<h3>Programme</h3>
 		<table>
 			<thead>
 				<tr>
@@ -93,46 +73,28 @@
 			</tbody>
 		</table>
 	</article>
+	<section><a href="#home" class="secondary-font">⇧ Retourner</a></section>
 	<hr />
-	<article id="participer">
+	<article id="organisation">
 		<header>
-			<h2>Participer</h2>
+			<h2>Organisation</h2>
 		</header>
-		<h3>S'inscrire</h3>
+
+		<h3>Inscription</h3>
 		<p>
 			Inscrivez-vous gratuitement à cette <a
 				href="https://www.infoclio.ch/de/unconference-digital-critique-information-list-liste-dinformations-informationsliste"
 				>lien</a
 			>.
 		</p>
-		<h3>Soumettre un sujet</h3>
-		.
-		<section>
-			<form action="https://formspree.io/f/mqkwlowj" method="POST">
-				<label>
-					Nom
-					<input type="text" name="name" />
-				</label>
-				<label>
-					Adresse électronique
-					<input type="email" name="_replyto" />
-				</label>
-				<label>
-					Sujet suggéré
-					<textarea name="topic" />
-				</label>
-				<!-- vos autres champs de formulaire vont ici -->
-				<button type="submit">submit</button>
-			</form>
-		</section>
-	</article>
-	<hr />
-	<article id="faq">
-		<header>
-			<h2>Frequently Asked Questions</h2>
-			(Questions fréquemment posées)
-		</header>
 
+		<h3>Procédures de lancement et de vote</h3>
+		<p>bla</p>
+
+		<h3>Langues</h3>
+		<p>bla</p>
+
+		<h3>Frequently Asked Questions (Questions fréquemment posées)</h3>
 		<details>
 			<summary>Cet événement est-il gratuit</summary>.
 			<p>Oui.</p>
@@ -142,21 +104,20 @@
 			<p>XYZ.</p>
 		</details>
 	</article>
-
+	<section><a href="#home" class="secondary-font">⇧ Retourner</a></section>
 	<hr />
-	<article id="about">
-		<header>
-			<h2>A propos de nous</h2>
-		</header>
-
-		<h3>Comité</h3>
-		<p>XYZ</p>
-		<h3>Commission</h3>
-		<p>
-			dhCenter UNIL-EPFL, Programme Doctoral en Études Numériques (PDEN), Digital Humanities at the.
-			Walter Benjamin Kolleg de l'université de Berne, infoclio.ch, Digital Humanities Lab
-			université de. Bâle
-		</p>
-	</article>
-	<Logos />
 </main>
+<footer>
+	<header>
+		<h2>A propos de nous</h2>
+	</header>
+	<!-- <p>
+		dhCenter UNIL-EPFL, Programme Doctoral en Études Numériques (PDEN), Digital Humanities at the.
+		Walter Benjamin Kolleg of the University of Bern, infoclio.ch, Digital Humanities Lab University
+		of Basel
+	</p> -->
+	<Logos />
+	<h3>Contact</h3>
+	<p><a href="mailto:info@critique-digitale.ch">info@critique-digitale.ch</a></p>
+	<section><a href="#home" class="secondary-font">⇧ Back up</a></section>
+</footer>

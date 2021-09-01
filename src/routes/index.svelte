@@ -2,7 +2,7 @@
 	import Logos from '../components/Logos.svelte';
 </script>
 
-<header>
+<header id="home">
 	<nav>
 		<a href="https://critique-digitale.ch"
 			><img
@@ -15,13 +15,8 @@
 			<li><a href="#concept" class="secondary-font">Concept</a></li>
 			<li><a href="#programme" class="secondary-font">Programme</a></li>
 			<li><a href="#organisation" class="secondary-font">Organisation</a></li>
-			<li>
-				🌍
-				<ul>
-					<li><a href="/fr">🇫🇷</a></li>
-					<li><a href="/de">🇩🇪</a></li>
-				</ul>
-			</li>
+			<li><a href="/fr">🇫🇷</a></li>
+			<li><a href="/de">🇩🇪</a></li>
 		</ul>
 	</nav>
 	<h1>Unconference 'Digital Criticism'</h1>
@@ -36,12 +31,13 @@
 			<h2>Concept</h2>
 		</header>
 
-		<h3>Intro & Objectifs</h3>
+		<h3>Intro & Goals</h3>
 		<p>bla</p>
 
 		<h3>What is an unconference</h3>
 		<p>bla</p>
 	</article>
+	<section><a href="#home" class="secondary-font">⇧ Back up</a></section>
 	<hr />
 	<article id="program">
 		<header>
@@ -77,6 +73,7 @@
 			</tbody>
 		</table>
 	</article>
+	<section><a href="#home" class="secondary-font">⇧ Back up</a></section>
 	<hr />
 	<article id="organisation">
 		<header>
@@ -107,6 +104,7 @@
 			<p>XYZ.</p>
 		</details>
 	</article>
+	<section><a href="#home" class="secondary-font">⇧ Back up</a></section>
 	<hr />
 </main>
 
@@ -114,12 +112,13 @@
 	<header>
 		<h2>About us</h2>
 	</header>
-	<p>
+	<!-- <p>
 		dhCenter UNIL-EPFL, Programme Doctoral en Études Numériques (PDEN), Digital Humanities at the.
 		Walter Benjamin Kolleg of the University of Bern, infoclio.ch, Digital Humanities Lab University
 		of Basel
-	</p>
+	</p> -->
 	<Logos />
 	<h3>Contact</h3>
-	<p>info@critique-digitale.ch</p>
+	<p><a href="mailto:info@critique-digitale.ch">info@critique-digitale.ch</a></p>
+	<section><a href="#home" class="secondary-font">⇧ Back up</a></section>
 </footer>

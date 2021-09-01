@@ -9,12 +9,44 @@
 		<link rel="manifest" href="/site.webmanifest" />
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<!-- <link rel="preload" href="../fonts/CEO-Light.woff2" as="font" type="font/woff2" crossorigin />
+		<link rel="preload" href="../fonts/CEO-Light.woff" as="font" type="font/woff" crossorigin />
+		<link rel="preload" href="../fonts/CEO-Regular.woff2" as="font" type="font/woff2" crossorigin />
+		<link rel="preload" href="../fonts/CEO-Regular.woff" as="font" type="font/woff" crossorigin /> -->
+		<link rel="preload" href="../fonts/CEO-Bold.woff2" as="font" type="font/woff2" crossorigin />
+		<link rel="preload" href="../fonts/CEO-Bold.woff" as="font" type="font/woff" crossorigin />
 		<link
-			href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&family=Raleway:wght@600;900&display=swap"
+			href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap"
 			rel="stylesheet"
 		/>
 		<link rel="stylesheet" href="https://unpkg.com/mvp.css" />
 		<style>
+			/* @font-face {
+				font-family: 'CEO';
+				src: local(''), url('../fonts/CEO-Light.woff2') format('woff2'),
+					url('CEO-Light.woff') format('woff');
+				font-weight: 300;
+				font-style: normal;
+				font-display: swap;
+			}
+
+			@font-face {
+				font-family: 'CEO';
+				src: local(''), url('../fonts/CEO-Regular.woff2') format('woff2'),
+					url('CEO-Regular.woff') format('woff');
+				font-weight: normal;
+				font-style: normal;
+				font-display: swap;
+			} */
+
+			@font-face {
+				font-family: 'CEO';
+				src: local(''), url('../fonts/CEO-Bold.woff2') format('woff2'),
+					url('CEO-Bold.woff') format('woff');
+				font-weight: bold;
+				font-style: normal;
+				font-display: swap;
+			}
 			:root {
 				--color: rgb(177, 80, 255);
 				--color-accent: rgb(144, 210, 74);
@@ -26,21 +58,18 @@
 				--color-text: #000;
 				--color-text-secondary: #999;
 				--font-family: 'Open Sans';
-				--hover-brightness: 1.5;
+				--hover-brightness: 1.1;
 				--width-card: 195px;
 			}
-			.secondary-font {
-				font-family: 'Raleway';
-				font-weight: 600;
-			}
+			.secondary-font,
 			h1,
 			h2,
 			h3,
 			h4,
 			h5,
 			h6 {
-				font-family: 'Raleway';
-				font-weight: 900;
+				font-family: 'CEO', sans-serif;
+				font-weight: bold;
 			}
 		</style>
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
