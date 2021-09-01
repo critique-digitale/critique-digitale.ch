@@ -4,7 +4,7 @@
 
 <header>
 	<nav>
-		<a href="https://critique-digitale.ch/fr"
+		<a href="/fr"
 			><img
 				alt="Critique numérique"
 				src="../images/digital-criticism-logo-text-and-graphics-dc.svg"
