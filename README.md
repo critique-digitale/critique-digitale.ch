@@ -43,5 +43,6 @@ npm run preview
 ## Documentation
 
 - [Cloudflare Pages](https://pages.cloudflare.com/)
+- [mdsvex](https://mdsvex.pngwn.io/)
 - [MVP.css](https://andybrewer.github.io/mvp/)
 - [SvelteKit](https://kit.svelte.dev/docs)
