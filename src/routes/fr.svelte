@@ -1,23 +1,13 @@
 <script lang="ts">
 	import Logos from '../components/Logos.svelte';
-	let title = "Unconférence 'Critique numérique' | Du 21 octobre 2021 au 22 octobre 2021";
-	let description = 'TBD';
+	import Meta from '../components/Meta.svelte';
+	import Videos from '../components/Videos.svelte';
 </script>
 
-<svelte:head>
-	<title>{title}</title>
-	<meta name="description" content={description} />
-	<meta property="og:title" content={title} />
-	<meta property="og:image" content="https://critique-digitale.ch/android-chrome-512x512.png" />
-	<meta property="og:type" content="website" />
-	<meta property="og:site_name" content="Critique Digitale" />
-	<meta property="“og:description“" content={description} />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content={title} />
-	<meta name="twitter:description" content={description} />
-	<meta name="twitter:image" content="https://critique-digitale.ch/android-chrome-512x512.png" />
-	<meta name="twitter:site" content="@CritiqueDigita1" />
-</svelte:head>
+<Meta
+	title={"Unconférence 'Critique numérique' | Du 21 octobre 2021 au 22 octobre 2021"}
+	description={'TBD'}
+/>
 
 <header id="home">
 	<nav>
@@ -117,7 +107,7 @@
 		</details>
 		<details>
 			<summary>Comment s'inscrire au Big Blue Button ? </summary>.
-			<p>XYZ.</p>
+			<Videos poster={'videos/participants.png'} src={'videos/participants.mp4'} />
 		</details>
 	</article>
 	<section><a href="#home" class="secondary-font">⇧ Retourner</a></section>
