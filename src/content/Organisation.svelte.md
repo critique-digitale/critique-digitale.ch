@@ -1,5 +1,5 @@
 <script>
-	import Videos from '../../components/Videos.svelte';
+	import Videos from '../components/Videos.svelte';
 </script>
 
 ### Registration
@@ -44,6 +44,7 @@ This event is especially suitable but not limited to PhD students, in all stages
 <summary>Is it necessary to send an abstract, a paper or a presentation?</summary>
 
 No. As an unconference, the Critique Digitale does not need to follow a traditional scientific event, but rather works as an open space where the presenters, organizers and participants choose the topics. It’s a collaborative way to debate, share information and build knowledge.
+
 </details>
 <details>
 <summary>How do I register in Big Blue Button?</summary>
@@ -55,6 +56,7 @@ No. As an unconference, the Critique Digitale does not need to follow a traditio
 The conference will take place on BigBlueButton (BBB), an open source visio-conference software developed by CH-Open, a Swiss organisation promoting open source software, online privacy, and open data standards. Tutorials on how to use BBB are available here.
 
 Voting on the programme will take place via the application mieuxvoter.fr. Information on the concept of majority judgment can be found here: https://mieuxvoter.fr/index.php/decouvrir/?lang=en
+
 </details>
 <details>
 <summary>Content and Structure</summary>

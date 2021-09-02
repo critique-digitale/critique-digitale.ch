@@ -47,11 +47,13 @@ Cet événement est ouvert à toutes les personnes intéressées à discuter des
 La conférence aura lieu sur BigBlueButton (BBB), un logiciel de visio-conférence open source développé par CH-Open, une organisation suisse qui promeut l’open source, la protection de la sphère privée et les standards de données ouvertes. en Suisse. Des guides sur l’utilisation de BigBlueButton sont disponibles ici.
 
 Le vote sur le programme se fera via l’application mieuxvoter.fr. Des informations sur le système de votre majoritaire sont disponibles ici: [https://mieuxvoter.fr/index.php/decouvrir/](https://mieuxvoter.fr/index.php/decouvrir/)
+
 </details>
 <details>
 <summary>Faut-il envoyer un résumé ou préparer une présentation ?</summary>
 
 Non. La unconference critique digitale n’est pas une conférence scientifique traditionnelle, mais plutôt un espace ouvert ou présentateurs, organisateurs et participants choisissent les sujets.  Elle offre une manière collaborative de débattre, partager des information et construire des connaissances.
+
 </details>
 <details>
 <summary>Content and Structure</summary>

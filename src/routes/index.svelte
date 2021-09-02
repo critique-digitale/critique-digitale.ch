@@ -1,9 +1,9 @@
 <script lang="ts">
 	import Logos from '../components/Logos.svelte';
 	import Meta from '../components/Meta.svelte';
-	import Concept from '../content/Concept.svx';
-	import Programme from '../content/Programme.svx';
-	import Organisation from '../content/Organisation.svx';
+	import Concept from '../content/Conceptsvelte.md';
+	import Programme from '../content/Programmesvelte.md';
+	import Organisation from '../content/Organisationsvelte.md';
 </script>
 
 <Meta title={"Unconference 'Digital Criticism' | October 21—22, 2021"} description={'TBD'} />

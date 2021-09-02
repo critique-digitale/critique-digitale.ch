@@ -1,18 +1,18 @@
 Le programme de la conférence comprend deux séances plénières, trois interventions par des chercheurs de premier plan dans le domaine des digital studies, ainsi qu’une série de panels en sessions parallèles sur des sujets que les participant·e·s ont eux-mêmes proposés et choisis via un vote.
 
-| 21. Oktober |                                                                | 22. Oktober |   |
-|-------------|----------------------------------------------------------------|-------------|---|
-| 08:45       | On-boarding BigBlueButton<br>Provided by CH-Open               |             |   |
-| 09:30       | Introduction by the Organizers & welcome by Dr. Markus Zürcher |             |   |
-| 10:00       | Pitching-Session                                               |             |   |
-| 11:00       | Keynote by Nathalie Pignard Cheynel<br>Voting in progress      |             |   |
-| 12:00       | Presentation of program & lunch break                          |             |   |
-| 13:30       | Panels I                                                       |             |   |
-| 14:15       | Chat-roulette & break                                          |             |   |
-| 15:00       | Panels II                                                      |             |   |
-| 15:45       | Panels III                                                     |             |   |
-| 16:30       | Break                                                          |             |   |
-| 17:00       | Keynote by Mar Hicks                                           |             |   |
+| 21. Oktober |                                                                | 22. Oktober |     |
+| ----------- | -------------------------------------------------------------- | ----------- | --- |
+| 08:45       | On-boarding BigBlueButton<br>Provided by CH-Open               |             |     |
+| 09:30       | Introduction by the Organizers & welcome by Dr. Markus Zürcher |             |     |
+| 10:00       | Pitching-Session                                               |             |     |
+| 11:00       | Keynote by Nathalie Pignard Cheynel<br>Voting in progress      |             |     |
+| 12:00       | Presentation of program & lunch break                          |             |     |
+| 13:30       | Panels I                                                       |             |     |
+| 14:15       | Chat-roulette & break                                          |             |     |
+| 15:00       | Panels II                                                      |             |     |
+| 15:45       | Panels III                                                     |             |     |
+| 16:30       | Break                                                          |             |     |
+| 17:00       | Keynote by Mar Hicks                                           |             |     |
 
 ### Keynotes
 
@@ -30,6 +30,6 @@ Born in 1965, Dominique Cardon has been a sociologist, researcher, professor and
 
 #### Nathalie Pignard-Cheynel (Université de Neuchâtel)
 
-<img src="images/speakers/Pignard-Cheynel_Nathalie.jpeg" alt="Nathalie Pignard-Cheynel (Université de Neuchâtel)" height="200" > 
+<img src="images/speakers/Pignard-Cheynel_Nathalie.jpeg" alt="Nathalie Pignard-Cheynel (Université de Neuchâtel)" height="200" >
 
 Nathalie Pignard-Cheynel est professeure ordinaire en journalisme et information numérique à l’Université de Neuchâtel (UniNE) où elle dirige l’Académie du journalisme et des médias (AJM). Elle a précédemment dirigé l’Ecole de journalisme de Grenoble puis été responsable du Master Journalisme et médias numériques à l’université de Lorraine.Ses travaux portent sur les mutations des pratiques journalistiques et les changements dans les rédactions à l’ère du numérique, notamment l’usage des réseaux socionumériques et des supports mobiles, l’émergence de nouveaux formats d’écriture de l’actualité et la participation des internautes au processus de construction de l’information en ligne. Elle a co-dirigé l’ouvrage [#info: Commenter et partager l’actualité sur Twitter et Facebook](http://www.editions-msh.fr/livre/?GCOI=27351100210810), (2018, Éditions de la Maison des sciences de l’homme) et co-signé l’ouvrage [Journalisme mobile](https://www.deboecksuperieur.com/ouvrage/9782807313347-journalisme-mobile) (2019, Editions de Boeck). Elle dirige le projet de recherche (financé par le FNS) [LINC – L’information locale à l’épreuve du numérique : repenser les liens entre médias, journalistes et publics](https://www.unine.ch/ajm/linc) (2018-2020).

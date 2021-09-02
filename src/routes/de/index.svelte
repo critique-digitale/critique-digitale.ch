@@ -1,9 +1,9 @@
 <script lang="ts">
 	import Logos from '../../components/Logos.svelte';
 	import Meta from '../../components/Meta.svelte';
-	import Concept from '../../content/de/Concept.svx';
-	import Programme from '../../content/de/Programme.svx';
-	import Organisation from '../../content/de/Organisation.svx';
+	import Concept from '../../content/de/Conceptsvelte.md';
+	import Programme from '../../content/de/Programmesvelte.md';
+	import Organisation from '../../content/de/Organisationsvelte.md';
 </script>
 
 <Meta
