@@ -1,7 +1,9 @@
 <script lang="ts">
 	import Logos from '../components/Logos.svelte';
-	import Videos from '../components/Videos.svelte';
 	import Meta from '../components/Meta.svelte';
+	import Concept from '../content/Concept.svx';
+	import Programme from '../content/Programme.svx';
+	import Organisation from '../content/Organisation.svx';
 </script>
 
 <Meta title={"Unconference 'Digital Criticism' | October 21—22, 2021"} description={'TBD'} />
@@ -33,12 +35,7 @@
 		<header>
 			<h2>Concept</h2>
 		</header>
-
-		<h3>Intro & Goals</h3>
-		<p>bla</p>
-
-		<h3>What is an unconference</h3>
-		<p>bla</p>
+		<Concept />
 	</article>
 	<section><a href="#home" class="secondary-font">⇧ Back up</a></section>
 	<hr />
@@ -46,35 +43,7 @@
 		<header>
 			<h2>Programme</h2>
 		</header>
-
-		<h3>Keynotes</h3>
-		<p>bla</p>
-
-		<h3>Programme</h3>
-		<table>
-			<thead>
-				<tr>
-					<th />
-					<th>October 21</th>
-					<th />
-					<th>22 October</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td>8:45</td>
-					<td>Point A</td>
-					<td />
-					<td />
-				</tr>
-				<tr>
-					<td>10:30</td>
-					<td>XYZ</td>
-					<td />
-					<td />
-				</tr>
-			</tbody>
-		</table>
+		<Programme />
 	</article>
 	<section><a href="#home" class="secondary-font">⇧ Back up</a></section>
 	<hr />
@@ -82,30 +51,7 @@
 		<header>
 			<h2>Organisation</h2>
 		</header>
-
-		<h3>Registration</h3>
-		<p>
-			Register for free at this <a
-				href="https://www.infoclio.ch/de/unconference-digital-critique-information-list-liste-dinformations-informationsliste"
-				>link</a
-			>.
-		</p>
-
-		<h3>Pitching & Voting Procedures</h3>
-		<p>bla</p>
-
-		<h3>Languages</h3>
-		<p>bla</p>
-
-		<h3>FAQ</h3>
-		<details>
-			<summary>Is this event free of charge?</summary>
-			<p>Yes.</p>
-		</details>
-		<details>
-			<summary>How do I register in Big Blue Button?</summary>
-			<Videos poster={'videos/participants.png'} src={'videos/participants.mp4'} />
-		</details>
+		<Organisation />
 	</article>
 	<section><a href="#home" class="secondary-font">⇧ Back up</a></section>
 	<hr />
@@ -115,11 +61,6 @@
 	<header>
 		<h2>About us</h2>
 	</header>
-	<!-- <p>
-		dhCenter UNIL-EPFL, Programme Doctoral en Études Numériques (PDEN), Digital Humanities at the.
-		Walter Benjamin Kolleg of the University of Bern, infoclio.ch, Digital Humanities Lab University
-		of Basel
-	</p> -->
 	<Logos />
 	<h3>Contact</h3>
 	<p><a href="mailto:info@critique-digitale.ch">info@critique-digitale.ch</a></p>
