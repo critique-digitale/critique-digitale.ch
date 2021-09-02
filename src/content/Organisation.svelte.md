@@ -6,9 +6,7 @@
 
 Registration is free of charge. Upon registration you will receive a link to access the conference virtual space. Additionally, we will send you a small gift per postal mail as a souvenir.
 
-Please register online here:
-
-<https://www.infoclio.ch/en/unconference-digital-critique-information-list-liste-dinformations-informationsliste>
+Please register online [here](https://www.infoclio.ch/en/unconference-digital-critique-information-list-liste-dinformations-informationsliste).
 
 ### Pitching and voting procedures
 
@@ -18,7 +16,7 @@ An unconference is an open space. Every topic is worth considering and discussin
 
 You don’t know if people want to discuss this? Pitch it! Are you unsure if the topic belongs to “Critique Digitale”? Pitch it!
 
-Once we've collected all panel propositions, those will be submitted to a majority vote by all participants. Panels who get more consent will be integrated to the conference programme as panel slots of 45 min. More information about the voting system are to be found here (https://mieuxvoter.fr/index.php/decouvrir/?lang=en).
+Once we've collected all panel propositions, those will be submitted to a majority vote by all participants. Panels who get more consent will be integrated to the conference programme as panel slots of 45 min. More information about the voting system are to be found [here](https://mieuxvoter.fr/index.php/decouvrir/?lang=en).
 
 The definitive programme will then be published on this website. Participants are then free to move among the various virtual rooms and attend the panels they are interested in.
 

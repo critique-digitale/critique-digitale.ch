@@ -6,7 +6,7 @@
 
 L’inscription est gratuite. Après l’inscription vous recevrez un lien pour accéder à l’espace virtuel de la conférence. Additionnellement, nous vous enverrons par courrier postal un petit cadeau comme souvenir.
 
-Inscrivez-vous en ligne ici: https://www.infoclio.ch/fr/unconference-digital-critique-information-list-liste-dinformations-informationsliste
+Inscrivez-vous en ligne [ici](https://www.infoclio.ch/fr/unconference-digital-critique-information-list-liste-dinformations-informationsliste).
 
 ### Pitching and voting procedures
 
