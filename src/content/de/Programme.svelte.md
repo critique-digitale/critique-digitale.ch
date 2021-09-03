@@ -1,18 +1,18 @@
 The conference programme includes two plenary sessions, three keynotes by leading scholars in the field of digital studies, as well as a series of parallel panel sessions on topics that the participants themselves have proposed and chosen by voting.
 
-| 21. Oktober |                                                                | 22. Oktober |     |
-| ----------- | -------------------------------------------------------------- | ----------- | --- |
-| 08:45       | On-boarding BigBlueButton<br>Provided by CH-Open               |             |     |
-| 09:30       | Introduction by the Organizers & welcome by Dr. Markus Zürcher |             |     |
-| 10:00       | Pitching-Session                                               |             |     |
-| 11:00       | Keynote by Nathalie Pignard Cheynel<br>Voting in progress      |             |     |
-| 12:00       | Presentation of program & lunch break                          |             |     |
-| 13:30       | Panels I                                                       |             |     |
-| 14:15       | Chat-roulette & break                                          |             |     |
-| 15:00       | Panels II                                                      |             |     |
-| 15:45       | Panels III                                                     |             |     |
-| 16:30       | Break                                                          |             |     |
-| 17:00       | Keynote by Mar Hicks                                           |             |     |
+|             |21. Oktober                                                     | 22. Oktober |
+| ----------- | -------------------------------------------------------------- | ----------- |
+| 08:45       | Einführung in BigBlueButton<br>durch geführt durch CH-Open               |             |
+| 09:30       | Einführugn durch die Organisierenden und Willkommensworte durch Dr. Markus Zürcher |Willkommen zurück |
+| 10:00       | Pitching-Session                                               |Vierte Panels  |
+| 11:00       | Keynote durch Nathalie Pignard Cheynel<br>Wahl der Panels      |Keynote durch Dominique Cardon|
+| 12:00       | Programmvorstellung und Mittagspause                          |Fünfte Panels|
+| 13:30       | Erste Panels                                                       |Präsentation der Resultate und Ausblick|
+| 14:15       | Pause                                          |Table-Ronde zum Abschluss|
+| 15:00       | Zweite Panels                                                      |             |
+| 15:45       | Dritte Panels                                                     |             |
+| 16:30       | Pause                                                          |             |
+| 17:00       | Keynote durch Mar Hicks                                           |             |
 
 ### Keynotes
 
