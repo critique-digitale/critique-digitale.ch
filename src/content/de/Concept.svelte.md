@@ -1,24 +1,24 @@
-### Introduction (NOT YET TRANSLATED!)
+### Einführung
 
-Higher education research centres from all over Switzerland are joining forces to host the first unconference about « Digital Critique ». Free of charge and open to all, this unique event will take place online-only the 21 and 22 October 2021.
+Universitäten und Forschungsinstitutionen der Schweiz begrüssen herzliche zur ersten Unkonferenz zur « Digitalen Kritik ». Offen und ohne Teilnahmegebühren wird dieser einzigartige Anlass am 21. und 22. Oktober 2021 online durchgeführt.
 
-After a decade of research on the ‘Digital Turn’ and its impact on both research and society at large, this event aims to offer a space to network, share insights, and discuss future trends in digital studies / digital humanities among scholars of Switzerland and beyond. Join us and register for the event !
+Nach mehr als einer Dekade mit Diskussionen zum 'Digitalen Turn' und dem damit verbundenen Einfluss auf Forschung und die Gesellschaft als ganzes, wollen wir Raum und Möglichkeit zur Reflektion und der Bildung von Netzwerken schaffen. Wir wollen Forschungsresultate und zukünftige Trends im Bereich der _digital studies_ und den Digital Humanities mit Wissenschaftler\*innen aus der Schweiz und darüber hinaus diskutieren. Registrieren Sie sich heute für den Anlass!
 
-### Objectives
+### Ziele
 
-- Foster networking within the digital studies / digital humanities research community in Switzerland and beyond
-- Talk and learn about ongoing research (including yours) on digital-related phenomena
-- Identify common challenges across disciplines for future research
-- Discuss the characteristics of digital research methods
+- Ein Netzwerk der Forschungscommunity im Bereich der digital studies / digital humanities in der Schweiz und darüber hinaus bilden
+- Präsentieren und diskutieren digitaler Themen: Selbstverständlich auch die eigenen Themen und Agenden einbringen
+- Zukünftige inter- und transdisziplinäre Herausforderungen identifizieren und gemeinsam angehen
+- Die Charakteristika digitaler Forschungsmethoden diskutieren und einordnen
 
-### What is an unconference?
+### Was ist eine Unkonferen?
 
-An unconference is an informal, participant-driven meeting that tries to avoid hierarchical aspects of a conventional conference. The format, which encourages networking, open discussions, and participation, first appeared in the Silicon Valley in the 2000’s as a tool to foster new innovation models. Unconferences contributed to the birth of social media and “Web 2.0”.
+Eine Unkonferenz ist eine informelle, _participant-driven_ Veranstaltung, die versucht die hierarchischen Aspekte herkömmlicher Konferenzen zu vermeiden. Das Format fördert das bilden von Netzwerken, offenen Diskussionen und die aktive Teilnahme. Entstanden ist das Formt in den 2000er Jahren im Silicon Valley, um innovative Ideen zu diskutieren und zu entwickeln. Unkonferenzen stehen am Anfang von Social Media und dem “Web 2.0”.
 
-In concrete terms, the conference unfolds as follows
+Eine Unkonferenz läuft folgendermassen ab:
 
-1.  Register for the conference
-2.  In a plenary pitching session on the first day of the conference, participants are invited to come up with ideas and discussion topics
-3.  Proposed topics are listed on a whiteboard and opened to a vote by participants
-4.  Most voted topics are included as panel slots of 45 min. in the finalised conference programme.
-5.  Participants freely decide which panels they want to attend.
+1.  Registrierung für die Konferenz
+2.  In einer gemeinsamen Session am ersten Tag werden Teilnehmende aufgefordert eigene Ideen und Diskussionsvorschläge vorzubringen
+3.  Alle Themenvorschläge werden gesammelt und danach wird darüber abgestimmt, welche Themen in Form von Panels diskutiert werden
+4.  Die gewählten Themen bekommen 45 Minuten Zeitslots und ein finalisiertes Programm wird vorgestellt
+5.  Die Teilnehmenden wählen frei, welche Panels sie besuchen und wie sie sich einbringen
