@@ -1,6 +1,6 @@
 The conference programme includes two plenary sessions, three keynotes by leading scholars in the field of digital studies, as well as a series of parallel panel sessions on topics that the participants themselves have proposed and chosen by voting.
 
-| 21. Oktober |                                                                | 22. Oktober |
+|             |21. Oktober                                                     | 22. Oktober |
 | ----------- | -------------------------------------------------------------- | ----------- |
 | 08:45       | On-boarding BigBlueButton<br>Provided by CH-Open               |             |
 | 09:30       | Introduction by the Organizers & welcome by Dr. Markus Zürcher |Welcome Back |
