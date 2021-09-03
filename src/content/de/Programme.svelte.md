@@ -1,4 +1,4 @@
-The conference programme includes two plenary sessions, three keynotes by leading scholars in the field of digital studies, as well as a series of parallel panel sessions on topics that the participants themselves have proposed and chosen by voting.
+An der Unkonferenz werden wir zwei gemeinsame Sitzungen abhalten. In drei _Keynotes_ werden Forscherinnen und Forscher aus dem Bereich der digitalen Studien ihre Perspektive einbringen. Interaktiv wird es in den parallelen Panelsessions, die durch die Teilnehmenden vorgeschlagen, gewählt und durchgeführt werden.
 
 |             |21. Oktober                                                     | 22. Oktober |
 | ----------- | -------------------------------------------------------------- | ----------- |
