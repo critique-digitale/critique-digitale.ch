@@ -1,6 +1,8 @@
 {
 	"name": "critique-digitale.ch",
 	"version": "0.0.1",
+	"url": "https://github.com/critique-digitale/critique-digitale.ch/issues",
+	"email": "info@critique-digitale.ch ",
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"build": "svelte-kit build",
