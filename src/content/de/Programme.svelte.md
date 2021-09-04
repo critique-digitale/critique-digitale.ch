@@ -1,18 +1,18 @@
 An der Unkonferenz werden wir zwei gemeinsame Sitzungen abhalten. In drei _Keynotes_ werden Forscherinnen und Forscher aus dem Bereich der digitalen Studien ihre Perspektive einbringen. Interaktiv wird es in den parallelen Panelsessions, die durch die Teilnehmenden vorgeschlagen, gewählt und durchgeführt werden.
 
-|             |21. Oktober                                                     | 22. Oktober |
-| ----------- | -------------------------------------------------------------- | ----------- |
-| 08:45       | Einführung in BigBlueButton<br>durch geführt durch CH-Open               |             |
-| 09:30       | Einführugn durch die Organisierenden und Willkommensworte durch Dr. Markus Zürcher |Willkommen zurück |
-| 10:00       | Pitching-Session                                               |Vierte Panels  |
-| 11:00       | Keynote durch Nathalie Pignard Cheynel<br>Wahl der Panels      |Keynote durch Dominique Cardon|
-| 12:00       | Programmvorstellung und Mittagspause                          |Fünfte Panels|
-| 13:30       | Erste Panels                                                       |Präsentation der Resultate und Ausblick|
-| 14:15       | Pause                                          |Table-Ronde zum Abschluss|
-| 15:00       | Zweite Panels                                                      |             |
-| 15:45       | Dritte Panels                                                     |             |
-| 16:30       | Pause                                                          |             |
-| 17:00       | Keynote durch Mar Hicks                                           |             |
+|       | 21. Oktober                                                                        | 22. Oktober                             |
+| ----- | ---------------------------------------------------------------------------------- | --------------------------------------- |
+| 08:45 | Einführung in BigBlueButton<br>durch geführt durch CH-Open                         |                                         |
+| 09:30 | Einführugn durch die Organisierenden und Willkommensworte durch Dr. Markus Zürcher | Willkommen zurück                       |
+| 10:00 | Pitching-Session                                                                   | Vierte Panels                           |
+| 11:00 | Keynote durch Nathalie Pignard Cheynel<br>Wahl der Panels                          | Keynote durch Dominique Cardon          |
+| 12:00 | Programmvorstellung und Mittagspause                                               | Fünfte Panels                           |
+| 13:30 | Erste Panels                                                                       | Präsentation der Resultate und Ausblick |
+| 14:15 | Pause                                                                              | Table-Ronde zum Abschluss               |
+| 15:00 | Zweite Panels                                                                      |                                         |
+| 15:45 | Dritte Panels                                                                      |                                         |
+| 16:30 | Pause                                                                              |                                         |
+| 17:00 | Keynote durch Mar Hicks                                                            |                                         |
 
 ### Keynotes
 
