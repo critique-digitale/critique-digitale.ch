@@ -1,5 +1,7 @@
 Le programme de la conférence comprend deux séances plénières, trois interventions par des chercheurs de premier plan dans le domaine des digital studies, ainsi qu’une série de panels en sessions parallèles sur des sujets que les participant·e·s ont eux-mêmes proposés et choisis via un vote.
 
+<section>
+
 | 21. Oktober |                                                                | 22. Oktober |     |
 | ----------- | -------------------------------------------------------------- | ----------- | --- |
 | 08:45       | On-boarding BigBlueButton<br>Provided by CH-Open               |             |     |
@@ -13,6 +15,8 @@ Le programme de la conférence comprend deux séances plénières, trois interve
 | 15:45       | Panels III                                                     |             |     |
 | 16:30       | Break                                                          |             |     |
 | 17:00       | Keynote by Mar Hicks                                           |             |     |
+
+</section>
 
 ### Keynotes
 

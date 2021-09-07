@@ -24,6 +24,12 @@
 			<li><a href="#concept" class="secondary-font">Concept</a></li>
 			<li><a href="#programme" class="secondary-font">Programme</a></li>
 			<li><a href="#organisation" class="secondary-font">Organisation</a></li>
+			<li>
+				<a
+					href="https://www.infoclio.ch/fr/unconference-digital-critique-information-list-liste-dinformations-informationsliste"
+					class="secondary-font">Registration</a
+				>
+			</li>
 			<li><a href="/">EN</a>|<a href="/de">DE</a></li>
 		</ul>
 	</nav>
