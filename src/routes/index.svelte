@@ -1,4 +1,8 @@
-<script lang="ts">
+<script context="module">
+	export const prerender = true;
+</script>
+
+<script>
 	import Logos from '../components/Logos.svelte';
 	import Meta from '../components/Meta.svelte';
 	import Concept from '../content/Concept.svelte.md';
@@ -13,8 +17,9 @@
 		<a href="/"
 			><img
 				alt="Digital Criticism"
-				src="images/digital-criticism-logo-text-and-graphics-dc.svg"
+				src="images/digital-criticism-logo-graphics-dc.svg"
 				width="100%"
+				height="100px"
 			/></a
 		>
 		<ul>
@@ -30,9 +35,9 @@
 			<li><a href="/de">DE</a>|<a href="/fr">FR</a></li>
 		</ul>
 	</nav>
-	<h1>Unconference 'Digital Criticism'</h1>
+	<img alt="Digital Criticism" src="images/digital-criticism-logo-text.svg" width="100%" />
 	<p>
-		<b>October 21—22, 2021</b>
+		<b>Unconference October 21—22, 2021</b>
 		<a href="https://infoclio.ch/de/event-ics/158787/event_158787.ics">📅</a>
 	</p>
 </header>
