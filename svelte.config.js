@@ -20,10 +20,6 @@ const config = {
 			assets: 'build',
 			fallback: '404.html'
 		})
-		// Uncomment to deploy to gh-pages
-		// paths: {
-		//     base: '/critique-digitale.ch'
-		// }
 	}
 };
 
