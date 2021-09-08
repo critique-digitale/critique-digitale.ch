@@ -16,13 +16,13 @@ Eine Unkonferenz ist ein offener und freier Raum. Jedes Thema kann und soll ange
 
 Unsicher, ob das Thema wirklich diskutiert werden soll? Vorschlagen! Unsicher, ob das Thema in den Bereich der 'Critique Digitale' fällt? Vorschlagen!
 
-Once we've collected all panel propositions, those will be submitted to a majority vote by all participants. Panels who get more consent will be integrated to the conference programme as panel slots of 45 min. More information about the voting system are to be found [here](https://mieuxvoter.fr/index.php/decouvrir/?lang=en).
+Sobald wir alle Panelvorschläge gesammelt haben, werden diese einer Mehrheitsabstimmung durch alle Teilnehmenden unterzogen. Panels, die mehr Zustimmung erhalten, werden als Panel-Slots von 45 Minuten in das Konferenzprogramm aufgenommen. Weitere Informationen über das Abstimmungssystem findet man [hier](https://mieuxvoter.fr/index.php/decouvrir/?lang=en).
 
-The definitive programme will then be published on this website. Participants are then free to move among the various virtual rooms and attend the panels they are interested in.
+Das endgültige Programm wird dann auf dieser Website veröffentlicht. Den Teilnehmenden steht es dann frei, sich in den verschiedenen virtuellen Räumen zu bewegen und die Panels zu besuchen, für die sie sich interessieren.
 
 ### Panels
 
-Panels are 45-minute discussion and exchange sessions on a given theme. The person who proposed the theme moderates the discussions.
+Panels sind 45-minütige Diskussions- und Austauschrunden zu einem bestimmten Thema. Die Person, die das Thema vorgeschlagen hat, moderiert die Diskussionen.
 
 ### Sprache(N!)
 
@@ -53,13 +53,13 @@ Nein. Als Unkonferenz muss die 'Critique Digitale' nicht einer traditionellen wi
 
 Die Konferenz findet auf BigBlueButton (BBB) statt, einer quelloffenen Visio-Konferenzsoftware, die von CH-Open entwickelt wurde, einer Schweizer Organisation zur Förderung von Open-Source-Software, Online-Datenschutz und offenen Datenstandards. Anleitungen zur Verwendung von BBB finden Sie hier.
 
-Die Abstimmung über das Programm findet über die Anwendung mieuxvoter.fr statt. Informationen zum Konzept des Mehrheitsentscheids finden Sie hier: https://mieuxvoter.fr/index.php/decouvrir/?lang=en
+Die Abstimmung über das Programm findet über die Anwendung mieuxvoter.fr statt. Informationen zum Konzept des Mehrheitsentscheids finden Sie [hier](https://mieuxvoter.fr/index.php/decouvrir/?lang=en)
 
 </details>
 <details>
 <summary>Inhalt und Struktur</summary>
 
-Der Inhalt und die Struktur des Tages werden von den Teilnehmern bestimmt. Siehe zum Beispiel das Konzept des [BarCamp] (https://en.wikipedia.org/wiki/BarCamp). Wir folgen den vier Flow-Prinzipien:
+Der Inhalt und die Struktur des Tages werden von den Teilnehmern bestimmt. Siehe zum Beispiel das Konzept des [BarCamp](https://en.wikipedia.org/wiki/BarCamp). Wir folgen den vier Flow-Prinzipien:
 
 - Wer auch immer kommt, es sind die richtigen Leute
 - Was auch immer passiert, ist das Einzige, was hätte passieren können
