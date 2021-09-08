@@ -51,14 +51,7 @@ npm run preview
 
 ## Deployment
 
-GitHub automatically deploys the main-branch to <https://critique-digitale.ch/> which takes at most 3 minutes and is powered by [Cloudflare Pages](https://pages.cloudflare.com/). If you want to deploy to GitHub Pages uncomment these lines in `svelte.config.js`:
-
-```js
-// Uncomment to deploy to gh-pages
-paths: {
-	base: '/critique-digitale.ch';
-}
-```
+GitHub automatically deploys the main-branch to <https://critique-digitale.ch/> which takes at most 3 minutes and is powered by [Cloudflare Pages](https://pages.cloudflare.com/). If you want to deploy to GitHub Pages follow [this tutorial](https://svelteland.github.io/svelte-kit-blog-demo/deply-to-github/).
 
 ## Support
 
