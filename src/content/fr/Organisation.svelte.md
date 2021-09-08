@@ -35,27 +35,41 @@ Comme nous sommes en Suisse, un pays avec quatre langues nationales, nous nous e
 ## FAQ
 
 <details>
+
 <summary>Qui peut participer ?</summary>
+
 Cet événement est ouvert à toutes les personnes intéressées à discuter des enjeux contemporains du numérique. Les chercheurs de toutes les disciplines sont les bienvenus. Doctorants, Postdocs, chercheurs, professionnels et étudiants sont tous les bienvenus.
+
 </details>
+
 <details>
+
 <summary>How do I register in Big Blue Button?</summary>
+
 <Videos poster={'videos/participants.png'} src={'videos/participants.mp4'} />
+
 </details>
+
 <details>
+
 <summary>Software et plateforme de la conférence</summary>
-La conférence aura lieu sur BigBlueButton (BBB), un logiciel de visio-conférence open source développé par CH-Open, une organisation suisse qui promeut l’open source, la protection de la sphère privée et les standards de données ouvertes. en Suisse. Des guides sur l’utilisation de BigBlueButton sont disponibles ici.
 
-Le vote sur le programme se fera via l’application mieuxvoter.fr. Des informations sur le système de votre majoritaire sont disponibles ici: [https://mieuxvoter.fr/index.php/decouvrir/](https://mieuxvoter.fr/index.php/decouvrir/)
+La conférence aura lieu sur BigBlueButton (BBB), un logiciel de visio-conférence open source développé par CH-Open, une organisation suisse qui promeut l’open source, la protection de la sphère privée et les standards de données ouvertes. en Suisse. Des guides sur l’utilisation de BigBlueButton sont disponibles [ici](https://bigbluebutton.org/teachers/tutorials/).
+
+Le vote sur le programme se fera via l’application mieuxvoter.fr. Des informations sur le système de votre majoritaire sont disponibles [ici](https://mieuxvoter.fr/index.php/decouvrir/).
 
 </details>
+
 <details>
+
 <summary>Faut-il envoyer un résumé ou préparer une présentation ?</summary>
 
 Non. La unconference critique digitale n’est pas une conférence scientifique traditionnelle, mais plutôt un espace ouvert ou présentateurs, organisateurs et participants choisissent les sujets.  Elle offre une manière collaborative de débattre, partager des information et construire des connaissances.
 
 </details>
+
 <details>
+
 <summary>Content and Structure</summary>
 
 The content and structure of the day are driven by the participants. See for instance the concept of [BarCamp](https://en.wikipedia.org/wiki/BarCamp). We follow the four flow principles:
