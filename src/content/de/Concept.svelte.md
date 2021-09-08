@@ -1,8 +1,8 @@
 ### Einführung
 
-Universitäten und Forschungsinstitutionen der Schweiz begrüssen herzliche zur ersten Unkonferenz zur « Digitalen Kritik ». Offen und ohne Teilnahmegebühren wird dieser einzigartige Anlass am 21. und 22. Oktober 2021 online durchgeführt.
+Universitäten und Forschungsinstitutionen der Schweiz begrüssen herzlich zur ersten Unkonferenz zur « Digitalen Kritik ». Offen und ohne Teilnahmegebühren wird dieser einzigartige Anlass am 21. und 22. Oktober 2021 online durchgeführt.
 
-Nach mehr als einer Dekade mit Diskussionen zum 'Digitalen Turn' und dem damit verbundenen Einfluss auf Forschung und die Gesellschaft als ganzes, wollen wir Raum und Möglichkeit zur Reflektion und der Bildung von Netzwerken schaffen. Wir wollen Forschungsresultate und zukünftige Trends im Bereich der _digital studies_ und den Digital Humanities mit Wissenschaftler\*innen aus der Schweiz und darüber hinaus diskutieren. Registrieren Sie sich heute für den Anlass!
+Nach mehr als einer Dekade an Diskussionen zum 'Digitalen Turn' und dem damit verbundenen Einfluss auf Forschung und Gesellschaft als Ganzes wollen wir Raum und Möglichkeit zur Reflexion und zur Bildung von Netzwerken schaffen. Wir wollen Forschungsresultate und zukünftige Trends im Bereich der _digital studies_ und den _digital humanities_ mit Wissenschaftler\*innen aus der Schweiz und darüber hinaus diskutieren. Registrieren Sie sich heute für den Anlass!
 
 ### Ziele
 
