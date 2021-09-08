@@ -26,10 +26,10 @@ Panels sind 45-minütige Diskussions- und Austauschrunden zu einem bestimmten Th
 
 ### Sprache(N!)
 
-Da wir uns in der Schweiz befinden, einem Land mit vier Amtssprachen, ist es uns ein Anliegen, die Mehrsprachigkeit zu fördern. Wir sind bestrebt, Englisch während der gesamten Konferenz als Lingua franca zu verwenden, werden aber auch die Teilnehmer ermutigen, ihre eigenen Sprachen zu sprechen.
+Da wir uns in der Schweiz befinden, einem Land mit vier Amtssprachen, ist es uns ein Anliegen, die Mehrsprachigkeit zu fördern. Wir sind bestrebt, Englisch während der gesamten Konferenz als Lingua franca zu verwenden, werden aber auch die Teilnehmer\*innen ermutigen, ihre eigenen Sprachen zu sprechen.
 
 - Die Hauptvorträge werden auf Französisch (mit Live-Untertiteln auf Englisch) und Englisch gehalten.
-- Die Kommunikation im Plenum findet auf Englisch statt, aber in den Pitching-Sitzungen können die Teilnehmer in ihrer eigenen Sprache sprechen, und wir übersetzen live für diejenigen, die sie nicht verstehen.
+- Die Kommunikation im Plenum findet auf Englisch statt, aber in den Pitching-Sitzungen können die Teilnehmer\*innen in ihrer eigenen Sprache sprechen, und wir übersetzen live für diejenigen, die sie nicht verstehen.
 - In den Panels kann die Sprachmischung variieren. Die Moderatoren der Panels sollen entscheiden, wie sie damit umgehen wollen, je nach den Teilnehmer\*innen.
 
 ## FAQ
@@ -59,7 +59,7 @@ Die Abstimmung über das Programm findet über die Anwendung mieuxvoter.fr statt
 <details>
 <summary>Inhalt und Struktur</summary>
 
-Der Inhalt und die Struktur des Tages werden von den Teilnehmern bestimmt. Siehe zum Beispiel das Konzept des [BarCamp](https://en.wikipedia.org/wiki/BarCamp). Wir folgen den vier Flow-Prinzipien:
+Der Inhalt und die Struktur des Tages werden von den Teilnehmer\*innen bestimmt. Siehe zum Beispiel das Konzept des [BarCamp](https://en.wikipedia.org/wiki/BarCamp). Wir folgen den vier Flow-Prinzipien:
 
 - Wer auch immer kommt, es sind die richtigen Leute
 - Was auch immer passiert, ist das Einzige, was hätte passieren können
