@@ -30,7 +30,7 @@ Da wir uns in der Schweiz befinden, einem Land mit vier Amtssprachen, ist es uns
 
 - Die Hauptvorträge werden auf Französisch (mit Live-Untertiteln auf Englisch) und Englisch gehalten.
 - Die Kommunikation im Plenum findet auf Englisch statt, aber in den Pitching-Sitzungen können die Teilnehmer in ihrer eigenen Sprache sprechen, und wir übersetzen live für diejenigen, die sie nicht verstehen.
-- In den Panels kann die Sprachmischung variieren. Die Moderatoren der Panels sollen entscheiden, wie sie damit umgehen wollen, je nach den Teilnehmer*innen.
+- In den Panels kann die Sprachmischung variieren. Die Moderatoren der Panels sollen entscheiden, wie sie damit umgehen wollen, je nach den Teilnehmer\*innen.
 
 ## FAQ
 
@@ -41,7 +41,7 @@ Diese Veranstaltung ist besonders geeignet, aber nicht beschränkt auf Doktorand
 <details>
 <summary>Müssen Abstracts, paper oder Präsentation eingereicht werden?</summary>
 
-Nein. Als Unkonferenz muss die 'Critique Digitale' nicht einer traditionellen wissenschaftlichen Veranstaltung folgen, sondern funktioniert als offener Raum, in dem die Vortragenden, Organisator*innen und Teilnehmende die Themen auswählen. Es ist ein kollaborativer Weg, um zu debattieren, Informationen auszutauschen und Wissen aufzubauen.
+Nein. Als Unkonferenz muss die 'Critique Digitale' nicht einer traditionellen wissenschaftlichen Veranstaltung folgen, sondern funktioniert als offener Raum, in dem die Vortragenden, Organisator\*innen und Teilnehmende die Themen auswählen. Es ist ein kollaborativer Weg, um zu debattieren, Informationen auszutauschen und Wissen aufzubauen.
 
 </details>
 <details>
@@ -55,7 +55,6 @@ Die Konferenz findet auf BigBlueButton (BBB) statt, einer quelloffenen Visio-Kon
 
 Die Abstimmung über das Programm findet über die Anwendung mieuxvoter.fr statt. Informationen zum Konzept des Mehrheitsentscheids finden Sie hier: https://mieuxvoter.fr/index.php/decouvrir/?lang=en
 
-
 </details>
 <details>
 <summary>Inhalt und Struktur</summary>
@@ -66,4 +65,5 @@ Der Inhalt und die Struktur des Tages werden von den Teilnehmern bestimmt. Siehe
 - Was auch immer passiert, ist das Einzige, was hätte passieren können
 - Wann immer es beginnt, ist der richtige Zeitpunkt
 - Wenn es vorbei ist, ist es vorbei
+
 </details>
