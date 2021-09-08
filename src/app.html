@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+		<link rel="manifest" href="/site.webmanifest" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link rel="preload" href="../fonts/CEO-Bold.woff2" as="font" type="font/woff2" crossorigin />
+		<link rel="preload" href="../fonts/CEO-Bold.woff" as="font" type="font/woff" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap"
+			rel="stylesheet"
+		/>
+		<link rel="stylesheet" href="https://unpkg.com/mvp.css" />
+		<style>
+			@font-face {
+				font-family: 'CEO';
+				src: local(''), url('../fonts/CEO-Bold.woff2') format('woff2'),
+					url('../fonts/CEO-Bold.woff') format('woff');
+				font-weight: bold;
+				font-style: normal;
+				font-display: swap;
+			}
+			:root {
+				--color: rgb(102, 45, 145);
+				--color-accent: rgb(144, 210, 74);
+				--color-bg: #fff;
+				--color-bg-secondary: #eee;
+				--color-secondary: rgb(177, 80, 255);
+				--color-secondary-accent: rgb(252, 152, 15);
+				--color-shadow: #ccc;
+				--color-text: #000;
+				--color-text-secondary: #999;
+				--font-family: 'Open Sans', sans-serif;
+				--hover-brightness: 1.5;
+				--width-card: 195px;
+			}
+			.secondary-font,
+			h1,
+			h2,
+			h3,
+			h4,
+			h5,
+			h6 {
+				font-family: 'CEO', sans-serif;
+				font-weight: bold;
+			}
+		</style>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		%svelte.head%
+	</head>
+	<body>
+		<div id="svelte">%svelte.body%</div>
+	</body>
+</html>

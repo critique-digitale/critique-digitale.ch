@@ -1,0 +1,39 @@
+{
+	"name": "critique-digitale.ch",
+	"version": "0.0.1",
+	"url": "https://github.com/critique-digitale/critique-digitale.ch/issues",
+	"email": "info@critique-digitale.ch ",
+	"license": "GPL-3.0",
+	"scripts": {
+		"dev": "svelte-kit dev",
+		"build": "svelte-kit build",
+		"deploy": "rm -rf build && svelte-kit build && touch build/.nojekyll && npx gh-pages -d build -t true",
+		"preview": "svelte-kit preview",
+		"check": "svelte-check --tsconfig ./tsconfig.json",
+		"check:watch": "svelte-check --tsconfig ./tsconfig.json --watch",
+		"lint": "prettier --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
+		"format": "prettier --write --plugin-search-dir=. ."
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-static": "^1.0.0-next.18",
+		"@sveltejs/kit": "next",
+		"@typescript-eslint/eslint-plugin": "^4.31.0",
+		"@typescript-eslint/parser": "^4.31.0",
+		"eslint": "^7.32.0",
+		"eslint-config-prettier": "^8.3.0",
+		"eslint-plugin-svelte3": "^3.2.0",
+		"gh-pages": "^3.2.3",
+		"mdsvex": "^0.9.8",
+		"prettier": "~2.2.1",
+		"prettier-plugin-svelte": "^2.4.0",
+		"svelte": "^3.42.4",
+		"svelte-check": "^2.2.5",
+		"svelte-preprocess": "^4.9.2",
+		"tslib": "^2.3.1",
+		"typescript": "^4.4.2"
+	},
+	"type": "module",
+	"engines": {
+		"node": ">=14"
+	}
+}
