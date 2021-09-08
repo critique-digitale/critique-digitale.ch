@@ -42,4 +42,11 @@
 			</figure>
 		</aside></a
 	>
+	<a href="https://www.sagw.ch/">
+		<aside>
+			<figure>
+				<img alt="SAGW" src="images/logos/Supported_e_SAGW_hori.png" />
+			</figure>
+		</aside></a
+	>
 </section>

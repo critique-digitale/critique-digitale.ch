@@ -11,7 +11,7 @@ on:
 
 jobs:
   check:
-    name: Run linters
+    name: Build
     runs-on: ubuntu-latest
 
     steps:
