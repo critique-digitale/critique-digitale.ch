@@ -42,6 +42,13 @@
 			</figure>
 		</aside></a
 	>
+		<a href="https://unil.ch/index.html">
+		<aside>
+			<figure>
+				<img alt="University of Lausanne" src="images/logos/unil-logo.svg" />
+			</figure>
+		</aside></a
+	>
 	<a href="https://www.sagw.ch/">
 		<aside>
 			<figure>
