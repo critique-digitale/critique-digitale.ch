@@ -42,7 +42,7 @@
 			</figure>
 		</aside></a
 	>
-		<a href="https://unil.ch/index.html">
+	<a href="https://unil.ch/index.html">
 		<aside>
 			<figure>
 				<img alt="University of Lausanne" src="images/logos/unil-logo.svg" />
@@ -53,6 +53,13 @@
 		<aside>
 			<figure>
 				<img alt="SAGW" src="images/logos/Supported_e_SAGW_hori.png" />
+			</figure>
+		</aside></a
+	>
+	<a href="https://www.sagw.ch/fr/assh/reseau/la-suisse-existe-la-suisse-nexiste-pas">
+		<aside>
+			<figure>
+				<img alt="SAGW" src="images/logos/Logo_Schnitt_Farbe_CMYK.jpeg" />
 			</figure>
 		</aside></a
 	>
