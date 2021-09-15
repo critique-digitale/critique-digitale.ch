@@ -10,11 +10,11 @@ Please register online [here](https://www.infoclio.ch/en/unconference-digital-cr
 
 ### Pitching and voting procedures
 
-On the first day of the event (21st of October, 10:00) we will have a pitching session. If you come up with an idea, just raise your hand and we will call you up, so you can explain your idea. Make sure to have a title for your panel at hand. If you already pitched your idea online: Great, we will call you up and you can elaborate if you wish.
+On the first day of the event (21st of October, 10:00) we will have a pitching session. If you come up with an idea, just raise your hand and we will call you up, so you can explain your idea. Make sure to have a title for your panel at hand. If you already pitched your idea online: great, we will call you up and you can elaborate if you wish.
 
-An unconference is an open space. Every topic is worth considering and discussing. From data management, funding, and privacy to digital methods and tools: Everything is welcome.
+An unconference is an open space. Every topic is worth considering and discussing. From data management, funding, and privacy to digital methods and tools: everything is welcome.
 
-You don’t know if people want to discuss this? Pitch it! Are you unsure if the topic belongs to “Critique Digitale”? Pitch it!
+You don’t know if people want to discuss this? Pitch it! Are you unsure if the topic belongs to ‘digital criticism’? Pitch it!
 
 Once we've collected all panel propositions, those will be submitted to a majority vote by all participants. Panels who get more consent will be integrated to the conference programme as panel slots of 45 min. More information about the voting system are to be found [here](https://mieuxvoter.fr/index.php/decouvrir/?lang=en).
 
@@ -36,12 +36,12 @@ As we are in Switzerland, a country with four official languages, we are committ
 
 <details>
 <summary>Who should attend ?</summary>
-This event is especially suitable but not limited to PhD students, in all stages of completion. Postdocs, Research Staff and Masters students are also welcome. There are no requirements of specific fields, as long as there is a connection with your work or studies.
+This event is especially suitable but not limited to PhD students, in all stages of completion. Postdocs, research staff and master students are also welcome. There are no requirements of specific fields, as long as there is a connection with your work or studies.
 </details>
 <details>
 <summary>Is it necessary to send an abstract, a paper or a presentation?</summary>
 
-No. As an unconference, the Critique Digitale does not need to follow a traditional scientific event, but rather works as an open space where the presenters, organizers and participants choose the topics. It’s a collaborative way to debate, share information and build knowledge.
+No. As an unconference, Digital Criticism does not need to follow a traditional scientific event, but rather works as an open space where the presenters, organizers and participants choose the topics. It’s a collaborative way to debate, share information and build knowledge.
 
 </details>
 <details>
@@ -64,6 +64,6 @@ The content and structure of the day are driven by the participants. See for ins
 - Whoever comes are the right people
 - Whatever happens, is the only thing that could have
 - Whenever it starts is the right time
-- When it's over, it's over" (ref)
+- When it's over, it's over
 
 </details>

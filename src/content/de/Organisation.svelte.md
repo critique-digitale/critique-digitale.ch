@@ -28,7 +28,7 @@ Panels sind 45-minütige Diskussions- und Austauschrunden zu einem bestimmten Th
 
 Da die Unkonferenz in der Schweiz stattfindet, einem Land mit vier Amtssprachen, ist es uns ein Anliegen, die Mehrsprachigkeit zu fördern. Wir sind bestrebt, Englisch während der gesamten Veranstaltung als lingua franca zu verwenden, werden aber auch die Teilnehmer\*innen ermutigen, ihre eigenen Sprachen oder Englisch zu sprechen.
 
-- Die Keynotes werden in Französisch (mit Live-Untertiteln in Englisch) und Englisch gehalten.	
+- Die Keynotes werden in Französisch (mit Live-Untertiteln in Englisch) und Englisch gehalten.
 - Die Kommunikation im Plenum findet in Englisch statt. In den Pitching-Sitzungen können die Teilnehmer\*innen in ihrer eigenen Sprache sprechen, und wir übersetzen live, falls notwendig.
 - In den Panels entscheiden die Moderator\*innen über die Sprache und gehen auf die Kompetenzen der Teilnehmer\*innen ein.
 
@@ -40,8 +40,8 @@ Diese Veranstaltung ist besonders – aber nicht ausschliesslich – geeignet f�
 <details>
 <summary>Müssen Abstracts, Papers oder Präsentationen eingereicht werden?</summary>
 
-Nein. Als Unkonferenz folgt die ‘Critique Digitale’ nicht einer traditionellen wissenschaftlichen Veranstaltung, sondern funktioniert als offener Raum, in dem die Referent*innen, Organisator\*innen und Teilnehmer\*innen die Themen auswählen. Dies ist ein kollaborativer Weg, um zu debattieren, Informationen auszutauschen und Wissen aufzubauen.
-	
+Nein. Als Unkonferenz folgt die ‘Critique Digitale’ nicht einer traditionellen wissenschaftlichen Veranstaltung, sondern funktioniert als offener Raum, in dem die Referent\*innen, Organisator\*innen und Teilnehmer\*innen die Themen auswählen. Dies ist ein kollaborativer Weg, um zu debattieren, Informationen auszutauschen und Wissen aufzubauen.
+
 </details>
 <details>
 <summary>Wie kann ich mich für BigBlueButton registrieren?</summary>
@@ -51,12 +51,12 @@ Nein. Als Unkonferenz folgt die ‘Critique Digitale’ nicht einer traditionell
 <summary>Konferenzsoftware und Plattform</summary>
 
 Die Konferenz findet auf BigBlueButton (BBB) statt, einer quelloffenen Visio-Konferenzsoftware, die von CH-Open entwickelt wurde, einer schweizerischen Organisation zur Förderung von Open-Source-Software, Online-Datenschutz und offenen Datenstandards. Anleitungen zur Verwendung von BBB finden Sie hier.
-	
 Die Abstimmung über das Programm findet über die Anwendung mieuxvoter.fr statt. Informationen zum Konzept des Mehrheitsentscheids finden Sie [hier](https://mieuxvoter.fr/index.php/decouvrir/?lang=en)
 
 </details>
 <details>
 <summary>Inhalt und Struktur</summary>
 
-Der Inhalt und die Struktur des Tages werden von den Teilnehmer\*innen bestimmt. Vgl. zum Beispiel das Konzept des [BarCamp](https://en.wikipedia.org/wiki/BarCamp). 
+Der Inhalt und die Struktur des Tages werden von den Teilnehmer\*innen bestimmt. Vgl. zum Beispiel das Konzept des [BarCamp](https://en.wikipedia.org/wiki/BarCamp).
+
 </details>

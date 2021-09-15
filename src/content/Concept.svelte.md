@@ -1,8 +1,8 @@
 ### Introduction
 
-Higher education research centres from all over Switzerland are joining forces to host the first unconference about « Digital Critique ». Free of charge and open to all, this unique event will take place online-only the 21 and 22 October 2021.
+Higher education research centres from all over Switzerland are joining forces to host the first unconference on ‘digital criticism’. Free of charge and open to all, this unique event will take place online-only the 21 and 22 October 2021.
 
-After a decade of research on the ‘Digital Turn’ and its impact on both research and society at large, this event aims to offer a space to network, share insights, and discuss future trends in digital studies / digital humanities among scholars of Switzerland and beyond. Join us and register for the event !
+After a decade of research on the ‘Digital Turn’ and its impact on both research and society at large, this event aims to offer a space to network, share insights, and discuss future trends in digital studies / digital humanities among scholars from Switzerland and beyond. Join us and register for the event !
 
 ### Objectives
 
@@ -13,7 +13,7 @@ After a decade of research on the ‘Digital Turn’ and its impact on both rese
 
 ### What is an unconference?
 
-An unconference is an informal, participant-driven meeting that tries to avoid hierarchical aspects of a conventional conference. The format, which encourages networking, open discussions, and participation, first appeared in the Silicon Valley in the 2000’s as a tool to foster new innovation models. Unconferences contributed to the birth of social media and “Web 2.0”.
+An unconference is an informal, participant-driven meeting that tries to avoid hierarchical aspects of a conventional conference. The format, which encourages networking, open discussions, and participation, first appeared in the Silicon Valley in the 2000’s as a tool to foster new innovation models. Unconferences contributed to the birth of social media and ‘Web 2.0’.
 
 In concrete terms, the conference unfolds as follows
 
