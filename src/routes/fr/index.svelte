@@ -12,7 +12,7 @@
 
 <Meta
 	title={"Unconférence 'Critique numérique' | Du 21 octobre 2021 au 22 octobre 2021"}
-	description={'TBD'}
+	description={"Des centres de recherche de toute la Suisse s'associent pour organiser la première unconference sur la “Critique digitale”. Gratuit et ouvert à toutes et à tous, cet événement unique aura lieu en ligne uniquement les 21 et 22 octobre 2021."}
 />
 
 <header id="home">

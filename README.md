@@ -1,6 +1,6 @@
 # critique-digitale.ch
 
-Higher education research centres from all over Switzerland are joining forces to host the first unconference about "Digital Critique". Free of charge and open to all, this unique event will take place online-only the 21 and 22 October 2021.
+Higher education research centres from all over Switzerland are joining forces to host the first unconference on ‘digital criticism’. Free of charge and open to all, this unique event will take place online-only the 21 and 22 October 2021.
 
 [![GitHub issues](https://img.shields.io/github/issues/critique-digitale/critique-digitale.ch.svg)](https://github.com/critique-digitale/critique-digitale.ch/issues)
 [![GitHub forks](https://img.shields.io/github/forks/critique-digitale/critique-digitale.ch.svg)](https://github.com/critique-digitale/critique-digitale.ch/network)

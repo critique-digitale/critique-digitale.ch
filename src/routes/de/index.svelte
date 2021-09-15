@@ -12,7 +12,7 @@
 
 <Meta
 	title={"Unconference 'Digitale Kritik' | 21. Oktober 2021 bis 22. Oktober 2021"}
-	description={'TBD'}
+	description={'Forscher*innen aus Schweizer Universitäten und wissenschaftlichen Institutionen laden alle Interessierten herzlich zur ersten Unkonferenz «Digitale Kritik» ein. Offen und ohne Teilnahmegebühren wird dieser einzigartige Anlass am 21. und 22. Oktober 2021 online durchgeführt.'}
 />
 
 <header id="home">

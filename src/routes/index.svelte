@@ -10,7 +10,10 @@
 	import Organisation from '../content/Organisation.svelte.md';
 </script>
 
-<Meta title={"Unconference 'Digital Criticism' | October 21—22, 2021"} description={'TBD'} />
+<Meta
+	title={"Unconference 'Digital Criticism' | October 21—22, 2021"}
+	description={'Higher education research centres from all over Switzerland are joining forces to host the first unconference on ‘digital criticism’. Free of charge and open to all, this unique event will take place online-only the 21 and 22 October 2021.'}
+/>
 
 <header id="home">
 	<nav>
