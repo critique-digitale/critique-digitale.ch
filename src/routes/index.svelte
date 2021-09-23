@@ -3,7 +3,7 @@
 </script>
 
 <script>
-	import Logos from '../components/Logos.svelte';
+	import About from '../components/About.svelte';
 	import Meta from '../components/Meta.svelte';
 	import Concept from '../content/Concept.svelte.md';
 	import Programme from '../content/Programme.svelte.md';
@@ -75,7 +75,7 @@
 	<header>
 		<h2>About us</h2>
 	</header>
-	<Logos />
+	<About />
 	<h3>Contact</h3>
 	<p><a href="mailto:info@critique-digitale.ch">info@critique-digitale.ch</a></p>
 	<section><a href="#home" class="secondary-font">⇧ Back up</a></section>

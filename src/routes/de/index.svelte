@@ -3,7 +3,7 @@
 </script>
 
 <script>
-	import Logos from '../../components/Logos.svelte';
+	import About from '../../components/About.svelte';
 	import Meta from '../../components/Meta.svelte';
 	import Concept from '../../content/de/Concept.svelte.md';
 	import Programme from '../../content/de/Programme.svelte.md';
@@ -81,7 +81,7 @@
 		Walter Benjamin Kolleg of the University of Bern, infoclio.ch, Digital Humanities Lab University
 		of Basel
 	</p> -->
-	<Logos />
+	<About />
 	<h3>Kontakt</h3>
 	<p><a href="mailto:info@critique-digitale.ch">info@critique-digitale.ch</a></p>
 	<section><a href="#home" class="secondary-font">⇧ Zurück</a></section>

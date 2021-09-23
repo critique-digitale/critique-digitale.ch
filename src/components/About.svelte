@@ -1,4 +1,18 @@
 <section>
+	<div>
+		<a href="https://critique-digitale.ch/">Alexandre Camus</a>,
+		<a href="https://critique-digitale.ch/">Charlotte Mazel-Cabasse</a>,
+		<a href="https://critique-digitale.ch/">Jessica Pidoux</a>,
+		<a href="https://moritzmaehr.ch/">Moritz Mähr</a>,
+		<a href="https://critique-digitale.ch/">Tobias Hodel</a>,
+		<a href="https://critique-digitale.ch/">Vera Chiquet</a> &
+		<a href="https://critique-digitale.ch/">Vlad Atanasiu</a>.
+	</div>
+</section>
+<br />
+<br />
+<br />
+<section>
 	<a href="https://infoclio.ch/"
 		><aside>
 			<figure>
