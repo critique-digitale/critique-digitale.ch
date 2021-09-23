@@ -50,7 +50,7 @@ Nein. Als Unkonferenz folgt die ‘Critique Digitale’ nicht einer traditionell
 <details>
 <summary>Konferenzsoftware und Plattform</summary>
 
-Die Konferenz findet auf BigBlueButton (BBB) statt, einer quelloffenen Visio-Konferenzsoftware, die von CH-Open entwickelt wurde, einer schweizerischen Organisation zur Förderung von Open-Source-Software, Online-Datenschutz und offenen Datenstandards. Anleitungen zur Verwendung von BBB finden Sie hier.
+Die Konferenz findet auf BigBlueButton (BBB) statt, einer quelloffenen Visio-Konferenzsoftware, die von CH-Open entwickelt wurde, einer schweizerischen Organisation zur Förderung von Open-Source-Software, Online-Datenschutz und offenen Datenstandards. [Ein Handbuch](../downloads/Benutzeranleitung_BigBlueButton.pdf) und [Tutorials](https://bigbluebutton.org/teachers/tutorials/) zur Verwendung von BBB sind verfügbar.
 Die Abstimmung über das Programm findet über die Anwendung mieuxvoter.fr statt. Informationen zum Konzept des Mehrheitsentscheids finden Sie [hier](https://mieuxvoter.fr/index.php/decouvrir/?lang=en)
 
 </details>

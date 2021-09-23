@@ -51,9 +51,9 @@ No. As an unconference, Digital Criticism does not need to follow a traditional 
 <details>
 <summary>Conference Software and Platform</summary>
 
-The conference will take place on BigBlueButton (BBB), an open source visio-conference software developed by CH-Open, a Swiss organisation promoting open source software, online privacy, and open data standards. Tutorials on how to use BBB are available here.
+The conference will take place on BigBlueButton (BBB), an open source visio-conference software developed by CH-Open, a Swiss organisation promoting open source software, online privacy, and open data standards. [A manual](downloads/Manual_BigBlueButton.pdf) and [tutorials](https://bigbluebutton.org/teachers/tutorials/) on how to use BBB are available.
 
-Voting on the programme will take place via the application mieuxvoter.fr. Information on the concept of majority judgment can be found here: https://mieuxvoter.fr/index.php/decouvrir/?lang=en
+Voting on the programme will take place via the application mieuxvoter.fr. Information on the concept of majority judgment can be found [here](https://mieuxvoter.fr/index.php/decouvrir/?lang=en)
 
 </details>
 <details>

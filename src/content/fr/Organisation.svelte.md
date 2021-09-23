@@ -54,7 +54,7 @@ Cet événement est ouvert à toutes les personnes intéressées à discuter des
 
 <summary>Software et plateforme de la conférence</summary>
 
-La conférence aura lieu sur BigBlueButton (BBB), un logiciel de visio-conférence open source développé par CH-Open, une organisation suisse qui promeut l’open source, la protection de la sphère privée et les standards de données ouvertes. en Suisse. Des guides sur l’utilisation de BigBlueButton sont disponibles [ici](https://bigbluebutton.org/teachers/tutorials/).
+La conférence aura lieu sur BigBlueButton (BBB), un logiciel de visio-conférence open source développé par CH-Open, une organisation suisse qui promeut l’open source, la protection de la sphère privée et les standards de données ouvertes. en Suisse. Des guides sur l’utilisation de BigBlueButton sont disponibles: [manual](../downloads/Manual_BigBlueButton.pdf) et [tutorials](https://bigbluebutton.org/teachers/tutorials/).
 
 Le vote sur le programme se fera via l’application mieuxvoter.fr. Des informations sur le système de votre majoritaire sont disponibles [ici](https://mieuxvoter.fr/index.php/decouvrir/).
 
