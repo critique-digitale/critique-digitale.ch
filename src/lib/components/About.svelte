@@ -41,7 +41,10 @@
 	<a href="https://www.unige.ch/">
 		<aside>
 			<figure>
-				<img alt="Université de Genève" src="https://critique-digitale.ch/images/logos/UNIGE70.gif" />
+				<img
+					alt="Université de Genève"
+					src="https://critique-digitale.ch/images/logos/UNIGE70.gif"
+				/>
 			</figure>
 		</aside></a
 	>
@@ -55,28 +58,40 @@
 	<a href="https://dhcenter-unil-epfl.com/">
 		<aside>
 			<figure>
-				<img alt="dhcenter UNIL EPFL" src="https://critique-digitale.ch/images/logos/logo-dhcenter-unil-epfl.png" />
+				<img
+					alt="dhcenter UNIL EPFL"
+					src="https://critique-digitale.ch/images/logos/logo-dhcenter-unil-epfl.png"
+				/>
 			</figure>
 		</aside></a
 	>
 	<a href="https://www.unibe.ch/">
 		<aside>
 			<figure>
-				<img alt="Universität Bern" src="https://critique-digitale.ch/images/logos/Unibe_Logo_16pt_RGB_201807.png" />
+				<img
+					alt="Universität Bern"
+					src="https://critique-digitale.ch/images/logos/Unibe_Logo_16pt_RGB_201807.png"
+				/>
 			</figure>
 		</aside>
 	</a>
 	<a href="https://unibas.ch/">
 		<aside>
 			<figure>
-				<img alt="University of Basel" src="https://critique-digitale.ch/images/logos/uni-basel-logo-ogtag.png" />
+				<img
+					alt="University of Basel"
+					src="https://critique-digitale.ch/images/logos/uni-basel-logo-ogtag.png"
+				/>
 			</figure>
 		</aside></a
 	>
 	<a href="https://unil.ch/index.html">
 		<aside>
 			<figure>
-				<img alt="University of Lausanne" src="https://critique-digitale.ch/images/logos/unil-logo.svg" />
+				<img
+					alt="University of Lausanne"
+					src="https://critique-digitale.ch/images/logos/unil-logo.svg"
+				/>
 			</figure>
 		</aside></a
 	>
@@ -90,7 +105,10 @@
 	<a href="https://www.sagw.ch/fr/assh/reseau/la-suisse-existe-la-suisse-nexiste-pas">
 		<aside>
 			<figure>
-				<img alt="SAGW" src="https://critique-digitale.ch/images/logos/Logo_Schnitt_Farbe_CMYK.jpeg" />
+				<img
+					alt="SAGW"
+					src="https://critique-digitale.ch/images/logos/Logo_Schnitt_Farbe_CMYK.jpeg"
+				/>
 			</figure>
 		</aside></a
 	>

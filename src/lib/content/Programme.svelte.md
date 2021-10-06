@@ -1,20 +1,24 @@
+<script>
+    import Panelslot from '$lib/components/Panelslot.svelte';
+</script>
+
 The conference programme includes two plenary sessions, three keynotes by leading scholars in the field of digital studies, as well as a series of parallel panel sessions on topics that the participants themselves have proposed and chosen by voting.
 
 <section>
 
-|       | 21. Oktober                                                    | 22. Oktober                          |
-| ----- | -------------------------------------------------------------- | ------------------------------------ |
-| 08:45 | On-boarding BigBlueButton<br>Provided by CH-Open               |                                      |
-| 09:30 | Introduction by the Organizers & welcome by Dr. Markus Zürcher | Welcome Back                         |
-| 10:00 | Pitching-Session                                               | Panelslot 4                          |
-| 11:00 | Keynote by Nathalie Pignard Cheynel<br>Voting in progress      | Keynote by Dominique Cardon          |
-| 12:00 | Presentation of program & lunch break                          | Panelslot 5 & break                  |
-| 13:30 | Panels I                                                       | Presentations of Results and Outlook |
-| 14:15 | Break                                                          | Round Table and End of Event         |
-| 15:00 | Panels II                                                      |                                      |
-| 15:45 | Panels III                                                     |                                      |
-| 16:30 | Break                                                          |                                      |
-| 17:00 | Keynote by Mar Hicks                                           |                                      |
+|       | October 21                                                        | October 22                                  |
+| ----- | ----------------------------------------------------------------- | ------------------------------------------- |
+| 08:45 | On-boarding BigBlueButton<br>Provided by CH-Open                  |                                             |
+| 09:30 | Introduction by the Organizers &<br>welcome by Dr. Markus Zürcher | Welcome Back                                |
+| 10:00 | Pitching-Session                                                  | Panelslot 4<Panelslot panelslot='4'/>       |
+| 11:00 | Keynote by Nathalie Pignard Cheynel<br>Voting in progress         | Keynote by Dominique Cardon                 |
+| 12:00 | Presentation of program & lunch break                             | Panelslot 5<Panelslot panelslot='5'/> break |
+| 13:30 | Panelslot 1<Panelslot panelslot='1'/>                             | Presentations of Results and Outlook        |
+| 14:15 | Break                                                             | Round Table and End of Event                |
+| 15:00 | Panelslot 2<Panelslot panelslot='2'/>                             |                                             |
+| 15:45 | Panelslot 3<Panelslot panelslot='3'/>                             |                                             |
+| 16:30 | Break                                                             |                                             |
+| 17:00 | Keynote by Mar Hicks                                              |                                             |
 
 </section>
 
