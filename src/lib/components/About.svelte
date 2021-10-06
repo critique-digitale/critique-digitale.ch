@@ -60,7 +60,7 @@
 			<figure>
 				<img
 					alt="dhcenter UNIL EPFL"
-					src="https://critique-digitale.ch/images/logos/logo-dhcenter-unil-epfl.png"
+					src="https://critique-digitale.ch/images/logos/dhCenter_logo-black"
 				/>
 			</figure>
 		</aside></a
