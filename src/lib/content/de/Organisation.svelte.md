@@ -1,5 +1,6 @@
 <script>
-	import Videos from '../../components/Videos.svelte';
+	import Videos from '$lib/components/Videos.svelte';
+	import { assets } from '$app/paths';
 </script>
 
 ### Registrierung
@@ -43,18 +44,26 @@ Diese Veranstaltung ist besonders – aber nicht ausschliesslich – geeignet f�
 Nein. Als Unkonferenz folgt die ‘Critique Digitale’ nicht einer traditionellen wissenschaftlichen Veranstaltung, sondern funktioniert als offener Raum, in dem die Referent\*innen, Organisator\*innen und Teilnehmer\*innen die Themen auswählen. Dies ist ein kollaborativer Weg, um zu debattieren, Informationen auszutauschen und Wissen aufzubauen.
 
 </details>
+
 <details>
+
 <summary>Wie kann ich mich für BigBlueButton registrieren?</summary>
-<Videos poster={'https://critique-digitale.ch/videos/participants.png'} src={'https://critique-digitale.ch/videos/participants.mp4'} />
+
+<Videos poster={assets+'/videos/participants.png'} src={assets+'/videos/participants.mp4'} />
+
 </details>
+
 <details>
+
 <summary>Konferenzsoftware und Plattform</summary>
 
 Die Konferenz findet auf BigBlueButton (BBB) statt, einer quelloffenen Visio-Konferenzsoftware, die von CH-Open entwickelt wurde, einer schweizerischen Organisation zur Förderung von Open-Source-Software, Online-Datenschutz und offenen Datenstandards. [Ein Handbuch](../downloads/Benutzeranleitung_BigBlueButton.pdf) und [Tutorials](https://bigbluebutton.org/teachers/tutorials/) zur Verwendung von BBB sind verfügbar.
 Die Abstimmung über das Programm findet über die Anwendung mieuxvoter.fr statt. Informationen zum Konzept des Mehrheitsentscheids finden Sie [hier](https://mieuxvoter.fr/index.php/decouvrir/?lang=en)
 
 </details>
+
 <details>
+
 <summary>Inhalt und Struktur</summary>
 
 Der Inhalt und die Struktur des Tages werden von den Teilnehmer\*innen bestimmt. Vgl. zum Beispiel das Konzept des [BarCamp](https://en.wikipedia.org/wiki/BarCamp).

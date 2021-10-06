@@ -1,5 +1,6 @@
 <script>
-	import Videos from '../../components/Videos.svelte';
+	import Videos from '$lib/components/Videos.svelte';
+	import { assets } from '$app/paths';
 </script>
 
 ### Inscription
@@ -46,7 +47,7 @@ Cet événement est ouvert à toutes les personnes intéressées à discuter des
 
 <summary>How do I register in Big Blue Button?</summary>
 
-<Videos poster={'https://critique-digitale.ch/videos/participants.png'} src={'https://critique-digitale.ch/videos/participants.mp4'} />
+<Videos poster={assets+'/videos/participants.png'} src={assets+'/videos/participants.mp4'} />
 
 </details>
 

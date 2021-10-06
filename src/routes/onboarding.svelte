@@ -1,4 +1,5 @@
-<script lang="ts">
+<script>
+	import { assets } from '$app/paths';
 	import About from '../lib/components/About.svelte';
 	import Videos from '../lib/components/Videos.svelte';
 	let title = "Unconference 'Digital Criticism' | October 21—22, 2021";
@@ -46,7 +47,10 @@
 		</header>
 
 		<h3>TBD</h3>
-		<Videos poster={'https://critique-digitale.ch/videos/speakers.png'} src={'https://critique-digitale.ch/videos/speakers.mp4'} />
+		<Videos
+			poster={assets+'/videos/speakers.png'}
+			src={assets+'/videos/speakers.mp4'}
+		/>
 	</article>
 	<section><a href="#home" class="secondary-font">⇧ Back up</a></section>
 	<hr />

@@ -1,3 +1,7 @@
+<script>
+	import { assets } from '$app/paths';
+</script>
+
 <section>
 	<div>
 		<a href="https://people.epfl.ch/alexandre.camus">Alexandre Camus</a>,
@@ -33,7 +37,7 @@
 	<a href="https://infoclio.ch/"
 		><aside>
 			<figure>
-				<img alt="Infoclio" src="https://critique-digitale.ch/images/logos/infoclio-ch_RGB.png" />
+				<img alt="Infoclio" src="{assets}/images/logos/infoclio-ch_RGB.png" />
 			</figure>
 		</aside></a
 	>
@@ -41,74 +45,56 @@
 	<a href="https://www.unige.ch/">
 		<aside>
 			<figure>
-				<img
-					alt="Université de Genève"
-					src="https://critique-digitale.ch/images/logos/UNIGE70.gif"
-				/>
+				<img alt="Université de Genève" src="{assets}/images/logos/UNIGE70.gif" />
 			</figure>
 		</aside></a
 	>
 	<a href="https://dhlab.philhist.unibas.ch/">
 		<aside>
 			<figure>
-				<img alt="DHLab" src="https://critique-digitale.ch/images/logos/dhlab-logo-amber.png" />
+				<img alt="DHLab" src="{assets}/images/logos/dhlab-logo-amber.png" />
 			</figure>
 		</aside></a
 	>
 	<a href="https://dhcenter-unil-epfl.com/">
 		<aside>
 			<figure>
-				<img
-					alt="dhcenter UNIL EPFL"
-					src="https://critique-digitale.ch/images/logos/dhCenter_logo-black"
-				/>
+				<img alt="dhcenter UNIL EPFL" src="{assets}/images/logos/dhCenter_logo-black.png" />
 			</figure>
 		</aside></a
 	>
 	<a href="https://www.unibe.ch/">
 		<aside>
 			<figure>
-				<img
-					alt="Universität Bern"
-					src="https://critique-digitale.ch/images/logos/Unibe_Logo_16pt_RGB_201807.png"
-				/>
+				<img alt="Universität Bern" src="{assets}/images/logos/Unibe_Logo_16pt_RGB_201807.png" />
 			</figure>
 		</aside>
 	</a>
 	<a href="https://unibas.ch/">
 		<aside>
 			<figure>
-				<img
-					alt="University of Basel"
-					src="https://critique-digitale.ch/images/logos/uni-basel-logo-ogtag.png"
-				/>
+				<img alt="University of Basel" src="{assets}/images/logos/uni-basel-logo-ogtag.png" />
 			</figure>
 		</aside></a
 	>
 	<a href="https://unil.ch/index.html">
 		<aside>
 			<figure>
-				<img
-					alt="University of Lausanne"
-					src="https://critique-digitale.ch/images/logos/unil-logo.svg"
-				/>
+				<img alt="University of Lausanne" src="{assets}/images/logos/unil-logo.svg" />
 			</figure>
 		</aside></a
 	>
 	<a href="https://www.sagw.ch/">
 		<aside>
 			<figure>
-				<img alt="SAGW" src="https://critique-digitale.ch/images/logos/Supported_e_SAGW_hori.png" />
+				<img alt="SAGW" src="{assets}/images/logos/Supported_e_SAGW_hori.png" />
 			</figure>
 		</aside></a
 	>
 	<a href="https://www.sagw.ch/fr/assh/reseau/la-suisse-existe-la-suisse-nexiste-pas">
 		<aside>
 			<figure>
-				<img
-					alt="SAGW"
-					src="https://critique-digitale.ch/images/logos/Logo_Schnitt_Farbe_CMYK.jpeg"
-				/>
+				<img alt="SAGW" src="{assets}/images/logos/Logo_Schnitt_Farbe_CMYK.jpeg" />
 			</figure>
 		</aside></a
 	>

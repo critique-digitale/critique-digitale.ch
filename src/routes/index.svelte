@@ -1,13 +1,10 @@
-<script context="module">
-	export const prerender = true;
-</script>
-
 <script>
 	import About from '$lib/components/About.svelte';
 	import Meta from '$lib/components/Meta.svelte';
 	import Concept from '$lib/content/Concept.svelte.md';
 	import Programme from '$lib/content/Programme.svelte.md';
 	import Organisation from '$lib/content/Organisation.svelte.md';
+	import { base, assets } from '$app/paths';
 </script>
 
 <Meta
@@ -17,28 +14,28 @@
 
 <header id="home">
 	<nav>
-		<a href="/"
+		<a href={base}
 			><img
 				alt="Digital Criticism"
-				src="images/digital-criticism-logo-graphics-dc.svg"
+				src="{assets}/images/digital-criticism-logo-graphics-dc.svg"
 				width="100%"
 				height="100px"
 			/></a
 		>
 		<ul>
-			<li><a href="#concept" class="secondary-font">Concept</a></li>
-			<li><a href="#programme" class="secondary-font">Programme</a></li>
-			<li><a href="#organisation" class="secondary-font">Organisation</a></li>
+			<li><a href="{base}#concept" class="secondary-font">Concept</a></li>
+			<li><a href="{base}/#programme" class="secondary-font">Programme</a></li>
+			<li><a href="{base}/#organisation" class="secondary-font">Organisation</a></li>
 			<li>
 				<a
 					href="https://www.infoclio.ch/en/unconference-digital-critique-information-list-liste-dinformations-informationsliste"
 					class="secondary-font">Registration</a
 				>
 			</li>
-			<li><a href="/de">DE</a>|<a href="/fr">FR</a></li>
+			<li><a href="{base}/de">DE</a>|<a href="/fr">FR</a></li>
 		</ul>
 	</nav>
-	<img alt="Digital Criticism" src="images/digital-criticism-logo-text.svg" width="100%" />
+	<img alt="Digital Criticism" src="{assets}/images/digital-criticism-logo-text.svg" width="100%" />
 	<p>
 		<b>Unconference October 21—22, 2021</b>
 		<a href="https://infoclio.ch/de/event-ics/158787/event_158787.ics">📅</a>
@@ -51,7 +48,7 @@
 		</header>
 		<Concept />
 	</article>
-	<section><a href="#home" class="secondary-font">⇧ Back up</a></section>
+	<section><a href="{base}/#home" class="secondary-font">⇧ Back up</a></section>
 	<hr />
 	<article id="programme">
 		<header>
@@ -59,7 +56,7 @@
 		</header>
 		<Programme />
 	</article>
-	<section><a href="#home" class="secondary-font">⇧ Back up</a></section>
+	<section><a href="{base}/#home" class="secondary-font">⇧ Back up</a></section>
 	<hr />
 	<article id="organisation">
 		<header>
@@ -67,7 +64,7 @@
 		</header>
 		<Organisation />
 	</article>
-	<section><a href="#home" class="secondary-font">⇧ Back up</a></section>
+	<section><a href="{base}/#home" class="secondary-font">⇧ Back up</a></section>
 	<hr />
 </main>
 
@@ -78,5 +75,5 @@
 	<About />
 	<h3>Contact</h3>
 	<p><a href="mailto:info@critique-digitale.ch">info@critique-digitale.ch</a></p>
-	<section><a href="#home" class="secondary-font">⇧ Back up</a></section>
+	<section><a href="{base}/#home" class="secondary-font">⇧ Back up</a></section>
 </footer>

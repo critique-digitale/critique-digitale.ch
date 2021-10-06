@@ -1,5 +1,6 @@
 <script>
-	import Videos from '../components/Videos.svelte';
+	import Videos from '$lib/components/Videos.svelte';
+	import { assets } from '$app/paths';
 </script>
 
 ### Registration
@@ -44,11 +45,17 @@ This event is especially suitable but not limited to PhD students, in all stages
 No. As an unconference, Digital Criticism does not need to follow a traditional scientific event, but rather works as an open space where the presenters, organizers and participants choose the topics. It’s a collaborative way to debate, share information and build knowledge.
 
 </details>
+
 <details>
+
 <summary>How do I register in Big Blue Button?</summary>
-<Videos poster={'https://critique-digitale.ch/videos/participants.png'} src={'https://critique-digitale.ch/videos/participants.mp4'} />
+
+<Videos poster={assets+'/videos/participants.png'} src={assets+'/videos/participants.mp4'} />
+
 </details>
+
 <details>
+
 <summary>Conference Software and Platform</summary>
 
 The conference will take place on BigBlueButton (BBB), an open source visio-conference software developed by CH-Open, a Swiss organisation promoting open source software, online privacy, and open data standards. [A manual](downloads/Manual_BigBlueButton.pdf) and [tutorials](https://bigbluebutton.org/teachers/tutorials/) on how to use BBB are available.
@@ -56,7 +63,9 @@ The conference will take place on BigBlueButton (BBB), an open source visio-conf
 Voting on the programme will take place via the application mieuxvoter.fr. Information on the concept of majority judgment can be found [here](https://mieuxvoter.fr/index.php/decouvrir/?lang=en)
 
 </details>
+
 <details>
+
 <summary>Content and Structure</summary>
 
 The content and structure of the day are driven by the participants. See for instance the concept of [BarCamp](https://en.wikipedia.org/wiki/BarCamp). We follow the four flow principles:
