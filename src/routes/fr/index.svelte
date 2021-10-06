@@ -3,11 +3,11 @@
 </script>
 
 <script>
-	import About from '../../components/About.svelte';
-	import Meta from '../../components/Meta.svelte';
-	import Concept from '../../content/fr/Concept.svelte.md';
-	import Programme from '../../content/fr/Programme.svelte.md';
-	import Organisation from '../../content/fr/Organisation.svelte.md';
+	import About from '$lib/components/About.svelte';
+	import Meta from '$lib/components/Meta.svelte';
+	import Concept from '$lib/content/fr/Concept.svelte.md';
+	import Programme from '$lib/content/fr/Programme.svelte.md';
+	import Organisation from '$lib/content/fr/Organisation.svelte.md';
 </script>
 
 <Meta
