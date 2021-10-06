@@ -46,7 +46,7 @@
 		</header>
 
 		<h3>TBD</h3>
-		<Videos poster={'videos/speakers.png'} src={'videos/speakers.mp4'} />
+		<Videos poster={'https://critique-digitale.ch/videos/speakers.png'} src={'https://critique-digitale.ch/videos/speakers.mp4'} />
 	</article>
 	<section><a href="#home" class="secondary-font">⇧ Back up</a></section>
 	<hr />
@@ -56,11 +56,6 @@
 	<header>
 		<h2>About us</h2>
 	</header>
-	<!-- <p>
-		dhCenter UNIL-EPFL, Programme Doctoral en Études Numériques (PDEN), Digital Humanities at the.
-		Walter Benjamin Kolleg of the University of Bern, infoclio.ch, Digital Humanities Lab University
-		of Basel
-	</p> -->
 	<About />
 	<h3>Contact</h3>
 	<p><a href="mailto:info@critique-digitale.ch">info@critique-digitale.ch</a></p>

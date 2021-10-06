@@ -45,7 +45,7 @@ Nein. Als Unkonferenz folgt die ‘Critique Digitale’ nicht einer traditionell
 </details>
 <details>
 <summary>Wie kann ich mich für BigBlueButton registrieren?</summary>
-<Videos poster={'videos/participants.png'} src={'videos/participants.mp4'} />
+<Videos poster={'https://critique-digitale.ch/videos/participants.png'} src={'https://critique-digitale.ch/videos/participants.mp4'} />
 </details>
 <details>
 <summary>Konferenzsoftware und Plattform</summary>

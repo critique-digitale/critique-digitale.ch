@@ -46,7 +46,7 @@ No. As an unconference, Digital Criticism does not need to follow a traditional 
 </details>
 <details>
 <summary>How do I register in Big Blue Button?</summary>
-<Videos poster={'videos/participants.png'} src={'videos/participants.mp4'} />
+<Videos poster={'https://critique-digitale.ch/videos/participants.png'} src={'https://critique-digitale.ch/videos/participants.mp4'} />
 </details>
 <details>
 <summary>Conference Software and Platform</summary>
