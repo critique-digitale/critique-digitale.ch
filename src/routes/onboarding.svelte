@@ -47,10 +47,7 @@
 		</header>
 
 		<h3>TBD</h3>
-		<Videos
-			poster={assets+'/videos/speakers.png'}
-			src={assets+'/videos/speakers.mp4'}
-		/>
+		<Videos poster={assets + '/videos/speakers.png'} src={assets + '/videos/speakers.mp4'} />
 	</article>
 	<section><a href="#home" class="secondary-font">⇧ Back up</a></section>
 	<hr />
