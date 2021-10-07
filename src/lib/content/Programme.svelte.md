@@ -1,7 +1,7 @@
 <script>
     import Panelslot from '$lib/components/Panelslot.svelte';
 	import { assets } from '$app/paths';
-</script>>
+</script>
 
 The conference programme includes two plenary sessions, three keynotes by leading scholars in the field of digital studies, as well as a series of parallel panel sessions on topics that the participants themselves have proposed and chosen by voting.
 
