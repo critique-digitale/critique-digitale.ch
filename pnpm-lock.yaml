@@ -12,7 +12,7 @@ specifiers:
   prettier: ~2.2.1
   prettier-plugin-svelte: ^2.4.0
   svelte: ^3.43.1
-  svelte-check: ^2.2.6
+  svelte-check: ^2.2.7
   svelte-preprocess: ^4.9.8
   tslib: ^2.3.1
   typescript: ^4.4.3
@@ -29,7 +29,7 @@ devDependencies:
   prettier: 2.2.1
   prettier-plugin-svelte: 2.4.0_prettier@2.2.1+svelte@3.43.1
   svelte: 3.43.1
-  svelte-check: 2.2.6_svelte@3.43.1
+  svelte-check: 2.2.7_svelte@3.43.1
   svelte-preprocess: 4.9.8_svelte@3.43.1+typescript@4.4.3
   tslib: 2.3.1
   typescript: 4.4.3
@@ -163,11 +163,11 @@ packages:
     peerDependencies:
       svelte: ^3.43.0
     dependencies:
-      '@sveltejs/vite-plugin-svelte': 1.0.0-next.26_svelte@3.43.1+vite@2.6.3
+      '@sveltejs/vite-plugin-svelte': 1.0.0-next.26_svelte@3.43.1+vite@2.6.5
       cheap-watch: 1.0.4
       sade: 1.7.4
       svelte: 3.43.1
-      vite: 2.6.3
+      vite: 2.6.5
     transitivePeerDependencies:
       - diff-match-patch
       - less
@@ -176,7 +176,7 @@ packages:
       - supports-color
     dev: true
 
-  /@sveltejs/vite-plugin-svelte/1.0.0-next.26_svelte@3.43.1+vite@2.6.3:
+  /@sveltejs/vite-plugin-svelte/1.0.0-next.26_svelte@3.43.1+vite@2.6.5:
     resolution:
       {
         integrity: sha512-+Rx3IBa4disskQmr+0/Rh+NYavkM6Vi8BnkTGjKnblawysw4INXkq2WEQBp8luGpUZEkjwczdL9Z9Q2hISvIeA==
@@ -197,7 +197,7 @@ packages:
       require-relative: 0.8.7
       svelte: 3.43.1
       svelte-hmr: 0.14.7_svelte@3.43.1
-      vite: 2.6.3
+      vite: 2.6.5
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -2001,10 +2001,10 @@ packages:
       has-flag: 4.0.0
     dev: true
 
-  /svelte-check/2.2.6_svelte@3.43.1:
+  /svelte-check/2.2.7_svelte@3.43.1:
     resolution:
       {
-        integrity: sha512-oJux/afbmcZO+N+ADXB88h6XANLie8Y2rh2qBlhgfkpr2c3t/q/T0w2JWrHqagaDL8zeNwO8a8RVFBkrRox8gg==
+        integrity: sha512-lH8ArmwVC+D314cToZkXBBfj7NlpvgQGP7nXCAMnNHo6hTEcbKcf/cAZgzbnAOTftjIJrmLHp+EDW887VJFSOQ==
       }
     hasBin: true
     peerDependencies:
@@ -2224,10 +2224,10 @@ packages:
       unist-util-stringify-position: 2.0.3
     dev: true
 
-  /vite/2.6.3:
+  /vite/2.6.5:
     resolution:
       {
-        integrity: sha512-mLiN4WR8zpmn04khhBf7YvC3FHrGhZt9S6xm53uDWgtYcUVNtV5LXHLI2Sc4SpL8jd/dsSIHzRxj7JTIu+MTDQ==
+        integrity: sha512-vavXMChDUb4Oh4YunrK9BrH5Ox74cu0eOp0VuyI/iqFz1FqbWD72So2c9I87lLL2n0+6tFPV5ijow60KrtxuZg==
       }
     engines: { node: '>=12.2.0' }
     hasBin: true
