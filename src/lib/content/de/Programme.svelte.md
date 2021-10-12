@@ -7,19 +7,19 @@ Das Programm beinhaltet zwei gemeinsame Sitzungen, drei Keynotes von führenden 
 
 <section>
 
-|       | 21. Oktober                                                                     | 22. Oktober                                   |
-| ----- | ------------------------------------------------------------------------------- | --------------------------------------------- |
-| 08:45 | Einführung in BigBlueButton<br>durch geführt von CH-Open                        |                                               |
-| 09:30 | Einführung durch die Organisierenden<br>Willkommensworte von Dr. Markus Zürcher | Start zum zweiten Tag                         |
-| 10:00 | Pitching-Session                                                                | Vierte Panelsession<Panelslot panelslot='4'/> |
-| 11:00 | Keynote von Nathalie Pignard Cheynel<br>Wahl der Panels                         | Keynote von Dominique Cardon                  |
-| 12:00 | Programmvorstellung und Mittagspause                                            | Fünfte Panelsession<Panelslot panelslot='5'/> |
-| 13:30 | Erste Panelsession<Panelslot panelslot='1'/>                                    | Präsentation der Resultate und Ausblick       |
-| 14:15 | Pause                                                                           | Table-Ronde zum Abschluss                     |
-| 15:00 | Zweite Panelsession<Panelslot panelslot='2'/>                                   |                                               |
-| 15:45 | Dritte Panelsession<Panelslot panelslot='3'/>                                   |                                               |
-| 16:30 | Pause                                                                           |                                               |
-| 17:00 | Keynote von Mar Hicks                                                           |                                               |
+|       | 21. Oktober                                                                     | 22. Oktober                                                                      |
+| ----- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 08:45 | Einführung in BigBlueButton<br>durch geführt von CH-Open                        |                                                                                  |
+| 09:30 | Einführung durch die Organisierenden<br>Willkommensworte von Dr. Markus Zürcher | Start zum zweiten Tag                                                            |
+| 10:00 | Pitching-Session                                                                | Vierte Panelsession<Panelslot panelslot='4'/>                                    |
+| 11:00 | Keynote von Nathalie Pignard Cheynel<br>Wahl der Panels                         | Digitale Erkundungen im Medialab der Sciences Po<br>Keynote von Dominique Cardon |
+| 12:00 | Programmvorstellung und Mittagspause                                            | Fünfte Panelsession<Panelslot panelslot='5'/>                                    |
+| 13:30 | Erste Panelsession<Panelslot panelslot='1'/>                                    | Präsentation der Resultate und Ausblick                                          |
+| 14:15 | Pause                                                                           | Table-Ronde zum Abschluss                                                        |
+| 15:00 | Zweite Panelsession<Panelslot panelslot='2'/>                                   |                                                                                  |
+| 15:45 | Dritte Panelsession<Panelslot panelslot='3'/>                                   |                                                                                  |
+| 16:30 | Pause                                                                           |                                                                                  |
+| 17:00 | Keynote von Mar Hicks                                                           |                                                                                  |
 
 </section>
 
