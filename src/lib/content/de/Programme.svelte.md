@@ -19,7 +19,7 @@ Das Programm beinhaltet zwei gemeinsame Sitzungen, drei Keynotes von führenden 
 | 15:00 | Zweite Panelsession<Panelslot panelslot='2'/>                                   |                                                                                  |
 | 15:45 | Dritte Panelsession<Panelslot panelslot='3'/>                                   |                                                                                  |
 | 16:30 | Pause                                                                           |                                                                                  |
-| 17:00 | Keynote von Mar Hicks                                                           |                                                                                  |
+| 17:00 | What is the Place of History of Computing in Critiques of Computing? <br> Keynote von Mar Hicks |                                               |
 
 </section>
 
@@ -30,6 +30,9 @@ Das Programm beinhaltet zwei gemeinsame Sitzungen, drei Keynotes von führenden 
 <img src="{assets}/images/speakers/mar_hicks.jpeg" alt="Mar Hicks (Illinois Institute of Technology)" height="200" >
 
 Mar Hicks ist [Autorin](http://marhicks.com/writing.html), Historikerin und [Professorin](https://humansciences.iit.edu/faculty/marie-hicks) und forscht zu den Themen Computergeschichte, Arbeit, Technologie sowie Queer Science and Technology Studies. Ihre Forschung konzentriert sich darauf, wie Geschlecht und Sexualität verborgene technologische Dynamiken ans Licht bringen und wie die Erfahrungen von Frauen und LGBTQIA-Personen die zentralen Erzählungen der Computergeschichte auf unerwartete Weise verändern. Hicks' mehrfach preisgekröntes Buch "[Programmed Inequality](http://bit.ly/programmedinequality2)" (Programmierte Ungleichheit) befasst sich mit der Frage, wie die Brit\*innen ihre frühe Führungsposition im Bereich der Informatik verloren haben, indem sie weibliche Computerfachkräfte ausschlossen, und was uns diese warnende Geschichte über aktuelle Probleme im Hightech-Bereich verrät. Ihr neues Werk befasst sich mit Widerstand und Queerness in der Geschichte der Technologie. Im Frühjahr 2021 erschien bei MIT Press ein Sammelband mit dem Titel "[Your Computer Is On Fire](https://mitpress.mit.edu/books/your-computer-fire)", in dem es darum geht, wie wir unsere kaputten Hightech-Infrastrukturen reparieren können. Lesen Sie mehr unter: [marhicks.com](http://marhicks.com).
+
+##### What is the Place of History of Computing in Critiques of Computing?
+This talk looks at the historical connections between computing's development in the 20th century and issues of marginalization in tech in the 21st century that have been exacerbated by particular computing tools and platforms. Drawing a throughline from the centralizing tendencies of digital technologies in the 20th century to the power imbalances fostered by digital platforms in the 21st century, this talk invites listeners to consider the history of computing's focus on triumphal "progress narratives" as part of the problem we face when confronting computing's flaws in the present.
 
 #### Dominique Cardon (Médialab Sciences Po)
 
