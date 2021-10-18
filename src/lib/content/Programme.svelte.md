@@ -13,13 +13,13 @@ The conference programme includes two plenary sessions, three keynotes by leadin
 | 09:30 | Introduction by the Organizers &<br>welcome by Dr. Markus Zürcher | Welcome Back                                                                    |
 | 10:00 | Pitching-Session                                                  | Panelslot 4<Panelslot panelslot='4'/>                                           |
 | 11:00 | Keynote by Nathalie Pignard Cheynel<br>Voting in progress         | Digital explorations at the Sciences Po medialab<br>Keynote by Dominique Cardon |
-| 12:00 | Presentation of program & lunch break                             | Panelslot 5<Panelslot panelslot='5'/> break                                     |
+| 12:00 | Presentation of program & lunch break                             | Panelslot 5<Panelslot panelslot='5'/> & break                                   |
 | 13:30 | Panelslot 1<Panelslot panelslot='1'/>                             | Presentations of Results and Outlook                                            |
 | 14:15 | Break                                                             | Round Table and End of Event                                                    |
 | 15:00 | Panelslot 2<Panelslot panelslot='2'/>                             |                                                                                 |
 | 15:45 | Panelslot 3<Panelslot panelslot='3'/>                             |                                                                                 |
 | 16:30 | Break                                                             |                                                                                 |
-| 17:00 | Keynote by Mar Hicks                                              |                                                                                 |
+| 17:00 | What is the Place of History of Computing in Critiques of Computing? <br> Keynote by Mar Hicks| 						      |
 
 </section>
 
@@ -30,12 +30,19 @@ The conference programme includes two plenary sessions, three keynotes by leadin
 <img src="{assets}/images/speakers/mar_hicks.jpeg" alt="Mar Hicks (Illinois Institute of Technology)" height="200" >
 
 Mar Hicks is an [author](http://marhicks.com/writing.html), historian, and [professor](https://humansciences.iit.edu/faculty/marie-hicks) doing research on the history of computing, labor, technology, and queer science and technology studies. Their research focuses on how gender and sexuality bring hidden technological dynamics to light, and how the experiences of women and LGBTQIA people change the core narratives of the history of computing in unexpected ways. Hicks's multiple award-winning book, [Programmed Inequality](http://bit.ly/programmedinequality2), looks at how the British lost their early lead in computing by discarding women computer workers, and what this cautionary tale tells us about current issues in high tech. Their new work looks at resistance and queerness in the history of technology. They also have a new co-edited book coming out in Spring 2021 from MIT Press called [Your Computer Is On Fire](https://mitpress.mit.edu/books/your-computer-fire), about how we can begin to fix our broken high tech infrastructures. Read more at: [marhicks.com](http://marhicks.com).
+<br/>
+##### What is the Place of History of Computing in Critiques of Computing?
+<br/>
+This talk looks at the historical connections between computing's development in the 20th century and issues of marginalization in tech in the 21st century that have been exacerbated by particular computing tools and platforms. Drawing a throughline from the centralizing tendencies of digital technologies in the 20th century to the power imbalances fostered by digital platforms in the 21st century, this talk invites listeners to consider the history of computing's focus on triumphal "progress narratives" as part of the problem we face when confronting computing's flaws in the present.
+
 
 #### Dominique Cardon (Médialab Sciences Po)
 
 <img src="{assets}/images/speakers/dominique-cardon.jpg" alt="Dominique Cardon (Médialab Sciences Po)" height="200" >
 
 Born in 1965, Dominique Cardon has been a sociologist, researcher, professor and Medialab director at Sciences Po since 2016. A member of the Orange Labs research centre from 1996 to 2016 and an associate professor at the University of Marne la Vallée Technical Laboratory, he defended his thesis ‘The expanded public space. Opinion, Criticism and Expressiveness in the Internet Age’ (« L'espace public élargi. Opinion, critique et expressivité à l'ère d'internet ») in 2015. A former member of the Centre for Social Movement Studies at the EHESS and a member of the editorial committee for the journal ‘Réseaux’, his work and research initially led him to focus on different forms of expression in traditional media. He then went on to study the uses of communication technologies such as collaborative tools, the relationships between cultural practices and social life and the changes in the ways we work brought about by the digital revolution. [Homepage](https://www.institutfrancais.com/en/portrait/dominique-cardon)
+
+##### Digital explorations at the Sciences Po medialab
 
 #### Nathalie Pignard-Cheynel (Université de Neuchâtel)
 
