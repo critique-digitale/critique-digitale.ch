@@ -9,7 +9,7 @@ L’inscription est gratuite. Après l’inscription vous recevrez un lien pour 
 
 Inscrivez-vous en ligne [ici](https://www.infoclio.ch/fr/unconference-digital-critique-information-list-liste-dinformations-informationsliste).
 
-### Pitching and voting procedures
+### Pitching et Procédures de vote
 
 Le premier jour de la conférence aura lieu la Pitching session. Si vous avez une proposition, levez la main et on vous donnera la parole pour expliquer votre idée. Pensez éventuellement à un titre pour votre panel. Si vous avez déjà proposé votre idée en ligne, nous vous appellerons.
 
@@ -21,7 +21,7 @@ Une fois que nous aurons recueilli toutes les propositions, celles-ci seront sou
 
 Les propositions les mieux votées se verront attribuer un créneau de 45 min. (panel slot) dans le programme. Le programme définitif sera ensuite publié sur ce site web. Les participants sont ensuite libres de circuler entre les différentes salles virtuelles et d’assister aux panels qui les intéressent.
 
-### Éspaces et Links
+### Espaces et Liens
 
 - [Main Room](https://bbb.ch-open.ch/b/tob-3wc-g18-frj): Toutes les présentations, les pitchs, etc. auront lieu ici.
 - [Basel](https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc)
@@ -35,7 +35,7 @@ Dans le programme, les panneaux seront directement liés.
 
 Les panels sont des séances de discussion et d’échange de 45 min. sur un thème donné. Celui ou celle qui a proposé le thème agit comme modérateur des discussions
 
-### Language(S!)
+### Langue(S!)
 
 Comme nous sommes en Suisse, un pays avec quatre langues nationales, nous nous engageons à promouvoir le plurilinguisme. Nous sommes volontiers disposés à utiliser l’Anglais comme lingua franca pendant la conférence, mais nous encourageons les participants à parler leurs langues.
 
