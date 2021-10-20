@@ -21,6 +21,16 @@ Une fois que nous aurons recueilli toutes les propositions, celles-ci seront sou
 
 Les propositions les mieux votées se verront attribuer un créneau de 45 min. (panel slot) dans le programme. Le programme définitif sera ensuite publié sur ce site web. Les participants sont ensuite libres de circuler entre les différentes salles virtuelles et d’assister aux panels qui les intéressent.
 
+### Éspaces et Links
+
+- [Main Room](https://bbb.ch-open.ch/b/tob-3wc-g18-frj): Toutes les présentations, les pitchs, etc. auront lieu ici.
+- [Basel](https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc)
+- [Bern](https://bbb.ch-open.ch/b/tob-cfs-oaj-7ah)
+- [Genève](https://bbb.ch-open.ch/b/tob-wq1-zuh-s1n)
+- [Lausanne](https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa)
+- [Zürich](https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l)
+Dans le programme, les panneaux seront directement liés.
+
 ### Panels
 
 Les panels sont des séances de discussion et d’échange de 45 min. sur un thème donné. Celui ou celle qui a proposé le thème agit comme modérateur des discussions
