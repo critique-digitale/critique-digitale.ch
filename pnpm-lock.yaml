@@ -209,10 +209,10 @@ packages:
       }
     dev: true
 
-  /@types/node/16.11.1:
+  /@types/node/16.11.2:
     resolution:
       {
-        integrity: sha512-PYGcJHL9mwl1Ek3PLiYgyEKtwTMmkMw4vbiyz/ps3pfdRYLVv+SN7qHVAImrjdAXxgluDEw6Ph4lyv+m9UpRmA==
+        integrity: sha512-w34LtBB0OkDTs19FQHXy4Ig/TOXI4zqvXS2Kk1PAsRKZ0I+nik7LlMYxckW0tSNGtvWmzB+mrCTbuEjuB9DVsw==
       }
     dev: true
 
@@ -229,7 +229,7 @@ packages:
         integrity: sha512-iZUcRrGuz/Tbg3loODpW7vrQJkUtpY2fFSf4ELqqkApcS2TkZ1msk7ie8iZPB86lDOP8QOTTmuvWjc5S0R9OjQ==
       }
     dependencies:
-      '@types/node': 16.11.1
+      '@types/node': 16.11.2
     dev: true
 
   /@types/unist/2.0.6:

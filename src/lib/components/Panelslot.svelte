@@ -126,7 +126,7 @@
 		{
 			panel: '4',
 			subession: '3',
-			title: 'Isabelle Marthot-Santaniello: How to advertise research	',
+			title: 'Tobias Hodel: DH Summerschool',
 			room: 'https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_4_subsession_3-9q5o?lang=en'
 		},
@@ -154,7 +154,7 @@
 		{
 			panel: '5',
 			subsession: '2',
-			title: 'Tobias Hodel: DH Summerschool',
+			title: 'Isabelle Marthot-Santaniello: How much advertising for DH research while doing it?',
 			room: 'https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_5_subsession_2-9q5o?lang=en'
 		},
@@ -185,7 +185,8 @@
 {#if panels.length > 0}
 	{#each panels as { panel, title, room, pad }}
 		{#if panel == panelslot && title != ''}
-			<br /><a href={room} style="color:DarkSlateGray">{title}</a> <a href={pad} style="color:DarkSlateGray">📝 Etherpad</a>
+			<br /><a href={room} style="color:DarkSlateGray">{title}</a>
+			<a href={pad} style="color:DarkSlateGray">📝 Etherpad</a>
 		{/if}
 	{/each}
 {/if}
