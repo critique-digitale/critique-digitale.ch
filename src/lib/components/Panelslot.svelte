@@ -185,7 +185,7 @@
 {#if panels.length > 0}
 	{#each panels as { panel, title, room, pad }}
 		{#if panel == panelslot && title != ''}
-			<br /><a href={room}>{title}</a> <a href={pad}>📝 Etherpad</a>
+			<br /><a href={room} style="color:DarkSlateGray">{title}</a> <a href={pad} style="color:DarkSlateGray">📝 Etherpad</a>
 		{/if}
 	{/each}
 {/if}
