@@ -35,11 +35,6 @@ Mar Hicks est une [auteure](http://marhicks.com/writing.html), [historienne et p
 
 Cet exposé examine les liens historiques entre le développement de l'informatique au 20e siècle et les problèmes de marginalisation dans la technologie au 21e siècle qui ont été exacerbés par des outils et des plateformes informatiques particuliers. En traçant une ligne transversale entre les tendances centralisatrices des technologies numériques au 20e siècle et les déséquilibres de pouvoir encouragés par les plateformes numériques au 21e siècle, cet exposé invite le public à considérer l'accent mis par l'histoire de l'informatique sur les "récits de progrès" triomphants comme faisant partie du problème auquel nous sommes confronté.e.s lorsque nous affrontons les défauts de l'informatique dans le présent.
 
-
-##### What is the Place of History of Computing in Critiques of Computing?
-
-This talk looks at the historical connections between computing's development in the 20th century and issues of marginalization in tech in the 21st century that have been exacerbated by particular computing tools and platforms. Drawing a throughline from the centralizing tendencies of digital technologies in the 20th century to the power imbalances fostered by digital platforms in the 21st century, this talk invites listeners to consider the history of computing's focus on triumphal "progress narratives" as part of the problem we face when confronting computing's flaws in the present.
-
 #### Dominique Cardon (Médialab Sciences Po)
 
 <img src="{assets}/images/speakers/dominique-cardon.jpg" alt="Dominique Cardon (Médialab Sciences Po)" height="200" >
