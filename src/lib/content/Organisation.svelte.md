@@ -29,10 +29,11 @@ Panels are 45-minute discussion and exchange sessions on a given theme. The pers
 
 - [Main Room](https://bbb.ch-open.ch/b/tob-3wc-g18-frj): All keynotes and pitching etc. will take place here
 - [Basel](https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc)
-- [Bern](https://bbb.ch-open.ch/b/tob-cfs-oaj-7ah)
-- [Genève](https://bbb.ch-open.ch/b/tob-wq1-zuh-s1n)
+[!-- - [Bern](https://bbb.ch-open.ch/b/tob-cfs-oaj-7ah)--]
+[!-- - [Genève](https://bbb.ch-open.ch/b/tob-wq1-zuh-s1n)--]
 - [Lausanne](https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa)
 - [Zürich](https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l)
+
 In the program the panels will be directly linked.
 
 ### Language(S!)
