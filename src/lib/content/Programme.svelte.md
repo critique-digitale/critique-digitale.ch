@@ -41,7 +41,7 @@ This talk looks at the historical connections between computing's development in
 
 Born in 1965, Dominique Cardon has been a sociologist, researcher, professor and Medialab director at Sciences Po since 2016. A member of the Orange Labs research centre from 1996 to 2016 and an associate professor at the University of Marne la Vallée Technical Laboratory, he defended his thesis ‘The expanded public space. Opinion, Criticism and Expressiveness in the Internet Age’ (« L'espace public élargi. Opinion, critique et expressivité à l'ère d'internet ») in 2015. A former member of the Centre for Social Movement Studies at the EHESS and a member of the editorial committee for the journal ‘Réseaux’, his work and research initially led him to focus on different forms of expression in traditional media. He then went on to study the uses of communication technologies such as collaborative tools, the relationships between cultural practices and social life and the changes in the ways we work brought about by the digital revolution. [Homepage](https://www.institutfrancais.com/en/portrait/dominique-cardon)
 
-##### Digital explorations at the Sciences Po medialab
+*Digital explorations at the Sciences Po medialab*
 
 #### Nathalie Pignard-Cheynel (Université de Neuchâtel)
 
