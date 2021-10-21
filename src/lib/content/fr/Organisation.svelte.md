@@ -25,8 +25,6 @@ Les propositions les mieux votées se verront attribuer un créneau de 45 min. (
 
 - [Main Room](https://bbb.ch-open.ch/b/tob-3wc-g18-frj): Toutes les présentations, les pitchs, etc. auront lieu ici.
 - [Basel](https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc)
-- [Bern](https://bbb.ch-open.ch/b/tob-cfs-oaj-7ah)
-- [Genève](https://bbb.ch-open.ch/b/tob-wq1-zuh-s1n)
 - [Lausanne](https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa)
 - [Zürich](https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l)
 Dans le programme, les panneaux seront directement liés.
