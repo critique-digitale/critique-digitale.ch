@@ -27,7 +27,7 @@ Les propositions les mieux votées se verront attribuer un créneau de 45 min. (
 - [Basel](https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc)
 - [Lausanne](https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa)
 - [Zürich](https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l)
-Dans le programme, les panneaux seront directement liés.
+  Dans le programme, les panneaux seront directement liés.
 
 ### Panels
 

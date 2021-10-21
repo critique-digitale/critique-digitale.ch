@@ -5,23 +5,41 @@
 
 Das Programm beinhaltet zwei gemeinsame Sitzungen, drei Keynotes von führenden Wissenschaftler*innen aus dem Bereich der digital studies sowie drei parallele Panelsessions zu Themen, die die Teilnehmer*innen selbst vorgeschlagen und ausgewählt haben.
 
-<section>
+<article>
 
-|       | 21. Oktober                                                                                                                                              | 22. Oktober                                                                        |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| 08:45 | Einführung in BigBlueButton<br>durch geführt von CH-Open                                                                                                 |                                                                                    |
-| 09:30 | Einführung durch die Organisierenden<br>Willkommensworte von Dr. Markus Zürcher                                                                          | Start zum zweiten Tag                                                              |
-| 10:00 | Pitching-Session                                                                                                                                         | Vierte Panelsession<Panelslot panelslot='4'/>                                      |
-| 11:00 | _Grasping the digital world through its uses._<br>_The example of information and journalism_<br>Keynote von Nathalie Pignard Cheynel<br>Wahl der Panels | _Digitale Erkundungen im Medialab der Sciences Po_<br>Keynote von Dominique Cardon |
-| 12:00 | Programmvorstellung und Mittagspause                                                                                                                     | Fünfte Panelsession<Panelslot panelslot='5'/>                                      |
-| 13:30 | Erste Panelsession<Panelslot panelslot='1'/>                                                                                                             | Präsentation der Resultate und Ausblick                                            |
-| 14:15 | Pause                                                                                                                                                    | Table-Ronde zum Abschluss                                                          |
-| 15:00 | Zweite Panelsession<Panelslot panelslot='2'/>                                                                                                            |                                                                                    |
-| 15:45 | Dritte Panelsession<Panelslot panelslot='3'/>                                                                                                            |                                                                                    |
-| 16:30 | Pause                                                                                                                                                    |                                                                                    |
-| 17:00 | _What is the Place of History of Computing in Critiques of Computing?_<br>Keynote von Mar Hicks                                                          |                                                                                    |
+|       | 21. Oktober                                                                                                                                              |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08:45 | Einführung in BigBlueButton<br>durch geführt von CH-Open                                                                                                 |
+| 09:30 | Einführung durch die Organisierenden<br>Willkommensworte von Dr. Markus Zürcher                                                                          |
+| 10:00 | Pitching-Session                                                                                                                                         |
+| 11:00 | _Grasping the digital world through its uses._<br>_The example of information and journalism_<br>Keynote von Nathalie Pignard Cheynel<br>Wahl der Panels |
+| 12:00 | Programmvorstellung und Mittagspause                                                                                                                     |
+| 13:30 | Erste Panelsession<Panelslot panelslot='1'/>                                                                                                             |
+| 14:15 | Pause                                                                                                                                                    |
+| 15:00 | Zweite Panelsession<Panelslot panelslot='2'/>                                                                                                            |
+| 15:45 | Dritte Panelsession<Panelslot panelslot='3'/>                                                                                                            |
+| 16:30 | Pause                                                                                                                                                    |
+| 17:00 | _What is the Place of History of Computing in Critiques of Computing?_<br>Keynote von Mar Hicks                                                          |
 
-</section>
+</article>
+
+<article>
+
+|       | 22. Oktober                                                                        |
+| ----- | ---------------------------------------------------------------------------------- |
+| 08:45 |                                                                                    |
+| 09:30 | Start zum zweiten Tag                                                              |
+| 10:00 | Vierte Panelsession<Panelslot panelslot='4'/>                                      |
+| 11:00 | _Digitale Erkundungen im Medialab der Sciences Po_<br>Keynote von Dominique Cardon |
+| 12:00 | Fünfte Panelsession<Panelslot panelslot='5'/><br>Pause                             |
+| 13:30 | Präsentation der Resultate und Ausblick                                            |
+| 14:15 | Table-Ronde zum Abschluss                                                          |
+| 15:00 |                                                                                    |
+| 15:45 |                                                                                    |
+| 16:30 |                                                                                    |
+| 17:00 |                                                                                    |
+
+</article>
 
 ### Keynotes
 

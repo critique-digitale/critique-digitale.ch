@@ -4,22 +4,24 @@
 		{
 			panel: '1',
 			subsession: '1',
-			title: 'This could be your topic!',
-			room: 'https://bbb.ch-open.ch/b/mor-h4k-hun',
+			title: 'André Cardozo Sarli: Algorithms as normative tools',
+			room: 'https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_1_subsession_1-9q5l?lang=en'
 		},
 		{
 			panel: '1',
 			subsession: '2',
-			title: '',
-			room: '',
+			title:
+				'Arjun Sanyal: Critical digital literacy in the libraries for persons from different socio-cultural milieux (empowerment)',
+			room: 'https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_1_subsession_2-9q5l?lang=en'
 		},
 		{
 			panel: '1',
 			subsession: '3',
-			title: '',
-			room: '',
+			title:
+				'Victoria Fleury: Combining information from diverse collections and sources. Accessing visualizations',
+			room: 'https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_1_subsession_3-9q5l?lang=en'
 		},
 		{
@@ -39,22 +41,22 @@
 		{
 			panel: '2',
 			subsession: '1',
-			title: '',
-			room: '',
+			title: 'Enrico Natale: Essential readings on digital criticism',
+			room: 'https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_2_subsession_1-9q5o?lang=en'
 		},
 		{
 			panel: '2',
 			subsession: '2',
-			title: '',
-			room: '',
+			title: 'Laetitia Gern: Political discourse online on YouTube',
+			room: 'https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_2_subsession_2-9q5o?lang=en'
 		},
 		{
 			panel: '2',
 			subsession: '3',
-			title: '',
-			room: '',
+			title: 'Widmer & Schneider: Premodern data for NLP',
+			room: 'https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_2_subsession_3-9q5o?lang=en'
 		},
 		{
@@ -74,22 +76,23 @@
 		{
 			panel: '3',
 			subsession: '1',
-			title: '',
-			room: '',
+			title: 'Melanie Boehi: Transparency and democratizing archives by digitization',
+			room: 'https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_3_subsession_1-9q5o?lang=en'
 		},
 		{
 			panel: '3',
 			subsession: '2',
-			title: '',
-			room: '',
+			title:
+				'Moritz Mähr: Micropublications (secure research data, do something participant driven, new ways for preprints)',
+			room: 'https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_3_subsession_2-9q5o?lang=en'
 		},
 		{
 			panel: '3',
 			subsession: '3',
-			title: '',
-			room: '',
+			title: 'Adrien Tournier: 5G - history of telecommunication',
+			room: 'https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_3_subsession_3-9q5o?lang=en'
 		},
 		{
@@ -109,22 +112,22 @@
 		{
 			panel: '4',
 			subsession: '1',
-			title: '',
-			room: '',
+			title: 'Lorenz & Berg: Social Media as a source for research (ethical, technical, legal)',
+			room: 'https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_4_subsession_1-9q5o?lang=en'
 		},
 		{
 			panel: '4',
 			subession: '2',
-			title: '',
-			room: '',
+			title: 'Elias Kreyenbühl: Doing research with images (from physical papyri to photographs)',
+			room: 'https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_4_subsession_2-9q5o?lang=en'
 		},
 		{
 			panel: '4',
 			subession: '3',
-			title: '',
-			room: '',
+			title: 'Isabelle Marthot-Santaniello: How to advertise research	',
+			room: 'https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_4_subsession_3-9q5o?lang=en'
 		},
 		{
@@ -144,22 +147,22 @@
 		{
 			panel: '5',
 			subsession: '1',
-			title: '',
-			room: '',
+			title: 'Geffroy Valérian: Non-uses of digital technology (unnecessary or unwanted tools)',
+			room: 'https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_5_subsession_1-9q5o?lang=en'
 		},
 		{
 			panel: '5',
 			subsession: '2',
-			title: '',
-			room: '',
+			title: 'Tobias Hodel: DH Summerschool',
+			room: 'https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_5_subsession_2-9q5o?lang=en'
 		},
 		{
 			panel: '5',
 			subsession: '3',
-			title: '',
-			room: '',
+			title: 'Jennifer Rabe: Digital Selfcare tools and utilities',
+			room: 'https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_5_subsession_3-9q5o?lang=en'
 		},
 		{
