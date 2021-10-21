@@ -112,7 +112,7 @@
 		{
 			panel: '4',
 			subsession: '1',
-			title: 'Lorenz & Berg: Social Media as a source for research (ethical, technical, legal)',
+			title: 'Geffroy Valérian: Non-uses of digital technology (unnecessary or unwanted tools)',
 			room: 'https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_4_subsession_1-9q5o?lang=en'
 		},
@@ -147,7 +147,7 @@
 		{
 			panel: '5',
 			subsession: '1',
-			title: 'Geffroy Valérian: Non-uses of digital technology (unnecessary or unwanted tools)',
+			title: 'Lorenz & Berg: Social Media as a source for research (ethical, technical, legal)',
 			room: 'https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_5_subsession_1-9q5o?lang=en'
 		},
