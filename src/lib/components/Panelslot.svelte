@@ -186,6 +186,15 @@
 	{#each panels as { panel, title, room, pad }}
 		{#if panel == panelslot && title != ''}
 			<br /><a href={room} style="color:DarkSlateGray">{title}</a>
+			{#if room == 'https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa'}
+				<a href={room} style="color:DarkSlateGray">(Lausanne)</a>
+			{/if}
+			{#if room == 'https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l'}
+				<a href={room} style="color:DarkSlateGray">(Zurich)</a>
+			{/if}
+			{#if room == 'https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc'}
+				<a href={room} style="color:DarkSlateGray">(Basel)</a>
+			{/if}
 			<a href={pad} style="color:DarkSlateGray">📝 Etherpad</a>
 		{/if}
 	{/each}
