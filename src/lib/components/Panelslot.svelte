@@ -119,7 +119,7 @@
 		{
 			panel: '4',
 			subession: '2',
-			title: 'Elias Kreyenbühl: Doing research with images (from physical papyri to photographs)',
+			title: 'Elias Kreyenbühl: From papyri to photographs. Doing research with images.',
 			room: 'https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_4_subsession_2-9q5o?lang=en'
 		},
