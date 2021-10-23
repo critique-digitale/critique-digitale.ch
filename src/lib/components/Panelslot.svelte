@@ -171,35 +171,18 @@
 		}
 	];
 </script>
-<style>
-	a {
-		color:black;
-		font-size: 0.9em;
-	}
-</style>
 
 {#if panels.length > 0}
 	{#each panels as { panel, subsession, title, room, pad }}
 		{#if panel == panelslot && title != ''}
-			{#if subsession == '1'}
-				<br /><a href="https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa"
-					>{title}</a
-				>
-				<a href="https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa">(Lausanne)</a
-				>
-			{/if}
-			{#if subsession == '2'}
-				<br /><a href="https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l"
-					>{title}</a
-				>
-				<a href="https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l">(Zurich)</a>
-			{/if}
-			{#if subsession == '3'}
-				<br /><a href="https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc"
-					>{title}</a
-				> <a href="https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc">(Basel)</a>
-			{/if}
-			<a href={pad}>📝 Etherpad</a>
+			<br />{title} <a href={pad}>📝 Etherpad</a>
 		{/if}
 	{/each}
 {/if}
+
+<style>
+	a {
+		color: darkslategray;
+		font-size: 0.9em;
+	}
+</style>

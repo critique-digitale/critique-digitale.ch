@@ -21,14 +21,14 @@ Sobald alle Panelvorschläge gesammelt sind, stimmen die Teilnehmer\*innen über
 
 Das definitive Programm wird anschliessend auf dieser Website veröffentlicht. Den Teilnehmer\*innen steht es frei, sich in den verschiedenen virtuellen Räumen zu bewegen und die Panels zu besuchen, für die sie sich interessieren.
 
-### Räume und Links
+<!-- ### Räume und Links
 
 - [Hauptraum](https://bbb.ch-open.ch/b/tob-3wc-g18-frj): Alle Keynotes und das Pitching etc. wird hier durchgeführt
 - [Basel](https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc)
 - [Lausanne](https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa)
 - [Zürich](https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l)
 
-Im Programm sind die Panels direkt verlinkt.
+Im Programm sind die Panels direkt verlinkt. -->
 
 ### Panels
 
