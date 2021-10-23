@@ -19,7 +19,7 @@ specifiers:
 
 devDependencies:
   '@sveltejs/adapter-static': 1.0.0-next.21
-  '@sveltejs/kit': 1.0.0-next.187_svelte@3.44.0
+  '@sveltejs/kit': 1.0.0-next.188_svelte@3.44.0
   '@typescript-eslint/eslint-plugin': 4.33.0_cc617358c89d3f38c52462f6d809db4c
   '@typescript-eslint/parser': 4.33.0_eslint@7.32.0+typescript@4.4.4
   eslint: 7.32.0
@@ -153,10 +153,10 @@ packages:
       }
     dev: true
 
-  /@sveltejs/kit/1.0.0-next.187_svelte@3.44.0:
+  /@sveltejs/kit/1.0.0-next.188_svelte@3.44.0:
     resolution:
       {
-        integrity: sha512-ImB7UYO1vNhkshw6OKymE1TpWGqmjAH5HCToBi2l8RMdPZhkwdWFCoqz65l1UssNltiIktPzegKeyy6E5w+XaA==
+        integrity: sha512-eDssOlwcAmkUR3SGh3PK4LHBfV3mMY9vhsMohMUPV7oJO3fydOgvDykqzxK9wc1NgNB/TIBCm+1sps2vetePHw==
       }
     engines: { node: '>=14.13' }
     hasBin: true
@@ -209,10 +209,10 @@ packages:
       }
     dev: true
 
-  /@types/node/16.11.2:
+  /@types/node/16.11.4:
     resolution:
       {
-        integrity: sha512-w34LtBB0OkDTs19FQHXy4Ig/TOXI4zqvXS2Kk1PAsRKZ0I+nik7LlMYxckW0tSNGtvWmzB+mrCTbuEjuB9DVsw==
+        integrity: sha512-TMgXmy0v2xWyuCSCJM6NCna2snndD8yvQF67J29ipdzMcsPa9u+o0tjF5+EQNdhcuZplYuouYqpc4zcd5I6amQ==
       }
     dev: true
 
@@ -229,7 +229,7 @@ packages:
         integrity: sha512-iZUcRrGuz/Tbg3loODpW7vrQJkUtpY2fFSf4ELqqkApcS2TkZ1msk7ie8iZPB86lDOP8QOTTmuvWjc5S0R9OjQ==
       }
     dependencies:
-      '@types/node': 16.11.2
+      '@types/node': 16.11.4
     dev: true
 
   /@types/unist/2.0.6:
@@ -1673,10 +1673,10 @@ packages:
     engines: { node: '>=8.6' }
     dev: true
 
-  /postcss/8.3.10:
+  /postcss/8.3.11:
     resolution:
       {
-        integrity: sha512-YYfvfUdWx+ECpr5Hgc6XRfsaux8LksL5ey8qTtWiuRXOpOF1YYMwAySdh0nSmwhZAFvvJ6rgiIkKVShu4x2T1Q==
+        integrity: sha512-hCmlUAIlUiav8Xdqw3Io4LcpA1DOt7h3LSTAC4G6JGHFFaWzI6qvFt9oilvl8BmkbBRX1IhM90ZAmpk68zccQA==
       }
     engines: { node: ^10 || ^12 || >=14 }
     dependencies:
@@ -2256,7 +2256,7 @@ packages:
         optional: true
     dependencies:
       esbuild: 0.13.8
-      postcss: 8.3.10
+      postcss: 8.3.11
       resolve: 1.20.0
       rollup: 2.58.0
     optionalDependencies:

@@ -28,14 +28,12 @@
 			panel: '1',
 			subsession: '4',
 			title: '',
-			room: '',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_1_subsession_4-9q5o?lang=en'
 		},
 		{
 			panel: '1',
 			subsession: '5',
 			title: '',
-			room: '',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_1_subsession_5-9q5o?lang=en'
 		},
 		{
@@ -63,14 +61,12 @@
 			panel: '2',
 			subssession: '4',
 			title: '',
-			room: '',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_2_subsession_4-9q5o?lang=en'
 		},
 		{
 			panel: '2',
 			subsession: '5',
 			title: '',
-			room: '',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_2_subsession_5-9q5o?lang=en'
 		},
 		{
@@ -99,14 +95,12 @@
 			panel: '3',
 			subsession: '4',
 			title: '',
-			room: '',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_3_subsession_4-9q5o?lang=en'
 		},
 		{
 			panel: '3',
 			subsession: '5',
 			title: '',
-			room: '',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_3_subsession_5-9q5o?lang=en'
 		},
 		{
@@ -134,14 +128,12 @@
 			panel: '4',
 			subession: '4',
 			title: '',
-			room: '',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_4_subsession_4-9q5o?lang=en'
 		},
 		{
 			panel: '4',
 			subession: '5',
 			title: '',
-			room: '',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_4_subsession_5-9q5o?lang=en'
 		},
 		{
@@ -169,33 +161,45 @@
 			panel: '5',
 			subsession: '4',
 			title: '',
-			room: '',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_5_subsession_4-9q5o?lang=en'
 		},
 		{
 			panel: '5',
 			subsession: '5',
 			title: '',
-			room: '',
 			pad: 'https://semestriel.framapad.org/p/cd_panel_5_subsession_5-9q5o?lang=en'
 		}
 	];
 </script>
+<style>
+	a {
+		color:black;
+		font-size: 0.9em;
+	}
+</style>
 
 {#if panels.length > 0}
-	{#each panels as { panel, title, room, pad }}
+	{#each panels as { panel, subsession, title, room, pad }}
 		{#if panel == panelslot && title != ''}
-			<br /><a href={room} style="color:DarkSlateGray">{title}</a>
-			{#if room == 'https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa'}
-				<a href={room} style="color:DarkSlateGray">(Lausanne)</a>
+			{#if subsession == '1'}
+				<br /><a href="https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa"
+					>{title}</a
+				>
+				<a href="https://bbb.ch-open.ch/b/tob-lxf-ppk-8sa">(Lausanne)</a
+				>
 			{/if}
-			{#if room == 'https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l'}
-				<a href={room} style="color:DarkSlateGray">(Zurich)</a>
+			{#if subsession == '2'}
+				<br /><a href="https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l"
+					>{title}</a
+				>
+				<a href="https://bbb.ch-open.ch/b/tob-rz9-sw6-i8l">(Zurich)</a>
 			{/if}
-			{#if room == 'https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc'}
-				<a href={room} style="color:DarkSlateGray">(Basel)</a>
+			{#if subsession == '3'}
+				<br /><a href="https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc"
+					>{title}</a
+				> <a href="https://bbb.ch-open.ch/b/tob-7dh-dvk-fvc">(Basel)</a>
 			{/if}
-			<a href={pad} style="color:DarkSlateGray">📝 Etherpad</a>
+			<a href={pad}>📝 Etherpad</a>
 		{/if}
 	{/each}
 {/if}
