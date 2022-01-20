@@ -50,6 +50,17 @@
 	</article>
 	<section><a href="{base}/#home" class="secondary-font">⇧ Back up</a></section>
 	<hr />
+	
+	<article id="Report">
+		<header>
+			<h2>Report</h2>
+		</header>
+		<Report />
+	</article>
+	<section><a href="{base}/#home" class="secondary-font">⇧ Back up</a></section>
+	<hr />
+	
+	
 	<article id="programme">
 		<header>
 			<h2>Programme</h2>
