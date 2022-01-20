@@ -2,7 +2,7 @@
 	import About from '$lib/components/About.svelte';
 	import Meta from '$lib/components/Meta.svelte';
 	import Concept from '$lib/content/Concept.svelte.md';
-	import Concept from '$lib/content/Report.svelte.md';
+	import Report from '$lib/content/Report.svelte.md';
 	import Programme from '$lib/content/Programme.svelte.md';
 	import Organisation from '$lib/content/Organisation.svelte.md';
 	import { base, assets } from '$app/paths';
