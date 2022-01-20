@@ -6,9 +6,13 @@
                                                                                 
 **Organized by:** Enrico Natale (infoclio.ch), Tobias Hodel (University of Bern) and Alexandre Camus (dhCenter UNIL-EPFL) in association with André Cardozo Sarli (University of Geneva), Charlotte Mazel-Cabasse (dhcenter UNIL-EPFL), Claudia Amsler (University of Bern), Gabi Wüthrich (University of Zurich), Jan Baumann (infoclio.ch), Jessica Pidoux (EPFL), Moritz Mähr (ETH Zurich), Mylène Tanferri Machado (Programme doctoral en études numériques, UNIL), Vera Chiquet (University of Basel), Vlad Atanasiu (University of Bern)
                                                                                 
-**Funded by:** The Swiss Academy of Humanities and Social Sciences and the dhCenter UNIL-EPFL**Report coordination and analysis by:** Jessica Pidoux.
+**Funded by:** The Swiss Academy of Humanities and Social Sciences and the dhCenter UNIL-EPFL
+
+**Report coordination and analysis by:** Jessica Pidoux.
                                                                                 
-**Reporters:** Delphine Kessler (University of Basel), Gabi Wüthrich (University of Zurich), Marian Clemens (University of Basel), Andrea Amato (University of Lausanne), Jérémie Garrigues (University of Lausanne), André Cardozo Sarli (University of Geneva), Claudia Amsler (University of Bern), Anna Janka (University of Bern).**Edition committee:**Alexandre Camus, Enrico Natale, Tobias Hodel.
+**Reporters:** Delphine Kessler (University of Basel), Gabi Wüthrich (University of Zurich), Marian Clemens (University of Basel), Andrea Amato (University of Lausanne), Jérémie Garrigues (University of Lausanne), André Cardozo Sarli (University of Geneva), Claudia Amsler (University of Bern), Anna Janka (University of Bern).
+
+**Edition committee:** Alexandre Camus, Enrico Natale, Tobias Hodel.
 
 **Publication date:** January 2022                                                                                                                       
 
@@ -41,12 +45,12 @@ The topics are presented according to three principles. First, the topics are or
   
 
 
-| **Virtual rooms** **Thursday, 21st of Oct.** | **A- Basel**                                                                           | **B- Zurich**                                                                                                | **C- Lausanne**                                                     |
+| **Thursday, 21st of Oct.** | **A- Basel**                                                                           | **B- Zurich**                                                                                                | **C- Lausanne**                                                     |
 | ------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
 | **Panel 1**                                 | C_ombining information from diverse collections and sources. Accessing visualizations_ | C_ritical digital literacy in the libraries for persons from different socio-cultural milieux (empowerment)_ | _Algorithms as normative tools_                                     |
 | **Panel 2**                                 | _Premodern data for NLP_                                                               | _Political discourse online on YouTube_                                                                      | _Essential readings on digital criticism_                           |
 | **Panel 3**                                 | _Transparency and democratizing archives by digitization_                              | _Micropublications (secure research data, do something participant driven, new ways for preprints)_          | _Promesses et contraintes de l’intelligence des réseaux 5G_         |
-| **Virtual rooms** **Friday, 22nd of Oct.**   | **A- Basel**                                                                           | **B- Zurich**                                                                                                | **C- Lausanne**                                                     |
+|**Friday, 22nd of Oct.**   | **A- Basel**                                                                           | **B- Zurich**                                                                                                | **C- Lausanne**                                                     |
 | **Panel 4**                                 |                                                                                        | _From papyri to photographs. Doing research with images_                                                     | _Non-uses of digital technology_                                    |
 | **Panel 5**                                 | _Digital self care tools and utilities_                                                | _How much advertising DH research while doing it?_                                                           | _Social media as a source for research (ethical, technical, legal)_ |
 
@@ -84,7 +88,8 @@ For this report’s purpose, as we intend to provide a transversal analysis of t
 
 There are 138 themes and subthemes that were identified cross-panel. They are visually presented below in Figure 1 by color and size, according to the theme frequency (how many times the theme can be found within a noun phrase in every panel). The detailed list can be found in annex 2 and they are visually presented in detail in the provided digital files attached to this report.
 
-<img src="{assets}/images/hierarchical.png" alt="Hierarchical Theme Visualization" height="200" >
+<img src="{assets}/images/hierarchical.png" alt="Hierarchical Theme Visualization" height="600" >
+
 Figure 2. Hierarchical Theme Visualization
 
 ####3. Major Cross-panel Themes’ Analysis
