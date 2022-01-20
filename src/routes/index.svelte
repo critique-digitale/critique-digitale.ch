@@ -2,6 +2,7 @@
 	import About from '$lib/components/About.svelte';
 	import Meta from '$lib/components/Meta.svelte';
 	import Concept from '$lib/content/Concept.svelte.md';
+	import Concept from '$lib/content/Report.svelte.md';
 	import Programme from '$lib/content/Programme.svelte.md';
 	import Organisation from '$lib/content/Organisation.svelte.md';
 	import { base, assets } from '$app/paths';
@@ -24,6 +25,7 @@
 		>
 		<ul>
 			<li><a href="{base}#concept" class="secondary-font">Concept</a></li>
+			<li><a href="{base}/#report" class="secondary-font">Report</a></li>
 			<li><a href="{base}/#programme" class="secondary-font">Programme</a></li>
 			<li><a href="{base}/#organisation" class="secondary-font">Organisation</a></li>
 			<li>
