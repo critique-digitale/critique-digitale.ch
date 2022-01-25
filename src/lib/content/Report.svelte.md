@@ -54,6 +54,7 @@ The topics are presented according to three principles. First, the topics are or
 
 **Friday, 22nd of Oct.** 
 |  | **A- Basel**  | **B- Zurich**  | **C- Lausanne**  |
+| --------------- | ---------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------ |
 | **Panel 4**  |     | _From papyri to photographs.<br/> Doing research with images_   | _Non-uses of digital technology_  |
 | **Panel 5**  | _Digital self care tools and utilities_  | _How much advertising <br/>DH research while doing it?_  | _Social media as a source for research<br/> (ethical, technical, legal)_ |
 
