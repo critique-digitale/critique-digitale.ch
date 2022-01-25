@@ -12,7 +12,7 @@ The conference programme includes two plenary sessions, three keynotes by leadin
 | 08:45 | On-boarding BigBlueButton<br>Provided by CH-Open                                                                                                           |
 | 09:30 | Introduction by the Organizers &<br>welcome by Dr. Markus Zürcher                                                                                          |
 | 10:00 | Pitching-Session                                                                                                                                           |
-| 11:00 | _Grasping the digital world through its uses._<br>_The example of information and journalism_<br>Keynote by Nathalie Pignard Cheynel<br>Voting in progress |
+| 11:00 | [_Grasping the digital world through its uses._](https://bbb.ch-open.ch/playback/presentation/2.3/31b3f63b08280799c2bffa5d32bd3b0022666ece-1634797796817)<br>_The example of information and journalism_<br>Keynote by Nathalie Pignard Cheynel<br>Voting in progress |
 | 12:00 | Presentation of program & lunch break                                                                                                                      |
 | 13:30 | Panelslot 1<Panelslot panelslot='1'/>                                                                                                                      |
 | 14:15 | Break                                                                                                                                                      |
@@ -30,14 +30,10 @@ The conference programme includes two plenary sessions, three keynotes by leadin
 | 08:45 |                                                                                   |
 | 09:30 | Welcome Back                                                                      |
 | 10:00 | Panelslot 4<Panelslot panelslot='4'/>                                             |
-| 11:00 | _Digital explorations at the Sciences Po medialab_<br>Keynote by Dominique Cardon |
+| 11:00 | [_Digital explorations at the Sciences Po medialab_](https://bbb.ch-open.ch/playback/presentation/2.3/31b3f63b08280799c2bffa5d32bd3b0022666ece-1634887186489)<br>Keynote by Dominique Cardon |
 | 12:00 | Panelslot 5<Panelslot panelslot='5'/><br>break                                    |
 | 13:30 | Presentations of Results and Outlook                                              |
-| 14:15 | Round Table and End of Event                                                      |
-| 15:00 |                                                                                   |
-| 15:45 |                                                                                   |
-| 16:30 |                                                                                   |
-| 17:00 |                                                                                   |
+| 14:15 | End of Event                                                      |
 
 </article>
 
