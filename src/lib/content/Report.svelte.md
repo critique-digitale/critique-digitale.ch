@@ -2,7 +2,7 @@
 	import { assets } from '$app/paths';
 </script>
 
-[Download the report as PDF]({assets}/downloads/Critique_Digital_UnconferenceReportJan2022.pdf)
+[Download the report as PDF]({assets+'/downloads/Critique_Digital_UnconferenceReportJan2022.pdf'})
                                                                                 
 **Organized by:** Enrico Natale (infoclio.ch), Tobias Hodel (University of Bern) and Alexandre Camus (dhCenter UNIL-EPFL) in association with André Cardozo Sarli (University of Geneva), Charlotte Mazel-Cabasse (dhcenter UNIL-EPFL), Claudia Amsler (University of Bern), Gabi Wüthrich (University of Zurich), Jan Baumann (infoclio.ch), Jessica Pidoux (EPFL), Moritz Mähr (ETH Zurich), Mylène Tanferri Machado (Programme doctoral en études numériques, UNIL), Vera Chiquet (University of Basel), Vlad Atanasiu (University of Bern)
                                                                                 
@@ -48,9 +48,9 @@ The topics are presented according to three principles. First, the topics are or
 
 |   |  **A- Basel**  |  **B- Zurich**  |  **C- Lausanne**  |
 | --------------- | ---------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------ |
-| **Panel 1**  | [Combining information from diverse collections and sources. Accessing visualizations](downloads/A1-Combining-information.pdf) | [Critical digital literacy in the libraries for persons from different socio-cultural milieux (empowerment)](downloads/B1-Critical-digital-literacy.pdf) | [Algorithms as normative tools](downloads/C1-Algorithms-as-normative-tools.pdf)  |
-| **Panel 2**  | [Premodern data for NLP](downloads/A2-Premodern-NLP.pdf)  | [Political discourse online on YouTube](downloads/B2-PoliticalDiscourse.pdf) | [Essential readings on digital criticism](downloads/C2-Essential-readings-on-digital-criticism.pdf)   |
-| **Panel 3**  | [Transparency and democratizing archives by digitization](downloads/A3-Transparency.pdf)  | [Micropublications (secure research data, do something participant driven, new ways for preprints)](downloads/B3-Micropublications.pdf)  | [Promesses et contraintes de l’intelligence des réseaux 5G](downloads/C3-5G-Networks.pdf)  |
+| **Panel 1**  | [Combining information from diverse collections and sources. Accessing visualizations]({assets+'/downloads/A1-Combining-information.pdf'}) | [Critical digital literacy in the libraries for persons from different socio-cultural milieux (empowerment)]({assets+'/downloads/B1-Critical-digital-literacy.pdf'}) | [Algorithms as normative tools]({assets+'/downloads/C1-Algorithms-as-normative-tools.pdf}')  |
+| **Panel 2**  | [Premodern data for NLP]({assets+'/downloads/A2-Premodern-NLP.pdf'})  | [Political discourse online on YouTube]({assets+'/downloads/B2-PoliticalDiscourse.pdf'}) | [Essential readings on digital criticism]({assets+'/downloads/C2-Essential-readings-on-digital-criticism.pdf'})   |
+| **Panel 3**  | [Transparency and democratizing archives by digitization]({assets+'/downloads/A3-Transparency.pdf'})  | [Micropublications (secure research data, do something participant driven, new ways for preprints)]({assets+'/downloads/B3-Micropublications.pdf'})  | [Promesses et contraintes de l’intelligence des réseaux 5G]({assets+'/downloads/C3-5G-Networks.pdf'})  |
 
 **Friday, 22nd of Oct.** 
 |  | **A- Basel**  | **B- Zurich**  | **C- Lausanne**  |
