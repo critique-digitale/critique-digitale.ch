@@ -48,7 +48,7 @@ The topics are presented according to three principles. First, the topics are or
 
 |   |  **A- Basel**  |  **B- Zurich**  |  **C- Lausanne**  |
 | --------------- | ---------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------ |
-| **Panel 1**                                 | _[Combining information from diverse<br/> collections and sources.<br/>Accessing visualizations](downloads/B1\_Critical\_digital\_literacy.pdf)_ | _Critical digital literacy in the libraries<br/> for persons from different socio-cultural milieux (empowerment)_ | _Algorithms as normative tools_  |
+| **Panel 1**                                 | [Combining information from diverse<br/> collections and sources.<br/>Accessing visualizations](A1-Combining-information.pdf) | [Critical digital literacy in the libraries<br/> for persons from different socio-cultural milieux (empowerment)](downloads/B1-Critical-digital-literacy.pdf) | [Algorithms as normative tools](downloads/C1-Algorithms-as-normative-tools.pdf)  |
 | **Panel 2**  | _Premodern data for NLP_  | _Political discourse online on YouTube_ | _Essential readings on digital criticism_   |
 | **Panel 3**  | _Transparency and democratizing archives by digitization_  | _Micropublications (secure research data, <br/>do something participant driven, new ways for preprints)_  | _Promesses et contraintes de l’intelligence des réseaux 5G_  |
 
