@@ -51,6 +51,7 @@ The topics are presented according to three principles. First, the topics are or
 | **Panel 3** | [Transparency and democratizing archives by digitization]({assets}/downloads/A3-Transparency.pdf)                                       | [Micropublications (secure research data, do something participant driven, new ways for preprints)]({assets}/downloads/B3-Micropublications.pdf)                  | [Promesses et contraintes de l’intelligence des réseaux 5G]({assets}/downloads/C3-5G-Networks.pdf)           |
 
 **Friday, 22nd of Oct.**
+
 | | **A- Basel** | **B- Zurich** | **C- Lausanne** |
 | --------------- | ---------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------ |
 | **Panel 4** | | _From papyri to photographs.<br/> Doing research with images_ | _Non-uses of digital technology_ |
