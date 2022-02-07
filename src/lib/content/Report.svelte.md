@@ -1,20 +1,20 @@
 <script>
-	import { assets } from '$app/paths';
+ import { assets } from '$app/paths';
 </script>
 
-[Download the report as PDF]({assets+'/downloads/Critique_Digital_UnconferenceReportJan2022.pdf'})
-                                                                                
+[Download the report as PDF]({assets}/downloads/Critique_Digital_UnconferenceReportJan2022.pdf)
+
 **Organized by:** Enrico Natale (infoclio.ch), Tobias Hodel (University of Bern) and Alexandre Camus (dhCenter UNIL-EPFL) in association with André Cardozo Sarli (University of Geneva), Charlotte Mazel-Cabasse (dhcenter UNIL-EPFL), Claudia Amsler (University of Bern), Gabi Wüthrich (University of Zurich), Jan Baumann (infoclio.ch), Jessica Pidoux (EPFL), Moritz Mähr (ETH Zurich), Mylène Tanferri Machado (Programme doctoral en études numériques, UNIL), Vera Chiquet (University of Basel), Vlad Atanasiu (University of Bern)
-                                                                                
+
 **Funded by:** The Swiss Academy of Humanities and Social Sciences and the dhCenter UNIL-EPFL
 
 **Report coordination and analysis by:** Jessica Pidoux.
-                                                                                
+
 **Reporters:** Delphine Kessler (University of Basel), Gabi Wüthrich (University of Zurich), Marian Clemens (University of Basel), Andrea Amato (University of Lausanne), Jérémie Garrigues (University of Lausanne), André Cardozo Sarli (University of Geneva), Claudia Amsler (University of Bern), Anna Janka (University of Bern).
 
 **Edition committee:** Alexandre Camus, Enrico Natale, Tobias Hodel.
 
-**Publication date:** January 2022                                                                                                                       
+**Publication date:** January 2022
 
 ### 1. Summary
 
@@ -34,33 +34,31 @@ The chosen format of the event was that of an "unconference", known to the organ
 
 This particular unconference builds upon a first event organized in 2011 by infoclio.ch at the University of Lausanne that attracted more than 100 participants and energized the Digital Humanities in Switzerland. The 2021 unconference was organized around the major topics of the contemporary cultural critique that address the challenges posed by digital technologies. It attracted (again) more than 110 participants over two days online.
 
-At the unconference, three keynote speakers presented their approaches to a critical digitality: Nathalie Pignard-Cheynel (Université de Neuchâtel, Switzerland), Dominique Cardon (Médialab Sciences Po, Paris, France) and Mar Hicks (Illinois Institute of Technology, USA). After an opening presentation by Markus Zürcher, Director of the Academy of Humanities and Social Sciences, the participants were able to discuss a variety of topics, as can be seen from the program \[<https://critique-digitale.ch/#programme>]. We will briefly introduce them in the following section.
+At the unconference, three keynote speakers presented their approaches to a critical digitality: Nathalie Pignard-Cheynel (Université de Neuchâtel, Switzerland), Dominique Cardon (Médialab Sciences Po, Paris, France) and Mar Hicks (Illinois Institute of Technology, USA). After an opening presentation by Markus Zürcher, Director of the Academy of Humanities and Social Sciences, the participants were able to discuss a variety of topics, as can be seen from the program <https://critique-digitale.ch/#programme>. We will briefly introduce them in the following section.
 
 ### 3. Panel Presentation by Topics
 
-The unconference gathered 14 panels with multiple topics (Table 1) suggested by the participants, and selected using online voting \[<https://app.mieuxvoter.fr>]. The voting method, called “majority voting”, was chosen because it gives preference to those candidates that are acceptable to most voters, as opposed to extreme outcomes.
+The unconference gathered 14 panels with multiple topics (Table 1) suggested by the participants, and selected using online voting <https://app.mieuxvoter.fr>. The voting method, called “majority voting”, was chosen because it gives preference to those candidates that are acceptable to most voters, as opposed to extreme outcomes.
 
 The topics are presented according to three principles. First, the topics are organized according to the two-day unconference plan: Thursday (21.10.2021) and Friday (22.10.2021). Second, topics are separated into three of the “online hosting cities” from which some of the organizers are affiliated to: Basel, Zurich, Lausanne. Finally, topics are organized by the virtual rooms created at the unconference. Each virtual room was assigned to a panel slot.
 
-  
+**Thursday, 21st of Oct.**
 
- **Thursday, 21st of Oct.** 
+|             | **A- Basel**                                                                                                                               | **B- Zurich**                                                                                                                                                        | **C- Lausanne**                                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Panel 1** | [Combining information from diverse collections and sources. Accessing visualizations]({assets}/downloads/A1-Combining-information.pdf) | [Critical digital literacy in the libraries for persons from different socio-cultural milieux (empowerment)]({assets}/downloads/B1-Critical-digital-literacy.pdf) | [Algorithms as normative tools]({assets}/downloads/C1-Algorithms-as-normative-tools.pdf)                     |
+| **Panel 2** | [Premodern data for NLP]({assets}/downloads/A2-Premodern-NLP.pdf)                                                                       | [Political discourse online on YouTube]({assets}/downloads/B2-PoliticalDiscourse.pdf)                                                                             | [Essential readings on digital criticism]({assets}/downloads/C2-Essential-readings-on-digital-criticism.pdf) |
+| **Panel 3** | [Transparency and democratizing archives by digitization]({assets}/downloads/A3-Transparency.pdf)                                       | [Micropublications (secure research data, do something participant driven, new ways for preprints)]({assets}/downloads/B3-Micropublications.pdf)                  | [Promesses et contraintes de l’intelligence des réseaux 5G]({assets}/downloads/C3-5G-Networks.pdf)           |
 
-|   |  **A- Basel**  |  **B- Zurich**  |  **C- Lausanne**  |
+**Friday, 22nd of Oct.**
+| | **A- Basel** | **B- Zurich** | **C- Lausanne** |
 | --------------- | ---------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------ |
-| **Panel 1**  | [Combining information from diverse collections and sources. Accessing visualizations]({assets+'/downloads/A1-Combining-information.pdf'}) | [Critical digital literacy in the libraries for persons from different socio-cultural milieux (empowerment)]({assets+'/downloads/B1-Critical-digital-literacy.pdf'}) | [Algorithms as normative tools]({assets+'/downloads/C1-Algorithms-as-normative-tools.pdf}')  |
-| **Panel 2**  | [Premodern data for NLP]({assets+'/downloads/A2-Premodern-NLP.pdf'})  | [Political discourse online on YouTube]({assets+'/downloads/B2-PoliticalDiscourse.pdf'}) | [Essential readings on digital criticism]({assets+'/downloads/C2-Essential-readings-on-digital-criticism.pdf'})   |
-| **Panel 3**  | [Transparency and democratizing archives by digitization]({assets+'/downloads/A3-Transparency.pdf'})  | [Micropublications (secure research data, do something participant driven, new ways for preprints)]({assets+'/downloads/B3-Micropublications.pdf'})  | [Promesses et contraintes de l’intelligence des réseaux 5G]({assets+'/downloads/C3-5G-Networks.pdf'})  |
-
-**Friday, 22nd of Oct.** 
-|  | **A- Basel**  | **B- Zurich**  | **C- Lausanne**  |
-| --------------- | ---------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------ |
-| **Panel 4**  |     | _From papyri to photographs.<br/> Doing research with images_   | _Non-uses of digital technology_  |
-| **Panel 5**  | _Digital self care tools and utilities_  | _How much advertising <br/>DH research while doing it?_  | _Social media as a source for research<br/> (ethical, technical, legal)_ |
+| **Panel 4** | | _From papyri to photographs.<br/> Doing research with images_ | _Non-uses of digital technology_ |
+| **Panel 5** | _Digital self care tools and utilities_ | _How much advertising <br/>DH research while doing it?_ | _Social media as a source for research<br/> (ethical, technical, legal)_ |
 
 Table 1: Unconference topics presented by day, panel number and online hosting city.
 
-The 14 panels with their corresponding topics can be identified with a reference created by a letter (A, B or C) corresponding to the hosting city, and a number from 1 to 5 corresponding to the panel slot. For instance, one can read the table as follows: On Thursday 21, in panel 1 the topic at A-Basel was “Combining information from diverse collections and sources. Accessing visualizations”. This topic is identified as “A1” in the results part. In total, there are 14 identifiers that will help the reader to identify the topics at the unconference. The identifiers are_A1, A2, A3, A5, B1, B2, B3, B4, B5, C1, C2, C3, C4, C5_.
+The 14 panels with their corresponding topics can be identified with a reference created by a letter (A, B or C) corresponding to the hosting city, and a number from 1 to 5 corresponding to the panel slot. For instance, one can read the table as follows: On Thursday 21, in panel 1 the topic at A-Basel was “Combining information from diverse collections and sources. Accessing visualizations”. This topic is identified as “A1” in the results part. In total, there are 14 identifiers that will help the reader to identify the topics at the unconference. The identifiers are _A1, A2, A3, A5, B1, B2, B3, B4, B5, C1, C2, C3, C4, C5_.
 
 All topics are considered equally important at the unconference. The importance is not counted in terms of how many votes they got or how many participants were present in each panel. Instead, the report values every topic highly as topics were used as a medium for giving voice to the participants interested more broadly in critical stances.
 
@@ -72,9 +70,9 @@ At the unconference notes were taken individually and collectively. For the coll
 
 #### 2. Explorative Thematic Analysis
 
-The individual reports produced for the 14 panels at the unconference were explored using_NVivo 12;_ a qualitative data analysis software for identifying significant themes across panels in an automated way. For creating a theme, Nvivo computes statistics and “detects significant noun phrases to identify the most frequently occurring themes. The process collects the themes and counts their mentions across all files in the set being processed.”\[<https://help-nv.qsrinternational.com/12/win/v12.1.108-d3ea61/Content/coding/auto-detect-code-themes.htm>]
+The individual reports produced for the 14 panels at the unconference were explored using*NVivo 12;* a qualitative data analysis software for identifying significant themes across panels in an automated way. For creating a theme, Nvivo computes statistics and “detects significant noun phrases to identify the most frequently occurring themes. The process collects the themes and counts their mentions across all files in the set being processed.”\[<https://help-nv.qsrinternational.com/12/win/v12.1.108-d3ea61/Content/coding/auto-detect-code-themes.htm>]
 
-After detecting themes in an automated way using NVivo, the coordinator proceeded to a post-processing coding phase to review the codes. This phase was relevant to verify the coherence of the themes as the coordinator was present in the unconference and read the panels’ individual reports. She reviewed the automated codes and deleted repetitive codes. There are 15 themes retained, from which the four most frequent themes evoked across panels are analyzed and presented in detail in the following result section. The themes are_research, digital, knowledge, information._The goal is to present in an exploratory manner, the main concerns, challenges and solutions that participants provided across panels for each specific theme identified.
+After detecting themes in an automated way using NVivo, the coordinator proceeded to a post-processing coding phase to review the codes. This phase was relevant to verify the coherence of the themes as the coordinator was present in the unconference and read the panels’ individual reports. She reviewed the automated codes and deleted repetitive codes. There are 15 themes retained, from which the four most frequent themes evoked across panels are analyzed and presented in detail in the following result section. The themes are_research, digital, knowledge, information.\_The goal is to present in an exploratory manner, the main concerns, challenges and solutions that participants provided across panels for each specific theme identified.
 
 ### 5. Results
 
@@ -82,7 +80,7 @@ In this section we first provide an overview on the themes evoked at the unconfe
 
 #### 1. Themes
 
-There are 15 themes identified in total across the 15 panels. The themes are_data, digital, discourse, history, information, knowledge, process, projects, public, research, results, social media, texts, topics, traditional._
+There are 15 themes identified in total across the 15 panels. The themes are*data, digital, discourse, history, information, knowledge, process, projects, public, research, results, social media, texts, topics, traditional.*
 
 Some themes were more present in some panels than others (see Annex 2). For instance, the theme “data” was present in three panels; A1, A2, A4. In contrast, the theme “research” was present in ten panels: A1, A2, A4, B1, B2, B3, B5, C1, C4, C5. While some themes are predominant because they are directly related to the panel’s topic, these results do not mean that “data” was not important in other panels.
 
@@ -111,7 +109,7 @@ Table 2. Frequency by main four themes.
 
 ##### 1. The meaning and practices of conducting digital research
 
-The first theme identified across panels is_research_. Throughout different topics and objects of studies at the unconference, participants were mainly (i) defining what digital research means, (ii) discussing the current challenges to conduct research about/within the digital, (iii) proposing solutions to facilitate the research process.
+The first theme identified across panels is*research*. Throughout different topics and objects of studies at the unconference, participants were mainly (i) defining what digital research means, (ii) discussing the current challenges to conduct research about/within the digital, (iii) proposing solutions to facilitate the research process.
 
 (i) When defining digital research, on the one hand, participants compared digital research with traditional research, participants found difficulties, and we are reminded of the same difficulties. On the other hand, they expressed that DH research is more about speed and collaboration. “Research in the area moves so fast, we can't wait 3 years to the official publication.” (Panel B5). Moreover, DH projects “involve sharing time with other researchers; \[but how much of that time is useful for the research] regarding the amount of time invested \[is unclear].” (Ibid.).
 
@@ -121,7 +119,7 @@ The first theme identified across panels is_research_. Throughout different topi
 
 ##### 2. Digital inclusion and digital life quality
 
-The second theme identified is_digital_. The discussion mainly covered (i) digital critical literacy, and (ii) personal and professional struggles within the digital environment.
+The second theme identified is*digital*. The discussion mainly covered (i) digital critical literacy, and (ii) personal and professional struggles within the digital environment.
 
 (i) Critical digital literacy was an important issue for the unconference participants. “Inspired by ideas and concepts of Brazilian pedagogue Paulo Freire concerning critical pedagogy, the following question arose: how critical digital literacy can be improved to step up to digital poverty, which became especially apparent through the pandemic, and hegemonic structures in research publishing.” (Panel B1). It was highlighted by participants that there is a level of complexity related to the use of digital tools. Therefore, these tools required a certain technological literacy. This evidence contradicts the fact that users are looking for technologies that facilitate their activities. As digital tools do not necessarily enhance performance, one should seek to better understand “non-use” practices of digital tools, e.g., non-use as a self-protection measure; define a timespan for not using the mobile phone (see Panel C4). Some participants found it useful to compare digital practices with research practices of pre-digital times to understand the real transformations coming along with digital technologies. For instance, “One of the participants questioned the specific digital properties of the dating apps in comparison with the traditional forms of dating.” (Panel A1). The answer by one researcher was that users learn new things with digital tools that are later used in offline contexts.
 
@@ -131,7 +129,7 @@ In that respect, keynote speaker Nathalie Pignard-Cheynel presented a study cond
 
 ##### 3. Solutions for digital knowledge production
 
-The third theme is related to_knowledge_. The discussion was centered on solutions for producing knowledge about/with the digital: (i) learning from other types of knowledge, and (ii) filling the gap between the global north and south.
+The third theme is related to*knowledge*. The discussion was centered on solutions for producing knowledge about/with the digital: (i) learning from other types of knowledge, and (ii) filling the gap between the global north and south.
 
 (i) To learn from other types of knowledge, participants consider that some predominant research techniques, such as natural language processing, could benefit from previous knowledge produced on the study of texts. This combination of knowledge from different disciplines can be useful to students. To participants, “institutions must get more flexible and welcome knowledge outside of the western academic bias (including citizen science \[field] and people with different cultural backgrounds).” (Panel A2). Moreover, it emerged during the discussions that study programs and academic initiatives should ensure knowledge transfer between older and younger researchers. While the field of digital humanities is rich in terms of interdisciplinarity, participants found it relevant to ensure transversal interests to make the network stronger. Moreover, it could be beneficial to do something with the digital humanities knowledge and expertise produced outside academia.
 
@@ -139,7 +137,7 @@ The third theme is related to_knowledge_. The discussion was centered on solutio
 
 #### 4. Interrogating information production processes
 
-The fourth theme is_information_. Participants were mainly focused on discussing (i) the quantity and speed in which information is produced online, and (ii) the production process of information.
+The fourth theme is*information*. Participants were mainly focused on discussing (i) the quantity and speed in which information is produced online, and (ii) the production process of information.
 
 (i) A lot of information produced at high speed online makes it difficult for researchers to filter out the relevant information to study. A particular problem when conducting social media research is the difficulty to know who the study subjects are. For instance, “the demographic information about the people who leave comments is missing” (Panel B2). Related to this, the keynote speaker Dominique Cardon gave a presentation on the benefits and challenges of conducting research on Youtube. He discussed what information can be extracted from online comments, how to analyze it, and more broadly, how to understand social practices within the digital from experiences drawn from the medialab history, and the actor network theory.
 
@@ -152,4 +150,3 @@ The report shows, first, the way the unconference was organized in a bottom-up a
 Second, by presenting the four major themes analyzed and every panel topic that took place at the unconference, the report enhances with new perspectives the state of research, debates, and reflections in the community. Digital phenomena were tackled from the humanities perspective, including sociological and computing preoccupations. There were discussions about design research methods and processes, ethical and interdisciplinary considerations, as well as academic power relations between the global north and the global south. Yet, some general questions remained open to debate: To what extent_digital_is a concept we can grasp? What is the consistency of the digital term for the humanities?
 
 While the concept of the digital was criticized, participants were creative and provided a set of solutions for each topic. More generally, the participants showed how a broad mindset can help improve the interdisciplinarity of digital studies and the digital humanities.
-                                                                                
