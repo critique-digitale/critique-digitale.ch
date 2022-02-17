@@ -1,11 +1,11 @@
 <script>
- import { assets } from '$app/paths';
+    import { assets } from '$app/paths';
 
-function lightbox (e) {
-    const a = e.target.parentElement;
-    const s = "active";
-    a.classList.contains(s) ? a.classList.remove(s) : a.classList.add(s);
-}
+    function lightbox (e) {
+        const a = e.target.parentElement;
+        const s = "active";
+        a.classList.contains(s) ? a.classList.remove(s) : a.classList.add(s);
+    }
 </script>
 
 <a href="{`${assets}/downloads/Critique_Digital_UnconferenceReportJan2022.pdf`}" rel="external">Download the report as PDF</a>
