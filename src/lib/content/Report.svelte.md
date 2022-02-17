@@ -2,7 +2,7 @@
  import { assets } from '$app/paths';
 </script>
 
-[Download the report as PDF]({assets}/downloads/Critique_Digital_UnconferenceReportJan2022.pdf)
+<a href="{`${assets}/downloads/Critique_Digital_UnconferenceReportJan2022.pdf`}" rel="external">Download the report as PDF</a>
 
 **Organized by:** Enrico Natale (infoclio.ch), Tobias Hodel (University of Bern) and Alexandre Camus (dhCenter UNIL-EPFL) in association with André Cardozo Sarli (University of Geneva), Charlotte Mazel-Cabasse (dhcenter UNIL-EPFL), Claudia Amsler (University of Bern), Gabi Wüthrich (University of Zurich), Jan Baumann (infoclio.ch), Jessica Pidoux (EPFL), Moritz Mähr (ETH Zurich), Mylène Tanferri Machado (Programme doctoral en études numériques, UNIL), Vera Chiquet (University of Basel), Vlad Atanasiu (University of Bern)
 
