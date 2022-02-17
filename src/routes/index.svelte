@@ -53,7 +53,7 @@
 	<section><a href="{base}/#home" class="secondary-font">⇧ Back up</a></section>
 	<hr />
 
-	<article id="Report">
+	<article id="report">
 		<header>
 			<h2>Report</h2>
 		</header>
