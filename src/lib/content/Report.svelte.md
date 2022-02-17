@@ -47,7 +47,7 @@ At the unconference, three keynote speakers presented their approaches to a crit
 The unconference gathered 14 panels with multiple topics (Table 1) suggested by the participants, and selected using [online voting](https://app.mieuxvoter.fr). The voting method, called “majority voting”, was chosen because it gives preference to those candidates that are acceptable to most voters, as opposed to extreme outcomes.
 
 The topics are presented according to three principles. First, the topics are organized according to the two-day unconference plan: Thursday (21.10.2021) and Friday (22.10.2021). Second, topics are separated into three of the “online hosting cities” from which some of the organizers are affiliated to: Basel, Zurich, Lausanne. Finally, topics are organized by the virtual rooms created at the unconference. Each virtual room was assigned to a panel slot.
-<figure>
+<figure class="first-center">
 
 **Thursday, 21st of Oct.**
 
@@ -59,10 +59,10 @@ The topics are presented according to three principles. First, the topics are or
 
 **Friday, 22nd of Oct.**
 
-|             | **A- Basel**                            | **B- Zurich**                                                 | **C- Lausanne**                                                          |
-|-------------|-----------------------------------------|---------------------------------------------------------------|--------------------------------------------------------------------------|
-| **Panel 4** |                                         | _From papyri to photographs.<br/> Doing research with images_ | _Non-uses of digital technology_                                         |
-| **Panel 5** | _Digital self care tools and utilities_ | _How much advertising <br/>DH research while doing it?_       | _Social media as a source for research<br/> (ethical, technical, legal)_ |
+|             | **A- Basel**                                                                                                                    | **B- Zurich**                                                                                                                                          | **C- Lausanne**                                                                                                                                  |
+|-------------|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Panel 4** |                                                                                                                                 | <a href="{`${assets}/downloads/B4-Doing-research-with-images.pdf`}" rel="external">From papyri to photographs.<br/> Doing research with images</a>     | <a href="{`${assets}/downloads/C4-NonUses-of-digital-technology.pdf`}" rel="external">Non-uses of digital technology</a>                         |
+| **Panel 5** | <a href="{`${assets}/downloads/A5-Digital-selfcare-tools-and-utilities.pdf`}" rel="external">Digital self care tools and utilities</a> | <a href="{`${assets}/downloads/B5-DH-Advertising.pdf`}" rel="external">How much advertising <br/>DH research while doing it?</a> | <a href="{`${assets}/downloads/C5-Social-Media-research.pdf`}" rel="external">Social media as a source for research<br/> (ethical, technical, legal)</a> |
 
 <figcaption>Table 1: Unconference topics presented by day, panel number and online hosting city.</figcaption>
 </figure>
