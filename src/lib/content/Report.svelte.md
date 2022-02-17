@@ -41,6 +41,7 @@ At the unconference, three keynote speakers presented their approaches to a crit
 The unconference gathered 14 panels with multiple topics (Table 1) suggested by the participants, and selected using [online voting](https://app.mieuxvoter.fr). The voting method, called “majority voting”, was chosen because it gives preference to those candidates that are acceptable to most voters, as opposed to extreme outcomes.
 
 The topics are presented according to three principles. First, the topics are organized according to the two-day unconference plan: Thursday (21.10.2021) and Friday (22.10.2021). Second, topics are separated into three of the “online hosting cities” from which some of the organizers are affiliated to: Basel, Zurich, Lausanne. Finally, topics are organized by the virtual rooms created at the unconference. Each virtual room was assigned to a panel slot.
+<figure>
 
 **Thursday, 21st of Oct.**
 
@@ -57,8 +58,8 @@ The topics are presented according to three principles. First, the topics are or
 | **Panel 4** |                                         | _From papyri to photographs.<br/> Doing research with images_ | _Non-uses of digital technology_                                         |
 | **Panel 5** | _Digital self care tools and utilities_ | _How much advertising <br/>DH research while doing it?_       | _Social media as a source for research<br/> (ethical, technical, legal)_ |
 
-Table 1: Unconference topics presented by day, panel number and online hosting city.
-
+<figcaption>Table 1: Unconference topics presented by day, panel number and online hosting city.</figcaption>
+</figure>
 The 14 panels with their corresponding topics can be identified with a reference created by a letter (A, B or C) corresponding to the hosting city, and a number from 1 to 5 corresponding to the panel slot. For instance, one can read the table as follows: On Thursday 21, in panel 1 the topic at A-Basel was “Combining information from diverse collections and sources. Accessing visualizations”. This topic is identified as “A1” in the results part. In total, there are 14 identifiers that will help the reader to identify the topics at the unconference. The identifiers are _A1, A2, A3, A5, B1, B2, B3, B4, B5, C1, C2, C3, C4, C5_.
 
 All topics are considered equally important at the unconference. The importance is not counted in terms of how many votes they got or how many participants were present in each panel. Instead, the report values every topic highly as topics were used as a medium for giving voice to the participants interested more broadly in critical stances.
@@ -90,14 +91,15 @@ For this report’s purpose, as we intend to provide a transversal analysis of t
 #### 2. Hierarchical Theme Visualization and Definition
 
 There are 138 themes and subthemes that were identified cross-panel. They are visually presented below in Figure 1 by color and size, according to the theme frequency (how many times the theme can be found within a noun phrase in every panel). The detailed list can be found in annex 2 and they are visually presented in detail in the provided digital files attached to this report.
-
-<img src="{assets}/images/hierarchical.png" alt="Hierarchical Theme Visualization" height="600" >
-
-Figure 2. Hierarchical Theme Visualization
-
+<figure>
+    <img src="{assets}/images/hierarchical.png" alt="Hierarchical Theme Visualization" height="600" >
+    <figcaption>Figure 1. Hierarchical Theme Visualization</figcaption>
+</figure>
 #### 3. Major Cross-panel Themes’ Analysis
 
 Four themes were the most frequently evoked by participants cross-panel during the unconference (Table 2).
+
+<figure>
 
 | **Theme**   | **Frequency** |
 | ----------- | ------------- |
@@ -106,11 +108,11 @@ Four themes were the most frequently evoked by participants cross-panel during t
 | Knowledge   | 6             |
 | Information | 5             |
 
-Table 2. Frequency by main four themes.
-
+<figcaption>Table 2. Frequency by main four themes.</figcaption>
+</figure>
 ##### 1. The meaning and practices of conducting digital research
 
-The first theme identified across panels is*research*. Throughout different topics and objects of studies at the unconference, participants were mainly (i) defining what digital research means, (ii) discussing the current challenges to conduct research about/within the digital, (iii) proposing solutions to facilitate the research process.
+The first theme identified across panels is *research*. Throughout different topics and objects of studies at the unconference, participants were mainly (i) defining what digital research means, (ii) discussing the current challenges to conduct research about/within the digital, (iii) proposing solutions to facilitate the research process.
 
 (i) When defining digital research, on the one hand, participants compared digital research with traditional research, participants found difficulties, and we are reminded of the same difficulties. On the other hand, they expressed that DH research is more about speed and collaboration. “Research in the area moves so fast, we can't wait 3 years to the official publication.” (Panel B5). Moreover, DH projects “involve sharing time with other researchers; \[but how much of that time is useful for the research] regarding the amount of time invested \[is unclear].” (Ibid.).
 
