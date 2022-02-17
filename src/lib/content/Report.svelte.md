@@ -1,5 +1,11 @@
 <script>
  import { assets } from '$app/paths';
+
+function lightbox (e) {
+    const a = e.target.parentElement;
+    const s = "active";
+    a.classList.contains(s) ? a.classList.remove(s) : a.classList.add(s);
+}
 </script>
 
 <a href="{`${assets}/downloads/Critique_Digital_UnconferenceReportJan2022.pdf`}" rel="external">Download the report as PDF</a>
@@ -60,6 +66,7 @@ The topics are presented according to three principles. First, the topics are or
 
 <figcaption>Table 1: Unconference topics presented by day, panel number and online hosting city.</figcaption>
 </figure>
+
 The 14 panels with their corresponding topics can be identified with a reference created by a letter (A, B or C) corresponding to the hosting city, and a number from 1 to 5 corresponding to the panel slot. For instance, one can read the table as follows: On Thursday 21, in panel 1 the topic at A-Basel was “Combining information from diverse collections and sources. Accessing visualizations”. This topic is identified as “A1” in the results part. In total, there are 14 identifiers that will help the reader to identify the topics at the unconference. The identifiers are _A1, A2, A3, A5, B1, B2, B3, B4, B5, C1, C2, C3, C4, C5_.
 
 All topics are considered equally important at the unconference. The importance is not counted in terms of how many votes they got or how many participants were present in each panel. Instead, the report values every topic highly as topics were used as a medium for giving voice to the participants interested more broadly in critical stances.
@@ -84,17 +91,18 @@ In this section we first provide an overview on the themes evoked at the unconfe
 
 There are 15 themes identified in total across the 15 panels. The themes are*data, digital, discourse, history, information, knowledge, process, projects, public, research, results, social media, texts, topics, traditional.*
 
-Some themes were more present in some panels than others (see Annex 2). For instance, the theme “data” was present in three panels; A1, A2, A4. In contrast, the theme “research” was present in ten panels: A1, A2, A4, B1, B2, B3, B5, C1, C4, C5. While some themes are predominant because they are directly related to the panel’s topic, these results do not mean that “data” was not important in other panels.
+Some themes were more present in some panels than others (see <a href="{`${assets}/downloads/UnconferenceReportAnnex.pdf`}" rel="external">Annex 2</a>). For instance, the theme “data” was present in three panels; A1, A2, A4. In contrast, the theme “research” was present in ten panels: A1, A2, A4, B1, B2, B3, B5, C1, C4, C5. While some themes are predominant because they are directly related to the panel’s topic, these results do not mean that “data” was not important in other panels.
 
 For this report’s purpose, as we intend to provide a transversal analysis of the unconference, we present in section 5.3 the major cross-panel themes where every theme is defined. Before presenting the analysis, in the following subsection the themes and subthemes are represented visually in a hierarchical way.
 
 #### 2. Hierarchical Theme Visualization and Definition
 
-There are 138 themes and subthemes that were identified cross-panel. They are visually presented below in Figure 1 by color and size, according to the theme frequency (how many times the theme can be found within a noun phrase in every panel). The detailed list can be found in annex 2 and they are visually presented in detail in the provided digital files attached to this report.
+There are 138 themes and subthemes that were identified cross-panel. They are visually presented below in Figure 1 by color and size, according to the theme frequency (how many times the theme can be found within a noun phrase in every panel). The detailed list can be found in <a href="{`${assets}/downloads/UnconferenceReportAnnex.pdf`}" rel="external">annex 2</a> and they are visually presented in detail in the provided digital files attached to this report.
 <figure>
-    <img src="{assets}/images/hierarchical.png" alt="Hierarchical Theme Visualization" height="600" >
+    <a href="{assets}/images/hierarchical.png" class="lightbox" on:click|preventDefault={lightbox}><img src="{assets}/images/hierarchical.png" alt="Hierarchical Theme Visualization" height="600" ></a>
     <figcaption>Figure 1. Hierarchical Theme Visualization</figcaption>
 </figure>
+
 #### 3. Major Cross-panel Themes’ Analysis
 
 Four themes were the most frequently evoked by participants cross-panel during the unconference (Table 2).
@@ -110,6 +118,7 @@ Four themes were the most frequently evoked by participants cross-panel during t
 
 <figcaption>Table 2. Frequency by main four themes.</figcaption>
 </figure>
+
 ##### 1. The meaning and practices of conducting digital research
 
 The first theme identified across panels is *research*. Throughout different topics and objects of studies at the unconference, participants were mainly (i) defining what digital research means, (ii) discussing the current challenges to conduct research about/within the digital, (iii) proposing solutions to facilitate the research process.
