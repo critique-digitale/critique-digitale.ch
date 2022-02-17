@@ -1,8 +1,18 @@
+<script>
+ import { assets } from '$app/paths';
+
+function lightbox (e) {
+    const a = e.target.parentElement;
+    const s = "active";
+    a.classList.contains(s) ? a.classList.remove(s) : a.classList.add(s);
+}
+</script>
+
 ### Einführung
 
-Forscher\*innen aus Schweizer Universitäten und wissenschaftlichen Institutionen laden alle Interessierten herzlich zur ersten Unkonferenz «Digitale Kritik» ein. Offen und ohne Teilnahmegebühren wird dieser einzigartige Anlass am 21. und 22. Oktober 2021 online durchgeführt.
+Forscher\*innen aus Schweizer Universitäten und wissenschaftlichen Institutionen laden alle Interessierten herzlich zur ersten Unkonferenz «Digitale Kritik» ein. Offen und ohne Teilnahmegebühren wurde dieser einzigartige Anlass am 21. und 22. Oktober 2021 online durchgeführt.
 
-Nach mehr als einer Dekade an Diskussionen zum _digital turn_ und dem damit verbundenen Einfluss auf Forschung und Gesellschaft als Ganzes wollen wir Raum und Möglichkeiten zur Reflexion und zur Bildung von Netzwerken schaffen. Wir wollen Forschungsresultate und zukünftige Trends im Bereich der _digital studies_ und den _digital humanities_ mit Wissenschaftler\*innen aus der Schweiz und darüber hinaus diskutieren. Registrieren Sie sich jetzt für den Anlass!
+Nach mehr als einer Dekade an Diskussionen zum _digital turn_ und dem damit verbundenen Einfluss auf Forschung und Gesellschaft als Ganzes wollen wir Raum und Möglichkeiten zur Reflexion und zur Bildung von Netzwerken schaffen. Wir wollen Forschungsresultate und zukünftige Trends im Bereich der _digital studies_ und den _digital humanities_ mit Wissenschaftler\*innen aus der Schweiz und darüber hinaus diskutieren.
 
 ### Ziele
 
@@ -10,6 +20,8 @@ Nach mehr als einer Dekade an Diskussionen zum _digital turn_ und dem damit verb
 - Austausch über aktuelle Themen und die eigene Forschung
 - zukünftige transdisziplinäre Herausforderungen identifizieren und gemeinsam angehen
 - Die Charakteristika digitaler Forschungsmethoden diskutieren und einordnen
+
+Den (englischen) Bericht der Veranstaltung finden Sie <a href="{`${assets}/downloads/Critique_Digital_UnconferenceReportJan2022.pdf`}" rel="external">hier zum Download</a>.
 
 ### Was ist eine Unkonferenz?
 
