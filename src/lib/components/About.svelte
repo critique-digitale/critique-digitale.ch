@@ -91,7 +91,7 @@
 			</figure>
 		</aside></a
 	>
-	<a href="https://www.sagw.ch/fr/assh/reseau/la-suisse-existe-la-suisse-nexiste-pas">
+	<a href="https://www.lasuissenexistepas.ch/fr/home.html">
 		<aside>
 			<figure>
 				<img alt="SAGW" src="{assets}/images/logos/Logo_Schnitt_Farbe_CMYK.jpeg" />

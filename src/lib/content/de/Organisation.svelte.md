@@ -17,7 +17,7 @@ Eine Unkonferenz ist ein offener und freier Raum. Jedes Thema kann vorgeschlagen
 
 Unsicher, ob das Thema wirklich diskutiert werden soll? Schlagen Sie es vor! Unsicher, ob das Thema in den Bereich der ‘Critique Digitale’ fällt? Schlagen Sie es vor!
 
-Sobald alle Panelvorschläge gesammelt sind, stimmen die Teilnehmer\*innen über das Programm ab. Panels mit hoher Zustimmung werden als Slots von 45 Minuten in das Programm aufgenommen. Weitere Informationen über das Abstimmungssystem finden Sie [hier](https://mieuxvoter.fr/index.php/decouvrir/?lang=en).
+Sobald alle Panelvorschläge gesammelt sind, stimmen die Teilnehmer\*innen über das Programm ab. Panels mit hoher Zustimmung werden als Slots von 45 Minuten in das Programm aufgenommen. Weitere Informationen über das Abstimmungssystem finden Sie [hier](https://mieuxvoter.fr/).
 
 Das definitive Programm wird anschliessend auf dieser Website veröffentlicht. Den Teilnehmer\*innen steht es frei, sich in den verschiedenen virtuellen Räumen zu bewegen und die Panels zu besuchen, für die sie sich interessieren.
 
@@ -67,7 +67,7 @@ Nein. Als Unkonferenz folgt die ‘Critique Digitale’ nicht einer traditionell
 <summary>Konferenzsoftware und Plattform</summary>
 
 Die Konferenz findet auf BigBlueButton (BBB) statt, einer quelloffenen Visio-Konferenzsoftware, die von CH-Open entwickelt wurde, einer schweizerischen Organisation zur Förderung von Open-Source-Software, Online-Datenschutz und offenen Datenstandards. [Ein Handbuch](../downloads/Benutzeranleitung_BigBlueButton.pdf) und [Tutorials](https://bigbluebutton.org/teachers/tutorials/) zur Verwendung von BBB sind verfügbar.
-Die Abstimmung über das Programm findet über die Anwendung mieuxvoter.fr statt. Informationen zum Konzept des Mehrheitsentscheids finden Sie [hier](https://mieuxvoter.fr/index.php/decouvrir/?lang=en)
+Die Abstimmung über das Programm findet über die Anwendung mieuxvoter.fr statt. Informationen zum Konzept des Mehrheitsentscheids finden Sie [hier](https://mieuxvoter.fr/)
 
 </details>
 

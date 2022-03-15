@@ -17,7 +17,7 @@ An unconference is an open space. Every topic is worth considering and discussin
 
 You don’t know if people want to discuss this? Pitch it! Are you unsure if the topic belongs to ‘digital criticism’? Pitch it!
 
-Once we've collected all panel propositions, those will be submitted to a majority vote by all participants. Panels who get more consent will be integrated to the conference programme as panel slots of 45 min. More information about the voting system are to be found [here](https://mieuxvoter.fr/index.php/decouvrir/?lang=en).
+Once we've collected all panel propositions, those will be submitted to a majority vote by all participants. Panels who get more consent will be integrated to the conference programme as panel slots of 45 min. More information about the voting system are to be found [here](https://mieuxvoter.fr/).
 
 The definitive programme will then be published on this website. Participants are then free to move among the various virtual rooms and attend the panels they are interested in.
 
@@ -69,7 +69,7 @@ No. As an unconference, Digital Criticism does not need to follow a traditional 
 
 The conference will take place on BigBlueButton (BBB), an open source visio-conference software developed by CH-Open, a Swiss organisation promoting open source software, online privacy, and open data standards. [A manual](downloads/Manual_BigBlueButton.pdf) and [tutorials](https://bigbluebutton.org/teachers/tutorials/) on how to use BBB are available.
 
-Voting on the programme will take place via the application mieuxvoter.fr. Information on the concept of majority judgment can be found [here](https://mieuxvoter.fr/index.php/decouvrir/?lang=en)
+Voting on the programme will take place via the application mieuxvoter.fr. Information on the concept of majority judgment can be found [here](https://mieuxvoter.fr/)
 
 </details>
 
