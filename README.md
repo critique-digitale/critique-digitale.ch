@@ -57,10 +57,10 @@ GitHub automatically deploys the main-branch to <https://critique-digitale.ch/> 
 
 This project is maintained by [@critique-digitale](https://github.com/critique-digitale). Please understand that we won't be able to provide individual support via email. We also believe that help is much more valuable if it's shared publicly, so that more people can benefit from it.
 
-| Type                                  | Platforms                                                                                |
-| ------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 🚨 **Bug Reports**                    | [GitHub Issue Tracker](https://github.com/critique-digitale/critique-digitale.ch/issues) |
-| 🎁 **Feature Requests**               | [GitHub Issue Tracker](https://github.com/critique-digitale/critique-digitale.ch/issues) |
+| Type                                   | Platforms                                                                                |
+| -------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 🚨 **Bug Reports**                     | [GitHub Issue Tracker](https://github.com/critique-digitale/critique-digitale.ch/issues) |
+| 🎁 **Feature Requests**                | [GitHub Issue Tracker](https://github.com/critique-digitale/critique-digitale.ch/issues) |
 | 🛡 **Report a security vulnerability** | [GitHub Issue Tracker](https://github.com/critique-digitale/critique-digitale.ch/issues) |
 
 ## Roadmap

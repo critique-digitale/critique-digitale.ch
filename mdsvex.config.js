@@ -8,14 +8,6 @@ const config = defineConfig({
 
 	layout: '/src/lib/components/MdLayout.svelte',
 	remarkPlugins: [],
-	rehypePlugins: [],
-	extensions: ['.svelte.md', '.md', '.svx'],
-
-	smartypants: {
-		dashes: 'oldschool'
-	},
-
-	remarkPlugins: [],
 	rehypePlugins: []
 });
 
