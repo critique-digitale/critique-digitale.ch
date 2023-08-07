@@ -8,6 +8,7 @@
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
+		"postbuild": "jampack .svelte-kit/",
 		"preview": "vite preview",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json --watch",
@@ -18,6 +19,7 @@
 		"test:unit": "vitest"
 	},
 	"devDependencies": {
+		"@divriots/jampack": "^0.13.0",
 		"@playwright/test": "^1.36.2",
 		"@sveltejs/adapter-auto": "^2.1.0",
 		"@sveltejs/kit": "^1.22.4",
