@@ -1,7 +1,7 @@
 <script>
 	import { assets } from '$app/paths';
-	import About from '../lib/components/About.svelte';
-	import Videos from '../lib/components/Videos.svelte';
+	import About from '$lib/components/About.svelte';
+	import Videos from '$lib/components/Videos.svelte';
 	let title = "Unconference 'Digital Criticism' | October 21—22, 2021";
 	let description = 'TBD';
 </script>
