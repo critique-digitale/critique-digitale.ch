@@ -50,6 +50,10 @@
 
 		return `${minutes}:${seconds}`;
 	}
+
+	// Automatically hide controls after 2.5 seconds of inactivity
+	$: clearTimeout(showControlsTimeout);
+	$: showControlsTimeout = setTimeout(() => (showControls = false), 2500);
 </script>
 
 <div>
@@ -104,6 +108,10 @@
 		opacity: 0.7;
 	}
 
+	span:hover {
+		opacity: 1;
+	}
+
 	.time {
 		width: 3em;
 	}
@@ -118,6 +126,7 @@
 		height: 10px;
 		-webkit-appearance: none;
 		appearance: none;
+		border-radius: 5px;
 	}
 
 	progress::-webkit-progress-bar {
@@ -128,7 +137,12 @@
 		background-color: rgba(255, 255, 255, 0.6);
 	}
 
+	progress::-moz-progress-bar {
+		background-color: rgba(255, 255, 255, 0.6);
+	}
+
 	video {
 		width: 100%;
+		cursor: pointer;
 	}
 </style>
