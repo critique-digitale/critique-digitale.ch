@@ -15,7 +15,7 @@
 
 <header id="home">
 	<nav>
-		<a href={base}>
+		<a href="{base}/">
 			<picture>
 				<img
 					alt="Digital Criticism"
