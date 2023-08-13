@@ -7,25 +7,28 @@ The conference programme includes two plenary sessions, three keynotes by leadin
 
 <article>
 
-|       | October 21                                                                                                                                                                                                                                                            |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 08:45 | On-boarding BigBlueButton<br>Provided by CH-Open                                                                                                                                                                                                                      |
-| 09:30 | Introduction by the Organizers &<br>welcome by Dr. Markus Zürcher                                                                                                                                                                                                     |
-| 10:00 | Pitching-Session                                                                                                                                                                                                                                                      |
-| 11:00 | [_Grasping the digital world through its uses._](https://bbb.ch-open.ch/playback/presentation/2.3/31b3f63b08280799c2bffa5d32bd3b0022666ece-1634797796817)<br>_The example of information and journalism_<br>Keynote by Nathalie Pignard Cheynel<br>Voting in progress |
-| 12:00 | Presentation of program & lunch break                                                                                                                                                                                                                                 |
-| 13:30 | Panelslot 1<Panelslot panelslot='1'/>                                                                                                                                                                                                                                 |
-| 14:15 | Break                                                                                                                                                                                                                                                                 |
-| 15:00 | Panelslot 2<Panelslot panelslot='2'/>                                                                                                                                                                                                                                 |
-| 15:45 | Panelslot 3<Panelslot panelslot='3'/>                                                                                                                                                                                                                                 |
-| 16:30 | Break                                                                                                                                                                                                                                                                 |
-| 17:00 | _What is the Place of History of Computing in Critiques of Computing?_<br>Keynote by Mar Hicks                                                                                                                                                                        |
+#### October 21
+
+| Time  | Event                                                                                                                                                                                                                                                               |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08:45 | On-boarding BigBlueButton<br>Provided by CH-Open                                                                                                                                                                                                                    |
+| 09:30 | Introduction by the Organizers &<br>welcome by Dr. Markus Zürcher                                                                                                                                                                                                   |
+| 10:00 | [_Grasping the digital world through its uses._](https://bbb.ch-open.ch/playback/presentation/2.3/31b3f63b08280799c2bffa5d32bd3b0022666ece-1634797796817)<br>The example of information and journalism<br>Keynote by Nathalie Pignard Cheynel<br>Voting in progress |
+| 11:00 | Presentation of program & lunch break                                                                                                                                                                                                                               |
+| 13:30 | Panelslot 1<Panelslot panelslot='1'/>                                                                                                                                                                                                                               |
+| 14:15 | Break                                                                                                                                                                                                                                                               |
+| 15:00 | Panelslot 2<Panelslot panelslot='2'/>                                                                                                                                                                                                                               |
+| 15:45 | Panelslot 3<Panelslot panelslot='3'/>                                                                                                                                                                                                                               |
+| 16:30 | Break                                                                                                                                                                                                                                                               |
+| 17:00 | _What is the Place of History of Computing in Critiques of Computing?_<br>Keynote by Mar Hicks                                                                                                                                                                      |
 
 </article>
 
+#### October 22
+
 <article>
 
-|       | October 22                                                                                                                                                                                   |
+| Time  | Event                                                                                                                                                                                        |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 08:45 |                                                                                                                                                                                              |
 | 09:30 | Welcome Back                                                                                                                                                                                 |
