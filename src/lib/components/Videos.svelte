@@ -51,6 +51,8 @@
 		return `${minutes}:${seconds}`;
 	}
 
+
+	// Automatically hide controls after 2.5 seconds of inactivity
 	$: showControlsTimeout = setTimeout(() => (showControls = false), 2500);
 </script>
 
