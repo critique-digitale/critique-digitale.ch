@@ -92,6 +92,7 @@
 		top: 0;
 		width: 100%;
 		transition: opacity 1s;
+		cursor: pointer;
 	}
 
 	.info {
