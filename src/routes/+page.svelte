@@ -15,14 +15,15 @@
 
 <header id="home">
 	<nav>
-		<a href={base}
-			><img
-				alt="Digital Criticism"
-				src="{assets}/images/digital-criticism-logo-graphics-dc.svg"
-				width="100%"
-				height="100px"
-			/></a
-		>
+		<a href="{base}/">
+			<picture>
+				<img
+					alt="Digital Criticism"
+					src="{assets}/images/digital-criticism-logo-graphics-dc.svg"
+					style="width: 100%; height: 100px;"
+				/>
+			</picture>
+		</a>
 		<ul>
 			<li><a href="{base}#concept" class="secondary-font">Concept</a></li>
 			<li><a href="{base}/#report" class="secondary-font">Report</a></li>
@@ -37,7 +38,9 @@
 			<li><a href="{base}/de">DE</a>|<a href="/fr">FR</a></li>
 		</ul>
 	</nav>
-	<img alt="Digital Criticism" src="{assets}/images/digital-criticism-logo-text.svg" width="100%" />
+	<picture>
+		<img alt="Digital Criticism" src="{assets}/images/digital-criticism-logo-text.svg" style="width: 100%;" />
+	</picture>
 	<p>
 		<b>Unconference October 21—22, 2021</b>
 		<a href="https://infoclio.ch/de/event-ics/158787/event_158787.ics">📅</a>

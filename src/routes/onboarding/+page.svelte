@@ -23,13 +23,11 @@
 
 <header id="home">
 	<nav>
-		<a href="/"
-			><img
-				alt="Digital Criticism"
-				src="images/digital-criticism-logo-text-and-graphics-dc.svg"
-				width="100%"
-			/></a
-		>
+		<a href="/">
+			<picture>
+				<img alt="Digital Criticism" src="images/digital-criticism-logo-text-and-graphics-dc.svg" style="width: 100%;" />
+			</picture>
+		</a>
 		<ul>
 			<li><a href="/">Back</a>|<a href="/de">Zurück</a>|<a href="/fr">Retourner</a></li>
 		</ul>
