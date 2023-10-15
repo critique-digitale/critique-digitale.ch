@@ -1,33 +1,24 @@
-
 Unconference Critique Digitale
 
 Panel 4, Session 2 Zurich
 
 Do., 22.10.21, 10.00 - 10.45
 
-
-
 Title: **From papyri to photographs. Doing research with images.**
-
-
 
 "How do you search for images?"
 
 From the chat: "Ideally, I would search them in old books, or at antiquarian's, even at flea markets (postcards, stamps)... but indeed, due to lack of time and energy, I google: the very job of "iconographist" is gone."
 
-
-
 Uses of images:
 
-Other: 
+Other:
 
 "Describe images in detail"
 
 "I use images mostly to give a text an added hint: not a duplication of the written idea but a metaphor to open the meaning (but I realise I got your question wrong)."
 
 "I include images in storytelling"
-
-
 
 How do you work with images?
 
@@ -51,8 +42,6 @@ Cooperation with Master students in computer science is recommended
 
 Tool for increasing the legibility of papyri: [https://hierax.ch/](https://hierax.ch/)
 
-
-
 Online publications: potential of IIIF: images with metadata and annotations. Re-usablility, especially in scientific publications.
 
 To be developed: methodology how we annotate images
@@ -67,19 +56,13 @@ avoid reproducing research that other people already have done already
 
 a shift of mindset: opening the research, make it more agile (stay flexible with goals, cooperations)
 
-
-
 Art historian perspective: "blown away" by the possibilites of IIIF. Presentation tool - possibilities from museums.
 
 Are these tools (Storiiies etc.) all open source and free? Yes.
 
-
-
 Is there a "world catalogue" of IIIF resources?
 
 There are meta-portals like [https://biblissima.fr/](https://biblissima.fr/), but so far there is no portal where you can search all the IIIF resources. But there is a a graph of worldwide IIIF resources: [https://graph.global/universes/iiif](https://graph.global/universes/iiif).
-
-
 
 Some IIIF tools:
 
@@ -89,16 +72,12 @@ Some IIIF tools:
 
 [https://exhibit.so/](https://exhibit.so/)
 
-
-
 Inputs from the chat:
 
 "My two favorite IIIF catalogues of ancient manuscripts
 
-[https://spotlight.vatlib.it/]([]https://spotlight.vatlib.it/[])
+[https://spotlight.vatlib.it/](https://spotlight.vatlib.it/)
 
-[https://bodmerlab.unige.ch/fr/constellations/papyri]([]https://bodmerlab.unige.ch/fr/constellations/papyri[])"
-
-
+[https://bodmerlab.unige.ch/fr/constellations/papyri](https://bodmerlab.unige.ch/fr/constellations/papyri)"
 
 IIIF tutorials from ZB-Lab (Zentralbibliothek Zürich): [https://www.youtube.com/playlist?list=PLxDekeBVQtVJeRqoTgsif7fJki2X96O-1](https://www.youtube.com/playlist?list=PLxDekeBVQtVJeRqoTgsif7fJki2X96O-1)
