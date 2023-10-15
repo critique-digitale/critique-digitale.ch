@@ -2,6 +2,7 @@
 	import About from '$lib/components/About.svelte';
 	import Meta from '$lib/components/Meta.svelte';
 	import Concept from '$lib/content/Concept.svelte.md';
+	import Report from '$lib/content/Report.svelte.md';
 	import Programme from '$lib/content/Programme.svelte.md';
 	import Organisation from '$lib/content/Organisation.svelte.md';
 	import { base, assets } from '$app/paths';
@@ -14,16 +15,18 @@
 
 <header id="home">
 	<nav>
-		<a href={base}
-			><img
-				alt="Digital Criticism"
-				src="{assets}/images/digital-criticism-logo-graphics-dc.svg"
-				width="100%"
-				height="100px"
-			/></a
-		>
+		<a href="{base}/">
+			<picture>
+				<img
+					alt="Digital Criticism"
+					src="{assets}/images/digital-criticism-logo-graphics-dc.svg"
+					style="width: 100%; height: 100px;"
+				/>
+			</picture>
+		</a>
 		<ul>
 			<li><a href="{base}#concept" class="secondary-font">Concept</a></li>
+			<li><a href="{base}/#report" class="secondary-font">Report</a></li>
 			<li><a href="{base}/#programme" class="secondary-font">Programme</a></li>
 			<li><a href="{base}/#organisation" class="secondary-font">Organisation</a></li>
 			<li>
@@ -35,7 +38,9 @@
 			<li><a href="{base}/de">DE</a>|<a href="/fr">FR</a></li>
 		</ul>
 	</nav>
-	<img alt="Digital Criticism" src="{assets}/images/digital-criticism-logo-text.svg" width="100%" />
+	<picture>
+		<img alt="Digital Criticism" src="{assets}/images/digital-criticism-logo-text.svg" style="width: 100%;" />
+	</picture>
 	<p>
 		<b>Unconference October 21—22, 2021</b>
 		<a href="https://infoclio.ch/de/event-ics/158787/event_158787.ics">📅</a>
@@ -50,6 +55,16 @@
 	</article>
 	<section><a href="{base}/#home" class="secondary-font">⇧ Back up</a></section>
 	<hr />
+
+	<article id="report">
+		<header>
+			<h2>Report</h2>
+		</header>
+		<Report />
+	</article>
+	<section><a href="{base}/#home" class="secondary-font">⇧ Back up</a></section>
+	<hr />
+
 	<article id="programme">
 		<header>
 			<h2>Programme</h2>

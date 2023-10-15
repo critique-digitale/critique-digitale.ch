@@ -173,7 +173,7 @@
 </script>
 
 {#if panels.length > 0}
-	{#each panels as { panel, subsession, title, room, pad }}
+	{#each panels as { panel, title, pad }}
 		{#if panel == panelslot && title != ''}
 			<br />{title} <a href={pad}>📝 Etherpad</a>
 		{/if}

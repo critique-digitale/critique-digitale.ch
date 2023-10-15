@@ -1,3 +1,13 @@
+<script>
+ import { assets } from '$app/paths';
+
+function lightbox (e) {
+    const a = e.target.parentElement;
+    const s = "active";
+    a.classList.contains(s) ? a.classList.remove(s) : a.classList.add(s);
+}
+</script>
+
 ### Introduction
 
 Des centres de recherche de toute la Suisse s'associent pour organiser la première unconference sur la “Critique digitale”. Gratuit et ouvert à toutes et à tous, cet événement unique aura lieu en ligne uniquement les 21 et 22 octobre 2021.
@@ -10,6 +20,8 @@ Après une décennie de recherche sur le ‘Digital Turn’ et son impact sur la
 - Discuter et s'informer sur les recherches en cours (y compris les vôtres) sur les phénomènes liés au numérique.
 - Identifier des défis communs aux différentes disciplines pour les recherches à venir.
 - Échanger sur les caractéristiques des méthodes de recherche digitales
+
+Vous trouverez le rapport (en anglais) de l'événement <a href="{`${assets}/downloads/Critique_Digital_UnconferenceReportJan2022.pdf`}" rel="external">à télécharger ici</a>.
 
 ### Vous avez dit Unconference ?
 
