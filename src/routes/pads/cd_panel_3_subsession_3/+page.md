@@ -1,0 +1,13 @@
+Unconference Critique Digitale
+
+Panel 3, Session 3 Lausanne
+
+Do., 21.10.21, 15.45 - 16.30
+
+Title:**Promesses et contraintes de l’intelligence des réseaux 5G**
+
+Qu’est-ce que la 5G? La cinquième génération des réseaux de télécommunications est annoncée comme le potentiel socle de l’internet des objets et plus largement d’une société du tout numérique. N’est-elle que le prolongement de la 4G, une infrastructure de plus (dont on pourrait se passer) qui accentue simplement le volume et le débit des données numériques échangées? Annonce-t-elle au contraire une rupture bien réelle dans l’histoire des réseaux numériques et des télécommunications, un basculement difficilement mesurable mais inéluctable? L’étude des technologies digitales permet d’approfondir ces questions et d’éviter aussi bien le mythe d’une révolution permanente du numérique que celui d’une histoire linéaire et irréversible. En contournant ces deux mythes, on cherchera à montrer comment la 5G interroge les concepts et les frontières de l’analyse critique du numérique et invite notamment à une histoire plus téléphonique d’Internet. De quelles transformations d’Internet et des télécommunications la 5G pourrait être le réseau, ou plutôt la convergence ?
+
+La majorité des promesses de la 5G repose sur la capacité d’adaptation dynamique de l’infrastructure elle-même, sur l’intelligence d’une multiplicité de réseaux rassemblés par une seule infrastructure, macro-système technique de toutes les connexions. Cette perspective, du point de vue des opérateurs et équipementiers des télécommunications, soulève de nombreuses contraintes et difficultés sociotechniques. En définissant ce réseau comme archipel de technologies distinctes (cloud computing, massive mimo, Software Defined Network et Network Slicing), nous proposons de faire un pas de côté par rapport à l’ampleur des controverses suscitées par la 5G pour étudier les enjeux techniques de son déploiement du point de vue des opérateurs et équipementiers des télécommunications. Cette proposition de discussion sera donc une introduction aux questions de recherche soulevées par la 5G pour l’histoire des télécommunications et des réseaux numériques.
+
+Je commence actuellement une thèse sur le déploiement de la 5G en France en sciences, techniques et sociétés sous la direction de Loïc Petitgirard et Camille Paloque-Bergès au sein du laboratoire HT2S (histoires des technosciences en société) au CNAM (Conservatoire national des arts et métiers). Mon sujet de thèse porte plus précisément sur les promesses de l’intelligence des réseaux de la 5G et les épreuves rencontrées au fil de son déploiement en m’appuyant sur les apports des infrastructure studies.
