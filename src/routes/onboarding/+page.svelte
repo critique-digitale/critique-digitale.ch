@@ -25,7 +25,11 @@
 	<nav>
 		<a href="/">
 			<picture>
-				<img alt="Digital Criticism" src="images/digital-criticism-logo-text-and-graphics-dc.svg" style="width: 100%;" />
+				<img
+					alt="Digital Criticism"
+					src="images/digital-criticism-logo-text-and-graphics-dc.svg"
+					style="width: 100%;"
+				/>
 			</picture>
 		</a>
 		<ul>

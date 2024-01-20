@@ -37,7 +37,11 @@
 		</ul>
 	</nav>
 	<picture>
-		<img alt="Digital Criticism" src="{assets}/images/digital-criticism-logo-text.svg" style="width: 100%;" />
+		<img
+			alt="Digital Criticism"
+			src="{assets}/images/digital-criticism-logo-text.svg"
+			style="width: 100%;"
+		/>
 	</picture>
 	<p>
 		<b>Unconference vom 21. Oktober 2021 bis 22. Oktober 2021</b>
