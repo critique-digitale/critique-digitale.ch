@@ -18,8 +18,8 @@
 		<a href="https://www.dh.unibe.ch/ueber_uns/personen/ma_amsler_claudia/index_ger.html"
 			>Claudia Amsler</a
 		>,
-		<a href="https://www.infoclio.ch">Enrico Natale</a>,
-		<a href="https://www.infoclio.ch">Jan Baumann</a>,
+		<a href="https://www.infoclio.ch/de/%C3%BCber-uns">Enrico Natale</a>,
+		<a href="https://www.infoclio.ch/de/%C3%BCber-uns">Jan Baumann</a>,
 		<a href="https://dhcenter-unil-epfl.ch/en/biography/jessica-pidoux/">Jessica Pidoux</a>,
 		<a href="https://moritzmaehr.ch/">Moritz Mähr</a>,
 		<a href="https://www.linkedin.com/in/mylene-tanferri/s">Mylène Tanferri Machado</a>,
