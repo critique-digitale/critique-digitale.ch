@@ -30,4 +30,4 @@ Mosè: Your last argument is very interesting! In my research i've come across d
 
 Gern Laetitia. 2019. « Commenter sur YouTube : un positionnement politique complexe ». Burger, Marcel (éd). _Se mettre en scène en ligne. La communication digitale, vol.2_., *Cahiers de l’ILSL *59, 75-89
 
-**Laetitia Gern**, « Quand Emmanuel Macron veut réparer le lien entre l’Eglise et l’Etat. La question de l’autorité dans les commentaires YouTube », _Argumentation et Analyse du Discours_ [En ligne], 26 | 2021, mis en ligne le 13 avril 2021, consulté le 21 octobre 2021. URL : [http://journals.openedition.org/aad/4976](http://journals.openedition.org/aad/4976) ; DOI : [https://doi.org/10.4000/aad.4976](https://doi.org/10.4000/aad.4976)
+**Laetitia Gern**, « Quand Emmanuel Macron veut réparer le lien entre l’Eglise et l’Etat. La question de l’autorité dans les commentaires YouTube », _Argumentation et Analyse du Discours_ [En ligne], 26 | 2021, mis en ligne le 13 avril 2021, consulté le 21 octobre 2021. URL : [https://journals.openedition.org/aad/4976](https://journals.openedition.org/aad/4976) ; DOI : [https://doi.org/10.4000/aad.4976](https://doi.org/10.4000/aad.4976)

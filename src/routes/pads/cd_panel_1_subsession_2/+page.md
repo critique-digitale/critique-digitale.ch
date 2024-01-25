@@ -36,9 +36,9 @@ Important concepts:
 
     Large publishers sit in Western Countries \& are against loosening of copyrights for libraries
 
-    [http://nopr.niscair.res.in/handle/123456789/28570](http://nopr.niscair.res.in/handle/123456789/28570)
+    [https://nopr.niscair.res.in/handle/123456789/28570](https://nopr.niscair.res.in/handle/123456789/28570)
 
-    [http://nopr.niscair.res.in/handle/123456789/28579](http://nopr.niscair.res.in/handle/123456789/28579)
+    [https://nopr.niscair.res.in/handle/123456789/28579](https://nopr.niscair.res.in/handle/123456789/28579)
 
     This are two article from Ranganathan, a indian library specialist writing on open access to library and it's effect on empowering people.
 

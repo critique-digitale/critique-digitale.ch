@@ -45,7 +45,7 @@
 	</picture>
 	<p>
 		<b>Unconference vom 21. Oktober 2021 bis 22. Oktober 2021</b>
-		<a href="https://infoclio.ch/de/event-ics/158787/event_158787.ics">📅</a>
+		📅
 	</p>
 </header>
 

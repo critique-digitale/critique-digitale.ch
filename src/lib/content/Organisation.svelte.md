@@ -7,7 +7,7 @@
 
 Registration is free of charge. Upon registration you will receive a link to access the conference virtual space. Additionally, we will send you a small gift per postal mail as a souvenir.
 
-Please register online [here](https://www.infoclio.ch/en/unconference-digital-critique-information-list-liste-dinformations-informationsliste).
+Please register online [here (closed)](#).
 
 ### Pitching and voting procedures
 

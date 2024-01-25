@@ -14,7 +14,7 @@ Philosophy of Photography
 
 [https://en.wikipedia.org/wiki/Vil%C3%A9m_Flusser](https://en.wikipedia.org/wiki/Vil%C3%A9m_Flusser)
 
-Pasquinelli, Matteo. « Google’s PageRank Algorithm: A Diagram of Cognitive Capitalism and the Rentier of the Common Intellect ». In Deep Search, édité par Konrad Becker et Felix Stalder. London: Transaction Publishers, 2009. [http://matteopasquinelli.com/society-of-the-query](http://matteopasquinelli.com/society-of-the-query).
+Pasquinelli, Matteo. « Google’s PageRank Algorithm: A Diagram of Cognitive Capitalism and the Rentier of the Common Intellect ». In Deep Search, édité par Konrad Becker et Felix Stalder. London: Transaction Publishers, 2009. [https://matteopasquinelli.com/society-of-the-query](https://matteopasquinelli.com/society-of-the-query).
 
 Pasquinelli, M. « Italian Operaismo and the Information Machine ». Theory, Culture \& Society 32, no 3 (2015): 49‑68.
 

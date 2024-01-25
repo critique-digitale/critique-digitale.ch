@@ -45,7 +45,7 @@
 	</picture>
 	<p>
 		<b>Unconférence du 21 octobre 2021 au 22 octobre 2021</b>
-		<a href="https://infoclio.ch/de/event-ics/158787/event_158787.ics">📅</a>
+		📅
 	</p>
 </header>
 <main>
