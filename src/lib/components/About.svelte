@@ -27,7 +27,7 @@
 			>Tobias Hodel</a
 		>,
 		<a href="https://philhist.unibas.ch/de/personen/vera-chiquet/">Vera Chiquet</a> &
-		<a href="https://waqwaq.info/">Vlad Atanasiu</a>.
+		<a href="http://waqwaq.info/">Vlad Atanasiu</a>.
 	</div>
 </section>
 <br />
