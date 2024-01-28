@@ -22,7 +22,7 @@
 		<a href="https://www.infoclio.ch/de/%C3%BCber-uns">Jan Baumann</a>,
 		<a href="https://dhcenter-unil-epfl.ch/en/biography/jessica-pidoux/">Jessica Pidoux</a>,
 		<a href="https://moritzmaehr.ch/">Moritz Mähr</a>,
-		<a href="https://www.linkedin.com/in/mylene-tanferri/s">Mylène Tanferri Machado</a>,
+		<a href="https://www.linkedin.com/in/mylene-tanferri/">Mylène Tanferri Machado</a>,
 		<a href="https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
 			>Tobias Hodel</a
 		>,
