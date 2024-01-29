@@ -80,7 +80,7 @@ selfie et de pas voir quelqu’un qui arrive juste en face." Vivien
 
 Le temps est écoulé, mais Valérian a écrit un article d'ouvrage sur la question :
 
-Geffroy, V. (2020). Help or hindrance ? Media uses and discourses on media in outdoor sport tourism. In M. Stock (Éd.), _Progress in French Tourism Geographies : Inhabiting Touristic Worlds_ (Springer). [https://www.springer.com/gp/book/9783030521356#aboutBook](https://www.springer.com/gp/book/9783030521356#aboutBook)
+Geffroy, V. (2020). Help or hindrance ? Media uses and discourses on media in outdoor sport tourism. In M. Stock (Éd.), _Progress in French Tourism Geographies : Inhabiting Touristic Worlds_ (Springer). <https://link.springer.com/book/10.1007/978-3-030-52136-3#aboutBook>
 
 **Some ideas from the discussion:**
 

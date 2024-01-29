@@ -7,7 +7,7 @@
 
 Die Registrierung ist gratis. Nach der erfolgreichen Registrierung wird ein Link zum virtuellen Konferenzraum versendet. Zusätzlich werden wir ein kleines Geschenk per Post verschicken.
 
-Hier geht's zur [online Registrierung](https://www.infoclio.ch/en/unconference-digital-critique-information-list-liste-dinformations-informationsliste).
+Hier geht's zur [online Registrierung (geschlossen)](#).
 
 ### Ablauf des Pitching und der Auswahl
 

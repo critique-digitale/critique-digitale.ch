@@ -7,7 +7,7 @@
 
 L’inscription est gratuite. Après l’inscription vous recevrez un lien pour accéder à l’espace virtuel de la conférence. Additionnellement, nous vous enverrons par courrier postal un petit cadeau comme souvenir.
 
-Inscrivez-vous en ligne [ici](https://www.infoclio.ch/fr/unconference-digital-critique-information-list-liste-dinformations-informationsliste).
+Inscrivez-vous en ligne [ici (fermé)](#).
 
 ### Pitching et Procédures de vote
 
@@ -66,7 +66,7 @@ Cet événement est ouvert à toutes les personnes intéressées à discuter des
 
 La conférence aura lieu sur BigBlueButton (BBB), un logiciel de visio-conférence open source développé par CH-Open, une organisation suisse qui promeut l’open source, la protection de la sphère privée et les standards de données ouvertes. en Suisse. Des guides sur l’utilisation de BigBlueButton sont disponibles: [manual](../downloads/Manual_BigBlueButton.pdf) et [tutorials](https://bigbluebutton.org/teachers/tutorials/).
 
-Le vote sur le programme se fera via l’application mieuxvoter.fr. Des informations sur le système de votre majoritaire sont disponibles [ici](https://mieuxvoter.fr/index.php/decouvrir/).
+Le vote sur le programme se fera via l’application mieuxvoter.fr. Des informations sur le système de votre majoritaire sont disponibles [ici (the link is dead)](#).
 
 </details>
 

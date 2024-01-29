@@ -29,7 +29,7 @@ How does reputation of DH projects work within SNF/other areas of interest?
 
 References/Resources
 
-- what ETH is offering in terms of science com: [https://ethz.ch/en/the-eth-zurich/organisation/departments/corporate-communications/communication-academy.html](https://ethz.ch/en/the-eth-zurich/organisation/departments/corporate-communications/communication-academy.html)
+- what ETH is offering in terms of science com: https://ethz.ch/en/the-eth-zurich/organisation/departments/corporate-communications/communication-academy.html (dead link)
 - Twitter for digital historians [https://twitter.com/i/lists/1180808829984022529](https://twitter.com/i/lists/1180808829984022529)
 - Digital Humanities by @GrandjeanMartin [https://twitter.com/i/lists/103524224](https://twitter.com/i/lists/103524224)
 - Digital Humanities by @normanlippert [https://twitter.com/i/lists/92600340](https://twitter.com/i/lists/92600340)

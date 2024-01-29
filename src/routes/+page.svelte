@@ -32,6 +32,7 @@
 			<li>
 				<a
 					href="https://www.infoclio.ch/en/unconference-digital-critique-information-list-liste-dinformations-informationsliste"
+					target="_blank"
 					class="secondary-font">Registration</a
 				>
 			</li>
@@ -39,11 +40,15 @@
 		</ul>
 	</nav>
 	<picture>
-		<img alt="Digital Criticism" src="{assets}/images/digital-criticism-logo-text.svg" style="width: 100%;" />
+		<img
+			alt="Digital Criticism"
+			src="{assets}/images/digital-criticism-logo-text.svg"
+			style="width: 100%;"
+		/>
 	</picture>
 	<p>
 		<b>Unconference October 21—22, 2021</b>
-		<a href="https://infoclio.ch/de/event-ics/158787/event_158787.ics">📅</a>
+		📅
 	</p>
 </header>
 <main>

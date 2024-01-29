@@ -51,8 +51,8 @@ Resources/Reference:
 
 - mydataglobal [https://mydata.org/](https://mydata.org/), great community present in all fronts academia, private and public domains, there is mydata zurich, mydata vaud, mydata geneva
 - SITRA inspiring models: [https://www.sitra.fi/en/topics/health-data-2030/](https://www.sitra.fi/en/topics/health-data-2030/)
-- Marie-Pierre Vidonne for wikimedia [https://ch.linkedin.com/in/vidonne](https://ch.linkedin.com/in/vidonne) <marie-pierre.vidonne@protonmail.ch>,
+- Marie-Pierre Vidonne for wikimedia <https://www.linkedin.com/in/vidonne/> <marie-pierre.vidonne@protonmail.ch>,
 - Another contact working in the industry and public
-  [https://www.linkedin.com/in/jenlaplante/](https://www.linkedin.com/in/jenlaplante/)
+  <https://www.linkedin.com/in/jenlaplante/>
 
 - Paul-Olivier Dehaye in personal data protection and creating an alternative model to GAFAM <paulolivier@hestia.ai>, was in academia, now in industry and NGO's
