@@ -15,7 +15,7 @@ const config = defineConfig({
 		remarkGfm // Adds support for GFM (fenced code blocks, strikethrough, tables, etc)
 	],
 	rehypePlugins: [
-		rehypeExternalLinks, // Adds 'target' and 'rel' to external links
+		[rehypeExternalLinks, { target: '_blank' }],
 		rehypeSlug, // Adds 'id' attributes to Headings (h1,h2,etc)
 		rehypeAutolinkHeadings
 	]

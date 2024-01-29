@@ -5,36 +5,46 @@
 <section>
 	<div>
 		<a
+			target="_blank"
 			href="https://www.unil.ch/collaboratoire/fr/home/menuinst/qui-sommes-nous/notre-equipe/camus-alexandre.html"
 			>Alexandre Camus</a
 		>,
 		<a
+			target="_blank"
 			href="https://www.unige.ch/cide/fr/le-centre/enseignants-et-collaborateurs/corps-des-collaborateurs-de-lenseignement-et-de-la-recherche/sarli-andre/"
 			>André Cardozo Sarli</a
 		>,
-		<a href="https://dhcenter-unil-epfl.com/en/biography/charlotte-mazel-cabasse/"
+		<a target="_blank" href="https://dhcenter-unil-epfl.com/en/biography/charlotte-mazel-cabasse/"
 			>Charlotte Mazel-Cabasse</a
 		>,
-		<a href="https://www.dh.unibe.ch/ueber_uns/personen/ma_amsler_claudia/index_ger.html"
+		<a
+			target="_blank"
+			href="https://www.dh.unibe.ch/ueber_uns/personen/ma_amsler_claudia/index_ger.html"
 			>Claudia Amsler</a
 		>,
-		<a href="https://www.infoclio.ch/de/%C3%BCber-uns">Enrico Natale</a>,
-		<a href="https://www.infoclio.ch/de/%C3%BCber-uns">Jan Baumann</a>,
-		<a href="https://dhcenter-unil-epfl.ch/en/biography/jessica-pidoux/">Jessica Pidoux</a>,
-		<a href="https://moritzmaehr.ch/">Moritz Mähr</a>,
-		<a href="https://www.linkedin.com/in/mylene-tanferri/">Mylène Tanferri Machado</a>,
-		<a href="https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
+		<a target="_blank" href="https://www.infoclio.ch/de/%C3%BCber-uns">Enrico Natale</a>,
+		<a target="_blank" href="https://www.infoclio.ch/de/%C3%BCber-uns">Jan Baumann</a>,
+		<a target="_blank" href="https://dhcenter-unil-epfl.ch/en/biography/jessica-pidoux/"
+			>Jessica Pidoux</a
+		>,
+		<a target="_blank" href="https://moritzmaehr.ch/">Moritz Mähr</a>,
+		<a target="_blank" href="https://www.linkedin.com/in/mylene-tanferri">Mylène Tanferri Machado</a
+		>,
+		<a
+			target="_blank"
+			href="https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
 			>Tobias Hodel</a
 		>,
-		<a href="https://philhist.unibas.ch/de/personen/vera-chiquet/">Vera Chiquet</a> &
-		<a href="http://waqwaq.info/">Vlad Atanasiu</a>.
+		<a target="_blank" href="https://philhist.unibas.ch/de/personen/vera-chiquet/">Vera Chiquet</a>
+		&
+		<a target="_blank" href="http://waqwaq.info/">Vlad Atanasiu</a>.
 	</div>
 </section>
 <br />
 <br />
 <br />
 <section>
-	<a href="https://infoclio.ch/">
+	<a target="_blank" href="https://infoclio.ch/">
 		<aside>
 			<figure>
 				<picture>
@@ -43,7 +53,7 @@
 			</figure>
 		</aside>
 	</a>
-	<a href="https://www.unige.ch/">
+	<a target="_blank" href="https://www.unige.ch/">
 		<aside>
 			<figure>
 				<picture>
@@ -52,7 +62,7 @@
 			</figure>
 		</aside>
 	</a>
-	<a href="https://dhlab.philhist.unibas.ch/">
+	<a target="_blank" href="https://dhlab.philhist.unibas.ch/">
 		<aside>
 			<figure>
 				<picture>
@@ -61,7 +71,7 @@
 			</figure>
 		</aside>
 	</a>
-	<a href="https://dhcenter-unil-epfl.com/">
+	<a target="_blank" href="https://dhcenter-unil-epfl.com/">
 		<aside>
 			<figure>
 				<picture>
@@ -70,7 +80,7 @@
 			</figure>
 		</aside>
 	</a>
-	<a href="https://www.unibe.ch/">
+	<a target="_blank" href="https://www.unibe.ch/">
 		<aside>
 			<figure>
 				<picture>
@@ -79,7 +89,7 @@
 			</figure>
 		</aside>
 	</a>
-	<a href="https://unibas.ch/">
+	<a target="_blank" href="https://unibas.ch/">
 		<aside>
 			<figure>
 				<picture>
@@ -88,7 +98,7 @@
 			</figure>
 		</aside>
 	</a>
-	<a href="https://unil.ch/index.html">
+	<a target="_blank" href="https://unil.ch/index.html">
 		<aside>
 			<figure>
 				<picture>
@@ -97,7 +107,7 @@
 			</figure>
 		</aside>
 	</a>
-	<a href="https://www.sagw.ch/">
+	<a target="_blank" href="https://www.sagw.ch/">
 		<aside>
 			<figure>
 				<picture>
@@ -106,7 +116,7 @@
 			</figure>
 		</aside>
 	</a>
-	<a href="https://www.lasuissenexistepas.ch/fr/home.html">
+	<a target="_blank" href="https://www.lasuissenexistepas.ch/fr/home.html">
 		<aside>
 			<figure>
 				<picture>

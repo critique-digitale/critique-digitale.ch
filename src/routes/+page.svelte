@@ -32,6 +32,7 @@
 			<li>
 				<a
 					href="https://www.infoclio.ch/en/unconference-digital-critique-information-list-liste-dinformations-informationsliste"
+					target="_blank"
 					class="secondary-font">Registration</a
 				>
 			</li>
