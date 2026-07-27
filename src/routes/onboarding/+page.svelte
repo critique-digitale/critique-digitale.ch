@@ -33,7 +33,7 @@
 			</picture>
 		</a>
 		<ul>
-			<li><a href="{base}#concept" class="secondary-font">Concept</a></li>
+			<li><a href="{base}/#concept" class="secondary-font">Concept</a></li>
 			<li><a href="{base}/#report" class="secondary-font">Report</a></li>
 			<li><a href="{base}/#programme" class="secondary-font">Programme</a></li>
 			<li><a href="{base}/#organisation" class="secondary-font">Organisation</a></li>
@@ -44,7 +44,7 @@
 					class="secondary-font">Registration</a
 				>
 			</li>
-			<li><a href="{base}/de">DE</a>|<a href="/fr">FR</a></li>
+			<li><a href="{base}/de">DE</a>|<a href="{base}/fr">FR</a></li>
 		</ul>
 	</nav>
 	<picture>

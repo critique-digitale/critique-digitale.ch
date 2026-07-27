@@ -24,9 +24,9 @@
 			</picture>
 		</a>
 		<ul>
-			<li><a href="{base}/de/#concept" class="secondary-font">Konzept</a></li>
-			<li><a href="{base}/de/#programme" class="secondary-font">Programm</a></li>
-			<li><a href="{base}/de/#organisation" class="secondary-font">Organisation</a></li>
+			<li><a href="{base}/de#concept" class="secondary-font">Konzept</a></li>
+			<li><a href="{base}/de#programme" class="secondary-font">Programm</a></li>
+			<li><a href="{base}/de#organisation" class="secondary-font">Organisation</a></li>
 			<li>
 				<a
 					href="https://www.infoclio.ch/de/unconference-digital-critique-information-list-liste-dinformations-informationsliste"
@@ -57,7 +57,7 @@
 		</header>
 		<Concept />
 	</article>
-	<section><a href="{base}/de/#home" class="secondary-font">⇧ Zurück</a></section>
+	<section><a href="{base}/de#home" class="secondary-font">⇧ Zurück</a></section>
 	<hr />
 	<article id="programme">
 		<header>
@@ -65,7 +65,7 @@
 		</header>
 		<Programme />
 	</article>
-	<section><a href="{base}/de/#home" class="secondary-font">⇧ Zurück</a></section>
+	<section><a href="{base}/de#home" class="secondary-font">⇧ Zurück</a></section>
 	<hr />
 	<article id="organisation">
 		<header>
@@ -73,7 +73,7 @@
 		</header>
 		<Organisation />
 	</article>
-	<section><a href="{base}/de/#home" class="secondary-font">⇧ Zurück</a></section>
+	<section><a href="{base}/de#home" class="secondary-font">⇧ Zurück</a></section>
 	<hr />
 </main>
 
@@ -84,5 +84,5 @@
 	<About />
 	<h3>Kontakt</h3>
 	<p><a href="mailto:info@critique-digitale.ch">info@critique-digitale.ch</a></p>
-	<section><a href="{base}/de/#home" class="secondary-font">⇧ Zurück</a></section>
+	<section><a href="{base}/de#home" class="secondary-font">⇧ Zurück</a></section>
 </footer>
